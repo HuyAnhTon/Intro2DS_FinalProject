@@ -1,0 +1,2003 @@
+Name,Marketcap,Country,Share price,Change (1 day),Change (1 year),Categories
+Apple,$3.043 T,USA,$195.71,0.74%,37.20%,"👨‍💻 Software, 👩‍💻 Tech, 🔌 Electronics, 🇺🇸 Dow jones, 💻 Tech Hardware"
+Microsoft,$2.781 T,USA,$374.23,0.88%,51.27%,"👨‍💻 Software, 👩‍💻 Tech, 🎮 Video games, 🇺🇸 Dow jones, 🦾 AI"
+Saudi Aramco,$2.133 T,Saudi Arabia,$8.82,0.15%,16.05%,"🛢 Oil&Gas, ⚡ Energy"
+Alphabet (Google),$1.698 T,USA,$136.64,-1.31%,45.44%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech, 🤖 Autonomous driving, 🦾 AI"
+Amazon,$1.523 T,USA,$147.42,0.37%,63.17%,"🛒 E-Commerce, 🛍️ Retail, 🖥️ Internet, 👩‍💻 Tech"
+NVIDIA,$1.173 T,USA,$475.06,1.95%,176.70%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware, 🤖 Autonomous driving, 🦾 AI"
+Meta Platforms (Facebook),$855.12 B,USA,$332.75,1.89%,188.52%,"🖥️ Internet, 👩‍💻 Tech, 🦾 AI"
+Berkshire Hathaway,$770.70 B,USA,$353.08,0.11%,15.39%,💰 Investment
+Tesla,$775.14 B,USA,$243.84,0.49%,40.59%,"🚗 Automakers, 👩‍💻 Tech, 🔋 Electric Vehicles, ₿ Bitcoin, 🏭 Manufacturing, 🔌​ EV charging, 🤖 Autonomous driving, 🦾 AI"
+Eli Lilly,$567.73 B,USA,$598.05,1.66%,60.86%,"💊 Pharmaceuticals, 🧬 Biotech"
+Visa,$525.12 B,USA,$255.74,-0.03%,22.31%,"💳 Financial services, 🇺🇸 Dow jones"
+TSMC,$520.45 B,Taiwan,$100.35,1.07%,24.20%,"📟 Semiconductors, 👩‍💻 Tech, 🏭 Manufacturing, 💻 Tech Hardware"
+UnitedHealth,$508.49 B,USA,$549.77,0.27%,0.34%,"⚕️ Healthcare, 🏦 Insurance, 🇺🇸 Dow jones"
+JPMorgan Chase,$458.28 B,USA,$158.52,1.10%,19.30%,"🏦 Banks, 💳 Financial services, 🇺🇸 Dow jones"
+Novo Nordisk,$431.00 B,Denmark,$96.64,-0.18%,51.24%,"💊 Pharmaceuticals, 🧬 Biotech"
+Walmart,$406.14 B,USA,$150.86,-1.05%,1.40%,"🛍️ Retail, 🇺🇸 Dow jones, 🛒 Supermarket Chains"
+LVMH,$398.42 B,France,$797.65,3.28%,5.52%,"👚 Clothing, ⌚ Luxury goods, 🇫🇷 CAC 40"
+Exxon Mobil,$397.87 B,USA,$99.55,1.15%,-4.66%,"🛢 Oil&Gas, ⚡ Energy"
+Mastercard,$386.51 B,USA,$412.16,-0.24%,17.37%,💳 Financial services
+Broadcom,$389.99 B,USA,$944.30,2.39%,77.81%,"📟 Semiconductors, 👩‍💻 Tech"
+Johnson & Johnson,$371.73 B,USA,$154.42,-0.63%,-12.86%,"💊 Pharmaceuticals, 🇺🇸 Dow jones, 🧬 Biotech"
+Tencent,$371.34 B,China,$38.92,-1.59%,-4.79%,"🖥️ Internet, 👩‍💻 Tech, 🎮 Video games, 🕹️ Esports"
+Samsung,$366.75 B,South Korea,$55.30,1.54%,22.75%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 🏭 Manufacturing, 💻 Tech Hardware"
+Procter & Gamble,$342.10 B,USA,$145.15,-0.92%,-4.08%,"🛍 Consumer goods, 🇺🇸 Dow jones"
+Home Depot,$324.92 B,USA,$326.47,0.09%,0.73%,"🛍️ Retail, 🇺🇸 Dow jones"
+Oracle,$311.22 B,USA,$113.61,0.66%,41.89%,"👨‍💻 Software, 👩‍💻 Tech"
+Nestlé,$302.88 B,Switzerland,$113.52,0.72%,-2.45%,🍴 Food
+Kweichow Moutai,$298.95 B,China,$237.98,0.29%,-1.64%,"🍷 Alcoholic beverages, 🥤 Beverages"
+ASML,$274.80 B,Netherlands,$696.43,-0.46%,14.75%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Adobe,$277.73 B,USA,$610.01,0.20%,83.42%,"👨‍💻 Software, 👩‍💻 Tech"
+Chevron,$272.42 B,USA,$144.31,1.33%,-16.84%,"🛢 Oil&Gas, 🇺🇸 Dow jones, ⚡ Energy"
+Costco,$270.41 B,USA,$610.78,-0.03%,26.87%,"🛍️ Retail, 🛒 Supermarket Chains"
+AbbVie,$263.55 B,USA,$149.28,0.89%,-10.07%,"💊 Pharmaceuticals, 🧬 Biotech"
+Merck,$262.90 B,USA,$103.75,-0.13%,-6.41%,"💊 Pharmaceuticals, 🇺🇸 Dow jones, 🧬 Biotech"
+L'Oréal,$255.04 B,France,$476.96,0.73%,27.80%,"🛍 Consumer goods, 🇫🇷 CAC 40, 💄 Cosmetics and Beauty"
+Coca-Cola,$253.39 B,USA,$58.61,-0.22%,-8.15%,"🥤 Beverages, 🇺🇸 Dow jones"
+Toyota,$252.74 B,Japan,$187.28,-1.56%,31.63%,"🚗 Automakers, 🏭 Manufacturing"
+Bank of America,$245.00 B,USA,$30.96,0.98%,-4.56%,"🏦 Banks, 💳 Financial services"
+Salesforce,$242.78 B,USA,$250.81,0.79%,92.74%,"👨‍💻 Software, 👩‍💻 Tech, 🇺🇸 Dow jones"
+International Holding Company,$238.64 B,eu United Arab Emirates,$108.79,0.00%,-2.56%,"💰 Investment, 🏙 Conglomerate"
+Roche,$233.36 B,Switzerland,$289.34,1.54%,-10.20%,"💊 Pharmaceuticals, 🧬 Biotech"
+Pepsico,$227.78 B,USA,$165.68,-1.06%,-9.85%,🥤 Beverages
+Hermès,$224.06 B,France,"$2,139",1.48%,34.10%,"⌚ Luxury goods, 🇫🇷 CAC 40"
+ICBC,$218.76 B,China,$0.46,-0.27%,-6.12%,"🏦 Banks, 💳 Financial services"
+Accenture,$211.82 B,Ireland,$337.23,0.64%,15.43%,💼 Professional services
+Shell,$210.08 B,UK,$64.14,1.38%,13.34%,"🛢 Oil&Gas, ⚡ Energy"
+McDonald,$207.10 B,USA,$285.53,-0.44%,4.44%,"🍔 Restaurant chains, 🍴 Food, 🇺🇸 Dow jones"
+AMD,$208.27 B,USA,$128.92,0.43%,82.94%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Reliance Industries,$199.33 B,India,$29.46,-0.05%,-8.54%,🏙 Conglomerate
+Novartis,$198.87 B,Switzerland,$96.30,0.39%,5.15%,"💊 Pharmaceuticals, 🧬 Biotech"
+Netflix,$198.60 B,USA,$453.76,0.39%,46.25%,"🖥️ Internet, 👩‍💻 Tech, Entertainment"
+AstraZeneca,$196.51 B,UK,$63.25,-0.41%,-8.56%,"💊 Pharmaceuticals, 🧬 Biotech"
+Cisco,$196.59 B,USA,$48.38,0.25%,-1.25%,"👩‍💻 Tech, 🔌 Electronics, 📞 Networking hardware, 🇺🇸 Dow jones, 📡 Telecommunications equipment, 💻 Tech Hardware"
+Linde,$194.57 B,UK,$401.27,0.66%,19.91%,🧪 Chemicals
+Thermo Fisher Scientific,$189.23 B,USA,$489.77,-0.88%,-13.77%,"⚕️ Diagnostics and Testing, 🧬 Biotech, 🔬 Scientific & Technical Instruments"
+SAP,$187.33 B,Germany,$160.16,0.51%,48.54%,"👨‍💻 Software, 👩‍💻 Tech, 🇩🇪 DAX"
+Alibaba,$183.87 B,China,$72.14,-0.26%,-23.39%,"🛒 E-Commerce, 🛍️ Retail, 🖥️ Internet, 👩‍💻 Tech"
+Pinduoduo,$184.62 B,China,$138.96,-0.95%,52.52%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+Abbott Laboratories,$181.43 B,USA,$104.51,0.44%,-2.25%,Medical devices
+T-Mobile US,$180.87 B,USA,$156.40,0.03%,8.75%,📡 Telecommunication
+Intel,$180.02 B,USA,$42.70,1.30%,50.14%,"📟 Semiconductors, 👩‍💻 Tech, 🇺🇸 Dow jones, 🏭 Manufacturing, 💻 Tech Hardware"
+Nike,$176.40 B,USA,$115.91,0.96%,4.09%,"👚 Clothing, 🎾 Sports goods, 👟 Footwear, 🇺🇸 Dow jones"
+China Mobile,$175.16 B,China,$7.99,-0.40%,21.06%,📡 Telecommunication
+Agricultural Bank of China,$170.20 B,China,$0.50,0.28%,19.05%,"🏦 Banks, 💳 Financial services"
+Walt Disney,$169.89 B,USA,$92.82,0.84%,0.29%,"Entertainment, 🇺🇸 Dow jones"
+PetroChina,$168.37 B,China,$0.96,1.33%,29.73%,"🛢 Oil&Gas, ⚡ Energy"
+Comcast,$169.45 B,USA,$42.10,-0.17%,20.39%,"📰 Media/Press, 📡 Telecommunication, Entertainment"
+Wells Fargo,$167.41 B,USA,$46.10,1.54%,8.27%,"🏦 Banks, 💳 Financial services"
+Pfizer,$162.50 B,USA,$28.78,0.52%,-44.42%,"💊 Pharmaceuticals, 🧬 Biotech"
+Danaher,$160.70 B,USA,$217.49,-0.65%,-9.75%,🏙 Conglomerate
+HDFC Bank,$163.28 B,India,$64.54,1.86%,-5.13%,"🏦 Banks, 💳 Financial services"
+Verizon,$160.80 B,USA,$38.25,-1.03%,3.10%,"📡 Telecommunication, 🇺🇸 Dow jones"
+Tata Consultancy Services,$159.20 B,India,$43.51,0.33%,6.83%,"💼 Professional services, 🖥️ IT services"
+Intuit,$160.65 B,USA,$573.90,0.42%,41.58%,"👨‍💻 Software, 👩‍💻 Tech"
+BHP Group,$158.05 B,Australia,$62.46,-0.37%,-1.59%,⛏️ Mining
+TotalEnergies,$157.27 B,France,$66.57,1.62%,11.40%,"🛢 Oil&Gas, 🇫🇷 CAC 40, ⚡ Energy"
+HSBC,$151.57 B,UK,$39.21,1.00%,29.71%,"🏦 Banks, 💳 Financial services"
+QUALCOMM,$147.99 B,USA,$132.97,0.02%,9.22%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+IBM,$147.88 B,USA,$161.96,1.09%,9.60%,"👨‍💻 Software, 👩‍💻 Tech, 🇺🇸 Dow jones, 🦾 AI"
+China Construction Bank,$144.90 B,China,$0.89,0.79%,9.88%,"🏦 Banks, 💳 Financial services"
+Bank of China,$146.04 B,China,$0.55,-1.25%,22.22%,"🏦 Banks, 💳 Financial services"
+Boeing,$148.03 B,USA,$244.70,3.11%,36.64%,"✈️ Aircraft manufacturers, 🚀 Aerospace, 🇺🇸 Dow jones, 🏭 Manufacturing"
+Amgen,$144.02 B,USA,$269.12,-0.81%,-5.76%,"💊 Pharmaceuticals, 🇺🇸 Dow jones, 🧬 Biotech"
+ServiceNow,$143.34 B,USA,$699.08,1.66%,76.43%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech"
+Texas Instruments,$142.61 B,USA,$157.03,-0.41%,-10.96%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Prosus,$141.83 B,Netherlands,$32.46,-0.07%,4.51%,💰 Investment
+Philip Morris,$141.75 B,USA,$91.31,0.21%,-10.53%,🚬 Tobacco
+Union Pacific Corporation,$140.06 B,USA,$229.77,-0.74%,7.86%,"🚂 Railways, 🚚 Transportation, 🛣️ Infrastructure"
+Siemens,$138.85 B,Germany,$175.29,0.57%,26.32%,"👷 Engineering, 🇩🇪 DAX"
+Dior,$138.23 B,France,$766.24,3.27%,1.58%,"👚 Clothing, ⌚ Luxury goods"
+United Parcel Service,$133.15 B,USA,$156.30,-0.13%,-12.99%,"📦 Courier, 🚚 Transportation"
+Morgan Stanley,$135.04 B,USA,$82.28,2.40%,-7.23%,"🏦 Banks, 💳 Financial services, 💰 Investment"
+ConocoPhillips,$133.07 B,USA,$112.07,1.10%,-0.47%,"🛢 Oil&Gas, ⚡ Energy"
+Caterpillar,$132.10 B,USA,$259.50,0.81%,12.38%,"🇺🇸 Dow jones, ⚙️ Machinery manufacturing, 🏭 Manufacturing"
+S&P Global,$131.59 B,USA,$415.38,-0.48%,17.73%,💳 Financial services
+General Electric,$131.24 B,USA,$120.59,0.93%,84.73%,🏙 Conglomerate
+Honeywell,$128.29 B,USA,$194.61,-1.61%,-8.78%,"🚀 Aerospace, 🔫 Defense contractors, 🇺🇸 Dow jones"
+Royal Bank Of Canada,$129.65 B,Canada,$92.18,0.83%,-4.62%,"🏦 Banks, 💳 Financial services"
+Uber,$126.96 B,USA,$61.70,1.18%,133.27%,"🖥️ Internet, 👩‍💻 Tech, 🚚 Transportation, 🚘 Ridesharing"
+Inditex,$127.32 B,Spain,$20.45,0.71%,58.77%,"👚 Clothing, 🛍️ Retail"
+Anheuser-Busch Inbev,$125.20 B,Belgium,$63.02,0.22%,5.79%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Applied Materials,$123.57 B,USA,$147.72,-0.45%,36.01%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+American Express,$122.74 B,USA,$168.43,-0.11%,9.28%,"💳 Financial services, 🇺🇸 Dow jones"
+Nextera Energy,$122.48 B,USA,$59.70,-0.25%,-30.39%,"🔋 Electricity, 🚰 Utility companies, 🌞 Renewable energy, ⚡ Energy"
+AT&T,$120.97 B,USA,$16.92,-0.99%,-11.51%,📡 Telecommunication
+Deutsche Telekom,$121.36 B,Germany,$24.41,0.07%,20.31%,"📡 Telecommunication, 🇩🇪 DAX"
+Airbus,$120.67 B,Netherlands,$153.05,2.50%,32.18%,"✈️ Aircraft manufacturers, 🚀 Aerospace, 🇫🇷 CAC 40, 🇩🇪 DAX, 🏭 Manufacturing"
+Unilever,$119.55 B,UK,$47.45,-1.02%,-5.85%,"🍴 Food, 🛍 Consumer goods"
+Lowe's Companies,$119.52 B,USA,$207.83,-0.23%,2.10%,🛍️ Retail
+Commonwealth Bank,$117.28 B,Australia,$70.04,0.16%,-1.17%,"🏦 Banks, 💳 Financial services"
+Raytheon Technologies,$116.93 B,USA,$81.32,-0.22%,-18.26%,"🚀 Aerospace, 🔫 Defense contractors"
+Sanofi,$116.16 B,France,$46.32,0.56%,-1.28%,"💊 Pharmaceuticals, 🇫🇷 CAC 40, 🧬 Biotech"
+Rio Tinto,$113.85 B,UK,$70.17,-0.38%,-2.27%,⛏️ Mining
+Charles Schwab,$116.77 B,USA,$64.07,1.76%,-20.16%,"🏦 Banks, 💳 Financial services"
+Goldman Sachs,$114.40 B,USA,$350.83,1.80%,-2.02%,"🏦 Banks, 💳 Financial services, 🇺🇸 Dow jones"
+Booking Holdings (Booking.com),$114.26 B,USA,"$3,275",1.13%,62.87%,"🖥️ Internet, 👩‍💻 Tech, 🌴 Travel, 🌴 Online Travel"
+Elevance Health,$112.30 B,USA,$477.97,0.21%,-9.67%,"⚕️ Healthcare, 🏦 Insurance"
+Lockheed Martin,$111.15 B,USA,$448.02,0.20%,-7.70%,"✈️ Aircraft manufacturers, 🚀 Aerospace, 🔫 Defense contractors, 🏭 Manufacturing"
+BlackRock,$110.78 B,USA,$744.73,-0.10%,5.87%,💰 Investment
+Prologis,$110.73 B,USA,$119.85,0.76%,1.91%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Stryker Corporation,$109.84 B,USA,$289.10,-0.10%,16.65%,Medical devices
+Starbucks,$109.81 B,USA,$96.61,0.18%,-6.87%,🥤 Beverages
+Intuitive Surgical,$109.29 B,USA,$310.42,-0.37%,14.12%,Medical devices
+Sony,$109.91 B,Japan,$89.30,0.89%,12.77%,"👩‍💻 Tech, 🎮 Video games, Entertainment, 🔌 Electronics, 💻 Tech Hardware"
+NTT (Nippon Telegraph & Telephone),$100.21 B,Japan,$1.13,-11.02%,4.63%,📡 Telecommunication
+Mitsubishi UFJ Financial,$108.32 B,Japan,$8.78,1.15%,61.40%,"🏦 Banks, 💳 Financial services"
+Toronto Dominion Bank,$106.76 B,Canada,$59.62,0.45%,-9.94%,"🏦 Banks, 💳 Financial services"
+Medtronic,$105.50 B,Ireland,$79.35,-0.25%,2.01%,Medical devices
+Schneider Electric,$105.40 B,France,$188.80,1.30%,31.97%,"💼 Professional services, 👨‍💻 Software, 👩‍💻 Tech, 🇫🇷 CAC 40"
+Deere & Company,$104.73 B,USA,$363.67,0.68%,-17.89%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+Allianz,$103.06 B,Germany,$263.11,0.68%,22.89%,"🏦 Insurance, 🇩🇪 DAX"
+Bristol-Myers Squibb,$102.36 B,USA,$50.31,0.30%,-37.02%,"💊 Pharmaceuticals, 🧬 Biotech"
+TJX Companies,$101.57 B,USA,$89.13,0.27%,13.28%,"👚 Clothing, 🛍️ Retail"
+BP,$99.52 B,UK,$35.30,1.76%,4.04%,"🛢 Oil&Gas, ⚡ Energy"
+Keyence,$100.72 B,Japan,$415.31,-1.69%,2.18%,"👩‍💻 Tech, 🔬 Scientific & Technical Instruments, 💻 Tech Hardware"
+CATL,$100.45 B,China,$22.84,-0.55%,-31.82%,"🔋 Electricity, 🔋 Batteries"
+Air Liquide,$98.84 B,France,$189.21,0.82%,30.42%,"🧪 Chemicals, 🇫🇷 CAC 40"
+Mondelez,$96.74 B,USA,$71.09,-0.73%,5.18%,🍴 Food
+American Tower,$96.23 B,USA,$206.45,-2.03%,-2.73%,"🏠 Real estate, 📡 Telecommunication, 🏘️ REITs, 🛣️ Infrastructure"
+Gilead Sciences,$98.46 B,USA,$79.02,1.24%,-11.68%,"💊 Pharmaceuticals, 🧬 Biotech"
+Marsh & McLennan Companies,$96.47 B,USA,$195.67,0.11%,13.63%,"🏦 Insurance, 💼 Professional services"
+TAQA,$96.44 B,eu United Arab Emirates,$0.86,-0.63%,-15.69%,"🛢 Oil&Gas, 🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+CVS Health,$96.64 B,USA,$75.10,1.47%,-26.75%,"💊 Pharmaceuticals, ⚕️ Healthcare, 🛍️ Retail, 💊 Drugstore"
+Petrobras,$96.62 B,Brazil,$14.88,3.33%,38.03%,"🛢 Oil&Gas, ⚡ Energy"
+Automatic Data Processing,$94.29 B,USA,$229.27,-0.31%,-11.84%,"💼 Professional services, 👨‍💻 Software, 👩‍💻 Tech, 🖥️ IT services"
+Progressive,$94.28 B,USA,$161.17,-0.33%,22.86%,🏦 Insurance
+CM Bank,$94.30 B,China,$3.25,-1.74%,-37.14%,"🏦 Banks, 💳 Financial services"
+Citigroup,$93.56 B,USA,$48.89,0.80%,9.40%,"🏦 Banks, 💳 Financial services"
+Palo Alto Networks,$94.09 B,USA,$298.42,1.64%,85.61%,"👨‍💻 Software, 👩‍💻 Tech, 📞 Networking hardware, 🔒 IT security"
+AIA,$93.14 B,Hong Kong,$8.18,1.92%,-23.91%,🏦 Insurance
+Lam Research,$92.67 B,USA,$703.17,-0.69%,54.54%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Shopify,$93.13 B,Canada,$72.52,0.92%,87.68%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+China Life Insurance,$92.29 B,China,$3.98,-0.94%,-23.61%,🏦 Insurance
+Analog Devices,$91.74 B,USA,$184.88,0.27%,8.98%,"📟 Semiconductors, 👩‍💻 Tech, 🏭 Manufacturing"
+UBS,$92.35 B,Switzerland,$28.51,1.21%,56.73%,"🏦 Banks, 💳 Financial services"
+Regeneron Pharmaceuticals,$91.53 B,USA,$840.14,-1.06%,9.76%,"💊 Pharmaceuticals, 🧬 Biotech"
+Eaton,$92.76 B,Ireland,$232.31,1.92%,46.34%,🏙 Conglomerate
+Ping An Insurance,$90.99 B,China,$5.47,-0.38%,-19.08%,🏦 Insurance
+Chubb,$90.94 B,Switzerland,$222.91,-0.10%,1.70%,🏦 Insurance
+Vertex Pharmaceuticals,$90.22 B,USA,$350.15,-1.07%,8.97%,"💊 Pharmaceuticals, 🧬 Biotech"
+Equinor,$90.84 B,Norway,$30.79,1.45%,-14.50%,"🛢 Oil&Gas, 🔋 Electricity, ⚡ Energy"
+EssilorLuxottica,$88.97 B,France,$197.17,0.91%,5.12%,"⌚ Luxury goods, 👓 Glasses and contact lenses, 🇫🇷 CAC 40"
+Airbnb,$90.16 B,USA,$140.68,0.60%,48.35%,"🖥️ Internet, 👩‍💻 Tech, 🌴 Travel, 🌴 Online Travel"
+KKR & Co.,$88.20 B,USA,$76.95,1.93%,59.42%,💰 Investment
+CSL,$84.85 B,Australia,$175.64,0.16%,-12.24%,"💊 Pharmaceuticals, 🧬 Biotech"
+Sinopec,$84.69 B,China,$0.76,2.05%,16.92%,"🛢 Oil&Gas, ⚡ Energy"
+ICICI Bank,$85.02 B,India,$24.12,1.05%,5.56%,"🏦 Banks, 💳 Financial services"
+Zoetis,$84.75 B,USA,$184.60,1.52%,20.12%,"💊 Pharmaceuticals, 🧬 Biotech"
+Micron Technology,$82.73 B,USA,$74.96,1.78%,35.80%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Blackstone Group,$81.27 B,USA,$112.57,-1.13%,42.40%,💰 Investment
+Porsche,$82.15 B,Germany,$90.18,1.46%,-15.36%,"🚗 Automakers, 🇩🇪 DAX, 🏭 Manufacturing"
+Al Rajhi Bank,$81.55 B,Saudi Arabia,$20.39,1.46%,2.10%,"🏦 Banks, 💳 Financial services"
+Synopsys,$81.48 B,USA,$535.93,0.33%,62.10%,"👨‍💻 Software, 📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+China Shenhua Energy,$81.03 B,China,$4.27,0.03%,2.40%,"⛏️ Mining, ⚡ Energy, ⛏️ Coal Mining"
+Boston Scientific,$80.50 B,USA,$54.95,-0.15%,18.63%,Medical devices
+MercadoLibre,$79.78 B,ar Argentina,"$1,578",-0.81%,78.46%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+BYD,$79.82 B,China,$27.71,-0.45%,-29.56%,"🚗 Automakers, 🏭 Manufacturing"
+CNOOC,$79.98 B,China,$1.61,0.64%,27.78%,"🛢 Oil&Gas, ⚡ Energy"
+Diageo,$79.45 B,UK,$141.96,1.02%,-24.17%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Fiserv,$79.44 B,USA,$132.36,0.72%,30.46%,"💳 Financial services, 👩‍💻 Tech"
+Iberdrola,$78.54 B,Spain,$12.73,0.47%,10.99%,"🔋 Electricity, ⚡ Energy"
+Southern Company,$77.97 B,USA,$71.50,-0.21%,4.11%,"🛢 Oil&Gas, 🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Compagnie Financière Richemont,$77.65 B,Switzerland,$132.22,2.57%,0.91%,⌚ Luxury goods
+Wuliangye Yibin,$77.44 B,China,$19.95,0.29%,-20.39%,"🍷 Alcoholic beverages, 🥤 Beverages"
+China Yangtze Power,$77.38 B,China,$3.16,0.09%,5.33%,"🔋 Electricity, 🚰 Utility companies"
+LG Energy Solution,$76.73 B,South Korea,$327.94,0.94%,-18.84%,"🔋 Electricity, ⚡ Energy, 🔋 Batteries"
+Canadian National Railway,$76.28 B,Canada,$117.78,-0.51%,-6.51%,"🚂 Railways, 🚚 Transportation"
+BNP Paribas,$76.59 B,France,$66.75,1.21%,22.10%,"🏦 Banks, 💳 Financial services, 🇫🇷 CAC 40"
+CME Group,$76.18 B,USA,$211.62,0.42%,19.42%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Equinix,$75.27 B,USA,$801.77,-1.03%,17.33%,"🏠 Real estate, 💰 Investment, 🖥️ Internet, 👩‍💻 Tech, 🏘️ REITs"
+ABB,$75.74 B,Switzerland,$41.09,1.32%,34.28%,👷 Engineering
+Zurich Insurance Group,$75.33 B,Switzerland,$514.71,0.09%,7.33%,🏦 Insurance
+Cigna,$75.73 B,USA,$258.80,0.33%,-22.40%,🏦 Insurance
+Sherwin-Williams,$74.18 B,USA,$289.82,-0.60%,13.90%,🎨 Paint & Coating
+Fast Retailing,$74.71 B,Japan,$243.63,-2.90%,19.20%,"👚 Clothing, 🛍️ Retail"
+GlaxoSmithKline,$74.02 B,UK,$35.94,-0.17%,-1.80%,"💊 Pharmaceuticals, 🧬 Biotech"
+Illinois Tool Works,$75.10 B,USA,$249.61,0.82%,12.78%,"🛠️ Tool manufacturers, 🏭 Manufacturing"
+Enbridge,$74.22 B,Canada,$34.92,0.34%,-10.99%,"🛢 Oil&Gas, ⚡ Energy"
+Infosys,$74.04 B,India,$17.89,1.42%,-8.63%,"💼 Professional services, 🖥️ IT services"
+Safran,$73.45 B,France,$177.64,0.29%,44.69%,"🚀 Aerospace, 🔫 Defense contractors, 🇫🇷 CAC 40"
+RELX,$73.51 B,UK,$38.96,0.00%,37.43%,💼 Professional services
+Altria Group,$73.04 B,USA,$41.30,-0.05%,-11.87%,🚬 Tobacco
+Atlas Copco,$72.88 B,Sweden,$13.58,1.00%,20.71%,🏭 Manufacturing
+AXA,$72.87 B,France,$32.37,0.33%,13.94%,"🏦 Insurance, 🇫🇷 CAC 40"
+Duke Energy,$72.74 B,USA,$94.39,-0.07%,-6.03%,"🛢 Oil&Gas, 🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+KLA,$72.64 B,USA,$534.43,-1.26%,34.98%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Mercedes-Benz,$72.58 B,Germany,$67.85,0.85%,2.25%,"🚗 Automakers, 🇩🇪 DAX, 🏭 Manufacturing, 🤖 Autonomous driving"
+Northrop Grumman,$71.81 B,USA,$476.25,-0.26%,-11.90%,"🚀 Aerospace, 🔫 Defense contractors"
+Enel,$71.98 B,Italy,$7.09,0.37%,30.33%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Workday,$71.90 B,USA,$273.41,0.38%,61.47%,"👨‍💻 Software, 👩‍💻 Tech"
+Vinci,$71.36 B,France,$125.02,0.14%,21.41%,"🏗 Construction, 🇫🇷 CAC 40"
+Tokyo Electron,$71.34 B,Japan,$154.15,-0.87%,-52.65%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+BMW,$71.58 B,Germany,$108.91,2.35%,24.87%,"🚗 Automakers, 🇩🇪 DAX, 🏭 Manufacturing"
+Hindustan Unilever,$71.09 B,India,$30.26,0.16%,-8.00%,"🍴 Food, 🛍 Consumer goods"
+Cadence Design Systems,$70.71 B,USA,$259.93,0.18%,58.44%,"👨‍💻 Software, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Bharti Airtel,$70.28 B,India,$12.00,0.03%,18.58%,📡 Telecommunication
+EOG Resources,$69.37 B,USA,$118.96,0.52%,-4.50%,"🛢 Oil&Gas, ⚡ Energy"
+Glencore,$69.78 B,Switzerland,$5.70,-1.38%,-15.30%,"⛏️ Mining, ⚡ Energy, ⛏️ Coal Mining"
+Schlumberger,$69.70 B,USA,$48.80,0.70%,-2.24%,"🛢 Oil&Gas, ⚡ Energy"
+Bank Central Asia,$69.59 B,Indonesia,$0.56,-0.85%,1.82%,"🏦 Banks, 💳 Financial services"
+Waste Management,$69.47 B,USA,$172.50,-0.20%,3.91%,♻️ Waste & Recycling
+Stellantis,$69.35 B,Netherlands,$22.60,0.22%,52.29%,"🚗 Automakers, 🇫🇷 CAC 40, 🏭 Manufacturing"
+Meituan,$69.27 B,China,$11.10,0.64%,-51.49%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+Arista Networks,$69.69 B,USA,$224.03,4.06%,74.85%,"👩‍💻 Tech, 🔌 Electronics, 📞 Networking hardware, 💻 Tech Hardware"
+General Dynamics,$68.84 B,USA,$252.29,0.32%,1.86%,🔫 Defense contractors
+SK Hynix,$68.78 B,South Korea,$97.12,1.51%,61.97%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Moody's,$68.55 B,USA,$374.61,0.53%,29.24%,💳 Financial services
+Canadian Pacific Railway,$67.91 B,Canada,$72.89,-0.51%,-9.15%,"🚂 Railways, 🚚 Transportation, 🛣️ Infrastructure"
+HCA Healthcare,$68.93 B,USA,$257.53,1.41%,6.62%,⚕️ Healthcare
+NetEase,$68.11 B,China,$104.54,-0.21%,46.81%,"👩‍💻 Tech, 🎮 Video games, Entertainment"
+FedEx,$68.43 B,USA,$272.21,2.19%,58.34%,"📦 Courier, 🚚 Transportation"
+Shin-Etsu Chemical,$67.73 B,Japan,$33.93,-2.61%,-72.67%,🧪 Chemicals
+Becton Dickinson,$67.46 B,USA,$232.30,-0.53%,-6.32%,Medical devices
+ITC,$67.20 B,India,$5.39,-1.95%,31.14%,🚬 Tobacco
+Santander,$67.94 B,Spain,$4.20,1.20%,44.33%,"🏦 Banks, 💳 Financial services"
+Canadian Natural Resources,$67.84 B,Canada,$62.40,1.84%,13.72%,"🛢 Oil&Gas, ⚡ Energy"
+Merck KGaA,$66.62 B,Germany,$153.25,-1.70%,-16.78%,"💊 Pharmaceuticals, 🧪 Chemicals, 🇩🇪 DAX"
+Sumitomo Mitsui Financial Group,$67.10 B,Japan,$10.06,1.00%,48.60%,"🏦 Banks, 💳 Financial services"
+Walmex,$66.54 B,Mexico,$3.73,-1.84%,-0.53%,"🛍️ Retail, 🛒 Supermarket Chains"
+Ferrari,$66.21 B,Italy,$366.75,0.82%,66.45%,"🚗 Automakers, 🏭 Manufacturing"
+State Bank of India,$65.75 B,India,$7.37,0.40%,-0.94%,"🏦 Banks, 💳 Financial services"
+Volkswagen,$65.36 B,Germany,$123.96,1.16%,-13.68%,"🚗 Automakers, 🇩🇪 DAX, 🏭 Manufacturing"
+ADNOC Gas,$65.62 B,eu United Arab Emirates,$0.86,-0.32%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+KDDI,$65.64 B,Japan,$31.37,-1.84%,7.14%,📡 Telecommunication
+CSX Corporation,$65.13 B,USA,$32.96,-1.61%,4.57%,"🚂 Railways, 🚚 Transportation, 🛣️ Infrastructure"
+Arm Holdings,$68.92 B,UK,$67.23,7.67%,N/A,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+British American Tobacco,$65.14 B,UK,$29.13,-0.85%,-29.19%,🚬 Tobacco
+Rosneft,$65.03 B,Russia,$6.14,-0.24%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+Siemens Healthineers,$63.94 B,Germany,$56.92,1.03%,9.50%,"⚕️ Healthcare, 🇩🇪 DAX"
+Nongfu Spring,$64.74 B,China,$5.76,1.12%,3.23%,🥤 Beverages
+Aon,$64.89 B,UK,$324.10,0.75%,5.72%,"🏦 Insurance, 💼 Professional services"
+Intercontinental Exchange,$64.87 B,USA,$113.34,0.72%,8.52%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Mitsubishi Corporation,$64.49 B,Japan,$46.26,-2.14%,40.78%,🏙 Conglomerate
+Thomson Reuters,$64.39 B,Canada,$141.38,-0.11%,22.83%,📰 Media/Press
+Investor AB,$64.39 B,Sweden,$21.63,0.20%,17.87%,"💰 Investment, 🏙 Conglomerate"
+SABIC,$64.04 B,Saudi Arabia,$21.35,0.00%,-1.61%,🧪 Chemicals
+Vale,$63.69 B,Brazil,$14.68,-1.01%,-10.65%,⛏️ Mining
+Itaú Unibanco,$63.82 B,Brazil,$6.51,0.77%,37.63%,"🏦 Banks, 💳 Financial services"
+PayPal,$63.54 B,USA,$58.94,0.79%,-20.59%,"💳 Financial services, 🖥️ Internet, 👩‍💻 Tech, ₿ Bitcoin"
+Colgate-Palmolive,$63.53 B,USA,$77.17,-0.58%,-1.24%,🛍 Consumer goods
+Hitachi,$63.37 B,Japan,$68.39,-2.40%,33.21%,"👷 Engineering, 🏙 Conglomerate"
+Dassault Systèmes,$62.75 B,France,$47.72,0.90%,31.64%,"👨‍💻 Software, 👩‍💻 Tech, 🇫🇷 CAC 40"
+Sberbank,$62.31 B,Russia,$2.90,0.30%,N/A,"🏦 Banks, 💳 Financial services"
+Bank of Montreal,$62.88 B,Canada,$87.23,1.35%,-5.76%,"🏦 Banks, 💳 Financial services"
+Target,$62.41 B,USA,$135.19,0.00%,-12.33%,"🛍️ Retail, 🛒 Supermarket Chains"
+U.S. Bancorp,$62.94 B,USA,$40.43,1.76%,-7.19%,"🏦 Banks, 💳 Financial services"
+China Telecom,$62.45 B,China,$0.46,1.12%,12.20%,📡 Telecommunication
+Snowflake,$62.69 B,USA,$190.67,1.79%,33.46%,"👨‍💻 Software, 👩‍💻 Tech"
+London Stock Exchange,$61.26 B,UK,$114.56,1.31%,27.11%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Vmware,$61.52 B,USA,$142.48,0.00%,19.42%,"👨‍💻 Software, 👩‍💻 Tech"
+Chugai Pharmaceutical,$61.15 B,Japan,$37.19,-1.38%,40.60%,"💊 Pharmaceuticals, 🧬 Biotech"
+Chipotle Mexican Grill,$61.55 B,USA,"$2,243",0.75%,N/A,"🍔 Restaurant chains, 🍴 Food"
+Marriott International,$61.49 B,USA,$209.40,0.66%,30.34%,"🏨 Hotels, 🌴 Travel"
+DBS Group,$60.73 B,Singapore,$23.55,1.35%,-4.31%,"🏦 Banks, 💳 Financial services"
+Housing Development Finance Corporation,$60.68 B,India,$32.78,0.28%,N/A,"🏦 Banks, 💳 Financial services"
+McKesson,$60.92 B,USA,$457.89,0.49%,19.98%,⚕️ Healthcare
+National Australia Bank,$59.96 B,Australia,$19.21,0.03%,-5.18%,"🏦 Banks, 💳 Financial services"
+lululemon athletica,$61.95 B,Canada,$489.64,5.37%,30.74%,"👚 Clothing, 🛍️ Retail, 🎾 Sports goods"
+Oriental Land,$59.16 B,Japan,$36.12,0.21%,-74.70%,"🏨 Hotels, Entertainment, 🌴 Travel"
+Humana,$59.29 B,USA,$481.62,0.27%,-12.01%,🏦 Insurance
+DHL Group (Deutsche Post),$59.01 B,Germany,$49.53,1.31%,24.45%,"📦 Courier, 🇩🇪 DAX"
+Life Insurance Corporation of India (LIC),$58.63 B,India,$9.27,-1.66%,15.16%,🏦 Insurance
+Air Products and Chemicals,$58.50 B,USA,$263.27,0.48%,-17.69%,🧪 Chemicals
+Southern Copper,$58.33 B,USA,$75.45,5.27%,22.76%,⛏️ Mining
+America Movil,$57.92 B,Mexico,$18.32,-0.22%,-1.03%,📡 Telecommunication
+CrowdStrike,$58.24 B,USA,$242.55,0.99%,112.32%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+3M,$57.09 B,USA,$103.37,0.09%,-17.96%,"🇺🇸 Dow jones, 🧤 Gloves & PPE"
+Postal Savings Bank of China,$57.43 B,China,$0.61,0.92%,-6.15%,"🏦 Banks, 💳 Financial services"
+SoftBank,$57.41 B,Japan,$39.17,-0.70%,-12.35%,"💳 Financial services, 💰 Investment, 📡 Telecommunication, 🏙 Conglomerate"
+Munich RE (Münchener Rück),$57.49 B,Germany,$422.30,0.00%,31.01%,"🏦 Insurance, 🇩🇪 DAX"
+Itōchū Shōji,$57.14 B,Japan,$39.35,-2.27%,28.09%,🏙 Conglomerate
+Roper Technologies,$57.32 B,USA,$536.60,0.34%,23.75%,"👩‍💻 Tech, 🔬 Scientific & Technical Instruments"
+Enterprise Products,$57.18 B,USA,$26.33,0.30%,10.35%,"🛢 Oil&Gas, ⚡ Energy"
+Recruit,$56.87 B,Japan,$36.29,-1.39%,17.33%,"💼 Professional services, 💼 Staffing & Employment Services"
+O'Reilly Automotive,$55.96 B,USA,$945.88,-0.82%,13.09%,auto parts
+Monster Beverage,$56.10 B,USA,$53.92,-0.70%,6.20%,🥤 Beverages
+Cintas,$56.35 B,USA,$553.33,-0.08%,21.57%,👚 Clothing
+Parker-Hannifin,$56.35 B,USA,$438.63,1.12%,50.16%,N/A
+PNC Financial Services,$56.03 B,USA,$140.67,0.64%,-8.86%,"🏦 Banks, 💳 Financial services"
+Brookfield Corporation,$55.85 B,Canada,$35.91,0.20%,1.87%,"💰 Investment, Asset Management"
+Larsen & Toubro,$55.71 B,India,$40.53,0.68%,53.81%,"🏗 Construction, 👷 Engineering, 🏙 Conglomerate"
+Amphenol,$55.78 B,USA,$93.23,0.81%,17.20%,"🔌 Electronics, 🏭 Manufacturing"
+Kering,$54.74 B,France,$446.58,2.58%,-18.72%,"👚 Clothing, ⌚ Luxury goods, 🇫🇷 CAC 40"
+Phillips 66,$55.13 B,USA,$125.32,0.56%,24.20%,"🛢 Oil&Gas, ⚡ Energy"
+NXP Semiconductors,$55.56 B,Netherlands,$215.55,1.82%,25.71%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+The Saudi National Bank,$55.04 B,Saudi Arabia,$9.26,1.02%,-1.17%,"🏦 Banks, 💳 Financial services"
+Nintendo,$55.04 B,Japan,$47.12,-0.93%,12.62%,"👩‍💻 Tech, 🎮 Video games, Entertainment, 🔌 Electronics, 💻 Tech Hardware"
+Ecolab,$54.78 B,USA,$192.12,-0.16%,28.79%,N/A
+Alimentation Couche-Tard,$54.43 B,Canada,$56.35,-0.58%,23.30%,🛍️ Retail
+Freeport-McMoRan,$54.70 B,USA,$38.15,4.89%,-4.29%,⛏️ Mining
+Marathon Petroleum,$54.30 B,USA,$143.02,1.02%,31.39%,N/A
+Charter Communications,$54.36 B,USA,$367.55,-0.30%,-1.81%,📡 Telecommunication
+Bajaj Finance,$54.13 B,India,$87.67,-1.13%,9.56%,💳 Financial services
+Scotiabank,$54.41 B,Canada,$44.82,1.31%,-10.68%,"🏦 Banks, 💳 Financial services"
+Lukoil,$53.93 B,Russia,$77.39,0.30%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+TransDigm,$54.42 B,USA,$983.92,1.13%,60.12%,🚀 Aerospace
+Heineken,$53.95 B,Netherlands,$94.41,0.67%,-0.16%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Motorola Solutions,$53.85 B,USA,$324.52,0.36%,20.29%,📡 Telecommunications equipment
+Intesa Sanpaolo,$53.15 B,Italy,$2.91,0.84%,34.72%,"🏦 Banks, 💳 Financial services"
+Trane Technologies,$53.24 B,Ireland,$234.00,1.15%,32.08%,N/A
+Banco Bilbao Vizcaya Argentaria,$53.58 B,Spain,$9.14,0.11%,58.68%,"🏦 Banks, 💳 Financial services"
+Daiichi Sankyō,$53.02 B,Japan,$27.65,-2.87%,-14.61%,"💊 Pharmaceuticals, 🧬 Biotech"
+Mitsui Bussan,$52.64 B,Japan,$34.83,-3.46%,19.16%,N/A
+ENI,$52.23 B,Italy,$32.30,1.41%,13.85%,"🛢 Oil&Gas, ⚡ Energy"
+Fortescue,$52.17 B,Australia,$16.94,1.06%,21.09%,⛏️ Mining
+Bank Rakyat Indonesia,$52.31 B,Indonesia,$0.35,-1.83%,12.90%,"🏦 Banks, 💳 Financial services"
+Infineon,$52.28 B,Germany,$40.10,2.00%,21.18%,"📟 Semiconductors, 👩‍💻 Tech, 🇩🇪 DAX, 💻 Tech Hardware"
+Arthur J. Gallagher & Co.,$52.02 B,USA,$240.96,-0.04%,23.55%,🏦 Insurance
+Apollo Global Management,$52.26 B,USA,$92.09,1.42%,46.57%,N/A
+Pioneer Natural Resources,$52.03 B,USA,$223.05,1.11%,0.80%,"🛢 Oil&Gas, ⚡ Energy"
+Bank of Communications,$51.99 B,China,$0.80,-0.17%,15.94%,"🏦 Banks, 💳 Financial services"
+Alpha Dhabi,$51.46 B,eu United Arab Emirates,$5.15,-0.63%,-28.67%,🏙 Conglomerate
+Constellation Software,$51.34 B,Canada,"$2,423",0.59%,60.07%,"👨‍💻 Software, 👩‍💻 Tech"
+Crown Castle,$50.33 B,USA,$116.07,-1.33%,-16.62%,"🏠 Real estate, 💰 Investment, 📡 Telecommunication, 🏘️ REITs, 🛣️ Infrastructure"
+Tokio Marine,$50.95 B,Japan,$25.77,-1.72%,25.77%,🏦 Insurance
+Emerson,$51.05 B,USA,$89.55,0.94%,-5.67%,"👷 Engineering, 🏭 Manufacturing"
+Saudi Telecom Company,$50.74 B,Saudi Arabia,$10.18,0.13%,4.62%,📡 Telecommunication
+Westpac Banking,$50.53 B,Australia,$14.42,0.05%,-7.98%,"🏦 Banks, 💳 Financial services"
+Republic Services,$50.90 B,USA,$161.79,0.12%,18.66%,♻️ Waste & Recycling
+Norfolk Southern,$49.97 B,USA,$221.00,-2.81%,-10.04%,"🚂 Railways, 🛣️ Infrastructure"
+Novatek,$50.65 B,Russia,$16.52,-0.29%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+Mindray,$50.09 B,China,$41.32,4.59%,-8.24%,"Medical devices, 🏭 Manufacturing"
+Paccar,$49.89 B,USA,$95.38,-0.15%,38.09%,N/A
+Occidental Petroleum,$49.71 B,USA,$56.47,0.12%,-11.36%,"🛢 Oil&Gas, ⚡ Energy"
+National Grid,$49.76 B,UK,$67.47,-0.50%,7.44%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy, 🛣️ Infrastructure"
+ING,$49.70 B,Netherlands,$14.59,1.18%,23.85%,"🏦 Banks, 💳 Financial services"
+Midea,$49.36 B,China,$7.03,0.24%,-5.26%,"🏠 Home & Kitchen Appliances, 🏭 Manufacturing"
+Honda,$49.51 B,Japan,$30.48,-0.39%,27.58%,"🚗 Automakers, 🏭 Manufacturing"
+Simon Property Group,$49.85 B,USA,$132.88,1.16%,13.46%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Universal Music Group,$49.23 B,Netherlands,$26.98,-0.24%,13.60%,Entertainment
+Dell,$48.88 B,USA,$68.70,0.16%,62.68%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Reckitt Benckiser,$48.54 B,UK,$67.91,0.75%,-5.43%,🛍 Consumer goods
+Volvo Group,$48.72 B,Sweden,$24.25,1.71%,31.72%,"🏭 Manufacturing, 🚑 Specialty Vehicles"
+ANZ Bank,$48.60 B,Australia,$16.19,0.04%,2.02%,"🏦 Banks, 💳 Financial services"
+Atlassian,$49.64 B,Australia,$192.36,2.40%,41.74%,"👨‍💻 Software, 👩‍💻 Tech"
+Estee Lauder,$47.85 B,USA,$133.73,-1.55%,-44.88%,"🛍 Consumer goods, 💄 Cosmetics and Beauty"
+Public Storage,$48.27 B,USA,$273.81,0.26%,-9.54%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Welltower,$48.55 B,USA,$87.72,0.24%,33.52%,🏠 Real estate
+Aflac,$48.24 B,USA,$82.55,0.67%,17.39%,N/A
+Autodesk,$47.91 B,USA,$224.01,0.08%,13.92%,"👨‍💻 Software, 👩‍💻 Tech"
+MediaTek,$47.76 B,Taiwan,$30.01,1.29%,30.42%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+UniCredit,$46.72 B,Italy,$27.30,1.08%,106.97%,"🏦 Banks, 💳 Financial services"
+Xiaomi,$46.90 B,China,$1.86,0.11%,29.31%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Carrier,$46.37 B,USA,$55.27,4.50%,27.15%,N/A
+MetLife,$47.43 B,USA,$64.09,0.99%,-12.93%,🏦 Insurance
+Banco Santander Brasil,$46.70 B,Brazil,$6.26,1.46%,20.62%,"🏦 Banks, 💳 Financial services"
+Microchip Technology,$46.57 B,USA,$86.08,0.31%,12.05%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+General Motors,$46.21 B,USA,$33.75,0.72%,-11.65%,"🚗 Automakers, 🏭 Manufacturing"
+Japan Tobacco,$46.03 B,Japan,$25.94,-2.20%,25.50%,🚬 Tobacco
+American International Group,$46.00 B,USA,$65.53,0.18%,5.25%,🏦 Insurance
+Sempra Energy,$45.55 B,USA,$72.38,-0.90%,-10.70%,"🛢 Oil&Gas, 🔋 Electricity, ⚡ Energy, 🛣️ Infrastructure"
+Fomento Económico Mexicano,$45.87 B,Mexico,$128.21,0.51%,66.14%,🥤 Beverages
+D. R. Horton,$46.13 B,USA,$138.46,1.55%,61.13%,🏗 Construction
+Truist Financial,$45.78 B,USA,$34.33,1.09%,-18.38%,"🏦 Banks, 💳 Financial services"
+Cement Roadstone Holding,$45.95 B,Ireland,$64.95,1.50%,64.47%,"Cement, 🧱 Building materials"
+AutoZone,$45.40 B,USA,"$2,620",-0.46%,5.29%,🛍️ Retail
+Copart,$45.50 B,USA,$47.39,-0.61%,48.33%,"🛒 E-Commerce, 🖥️ Internet, 🚘 Used car retailer, 🚗 Car retail"
+Newmont,$45.03 B,USA,$39.08,-1.64%,-17.06%,"⛏️ Mining, ⛏️ Gold mining"
+Ambev,$45.48 B,Brazil,$2.89,1.76%,-2.69%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Sika,$45.02 B,Switzerland,$280.66,0.12%,13.70%,🧪 Chemicals
+Marvell Technology Group,$45.71 B,USA,$52.88,1.32%,26.81%,"📟 Semiconductors, 👩‍💻 Tech, 🏭 Manufacturing, 💻 Tech Hardware"
+Paychex,$44.79 B,USA,$124.02,-0.65%,3.21%,💼 Professional services
+Keurig Dr Pepper,$44.90 B,USA,$32.11,-0.77%,-16.18%,🥤 Beverages
+Foxconn (Hon Hai Precision Industry),$44.76 B,Taiwan,$3.23,0.50%,-2.42%,"👩‍💻 Tech, 🔌 Electronics, 🏭 Manufacturing, 💻 Tech Hardware"
+Energy Transfer Partners,$44.72 B,USA,$13.30,-0.23%,13.68%,"🛢 Oil&Gas, ⚡ Energy"
+Kraft Heinz,$44.43 B,USA,$36.23,-0.74%,-9.74%,🍴 Food
+Compass Group,$44.63 B,UK,$25.96,-0.48%,12.04%,🍴 Food
+Denso,$44.39 B,Japan,$14.82,-4.51%,13.22%,"🚘 Automotive Suppliers, 🏭 Manufacturing"
+HCL Technologies,$44.31 B,India,$16.36,2.72%,22.18%,💼 Professional services
+Emirates Telecom (Etisalat Group),$44.28 B,eu United Arab Emirates,$5.09,-2.81%,-21.45%,📡 Telecommunication
+Capital One,$44.97 B,USA,$118.09,2.35%,26.19%,"🏦 Banks, 💳 Financial services"
+Ross Stores,$44.46 B,USA,$132.08,0.32%,12.75%,"👚 Clothing, 🛍️ Retail"
+Pacific Gas and Electric,$44.79 B,USA,$17.61,1.38%,14.20%,"🛢 Oil&Gas, 🔋 Electricity, ⚡ Energy"
+Takeda Pharmaceutical,$44.11 B,Japan,$14.06,-0.14%,-5.26%,"💊 Pharmaceuticals, 🧬 Biotech"
+Hilton Worldwide,$43.93 B,USA,$171.33,0.53%,24.91%,"🏨 Hotels, 🌴 Travel"
+Kotak Mahindra Bank,$43.83 B,India,$22.06,0.63%,-4.34%,"🏦 Banks, 💳 Financial services"
+Mizuho Financial Group,$44.23 B,Japan,$3.49,0.87%,41.87%,"🏦 Banks, 💳 Financial services"
+Foxconn Industrial Internet,$43.70 B,China,$2.20,9.98%,62.96%,"📞 Networking hardware, 📡 Telecommunications equipment, 🏭 Manufacturing"
+Pernod Ricard,$43.37 B,France,$171.86,1.08%,-12.18%,"🍷 Alcoholic beverages, 🥤 Beverages, 🇫🇷 CAC 40"
+Ford,$44.07 B,USA,$11.01,1.76%,-16.08%,"🚗 Automakers, 🏭 Manufacturing"
+BASF,$43.52 B,Germany,$48.77,0.21%,-1.51%,"🧪 Chemicals, 🇩🇪 DAX"
+IDEXX Laboratories,$44.12 B,USA,$531.35,1.58%,23.99%,⚕️ Diagnostics and Testing
+STMicroelectronics,$43.23 B,Switzerland,$47.87,0.23%,23.70%,"📟 Semiconductors, 👩‍💻 Tech, 🇫🇷 CAC 40, 🏭 Manufacturing, 💻 Tech Hardware"
+Constellation Brands,$43.06 B,USA,$234.44,-0.60%,-4.85%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Macquarie,$43.07 B,Australia,$111.44,0.54%,-3.21%,"🏦 Banks, 💳 Financial services, 💰 Investment"
+Williams Companies,$43.21 B,USA,$35.52,1.69%,7.93%,"🛢 Oil&Gas, ⚡ Energy"
+Holcim Group,$42.68 B,Switzerland,$74.73,0.68%,45.56%,"Cement, 🧱 Building materials"
+Daikin,$42.66 B,Japan,$145.76,0.14%,-9.27%,🏭 Manufacturing
+ENGIE,$42.42 B,France,$17.52,0.41%,16.57%,"🔋 Electricity, 🚰 Utility companies, 🇫🇷 CAC 40, ⚡ Energy"
+Hikvision,$42.52 B,China,$4.56,-1.33%,-5.59%,🔌 Electronics
+OCBC Bank,$42.37 B,Singapore,$9.43,1.12%,4.31%,🏦 Banks
+Block,$42.47 B,USA,$69.17,1.02%,9.15%,"💳 Financial services, 👩‍💻 Tech, ₿ Bitcoin"
+Zijin Mining,$42.07 B,China,$1.63,-1.10%,10.14%,⛏️ Mining
+Jingdong Mall,$42.23 B,China,$26.45,-1.78%,-56.19%,"🛒 E-Commerce, 🛍️ Retail, 🖥️ Internet, 👩‍💻 Tech"
+Valero Energy,$41.78 B,USA,$122.74,0.55%,5.00%,"🛢 Oil&Gas, ⚡ Energy"
+Axis Bank,$41.83 B,India,$13.57,1.17%,18.83%,"🏦 Banks, 💳 Financial services"
+Gazprom,$41.69 B,Russia,$1.76,-0.48%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+Cheniere Energy,$41.98 B,USA,$176.21,2.55%,8.04%,N/A
+American Electric Power,$41.88 B,USA,$79.64,-0.70%,-18.50%,"🔋 Electricity, ⚡ Energy"
+Digital Realty,$41.70 B,USA,$134.81,0.58%,25.61%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+The Travelers Companies,$41.39 B,USA,$181.26,-0.36%,-3.44%,"🏦 Insurance, 🇺🇸 Dow jones"
+Edwards Lifesciences,$41.95 B,USA,$69.18,1.35%,-4.55%,Medical devices
+Crédit Agricole,$41.28 B,France,$13.61,1.27%,38.59%,"🏦 Banks, 💳 Financial services, 🇫🇷 CAC 40"
+TE Connectivity,$41.43 B,Switzerland,$133.32,0.72%,9.16%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Seagen,$41.31 B,USA,$218.98,0.30%,74.85%,"💊 Pharmaceuticals, 🧬 Biotech"
+Old Dominion Freight Line,$40.31 B,USA,$369.45,-1.48%,28.61%,🚚 Transportation
+Danone,$41.02 B,France,$63.91,0.14%,21.87%,"🍴 Food, 🇫🇷 CAC 40"
+BAE Systems,$39.61 B,UK,$13.12,2.31%,29.26%,"🚀 Aerospace, 🔫 Defense contractors"
+Bayan Resources,$41.00 B,Indonesia,$1.23,0.00%,32.26%,⛏️ Mining
+Industrial Bank,$40.91 B,China,$1.97,-0.07%,-22.44%,"🏦 Banks, 💳 Financial services"
+CITIC Securities,$40.85 B,China,$2.92,-0.38%,-0.68%,"🏦 Banks, 💳 Financial services, 💰 Investment"
+Nordea Bank,$41.01 B,Finland,$11.64,0.88%,12.68%,"🏦 Banks, 💳 Financial services"
+Hess,$41.31 B,USA,$134.50,1.72%,0.79%,"🛢 Oil&Gas, ⚡ Energy"
+Kimberly-Clark,$40.53 B,USA,$119.94,-1.28%,-12.30%,"🛍 Consumer goods, 🏭 Manufacturing"
+Jiangsu Hengrui Medicine,$40.59 B,China,$6.36,1.81%,14.18%,"💊 Pharmaceuticals, 🧬 Biotech"
+Hoya,$40.55 B,Japan,$115.71,1.27%,17.77%,"👓 Glasses and contact lenses, 🏭 Manufacturing"
+Hong Kong Exchanges & Clearing,$40.33 B,Hong Kong,$31.81,-0.96%,-26.14%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Nucor,$39.84 B,USA,$162.09,-0.69%,7.45%,"🔩 Steel producers, 🔩 Steel industry"
+Wesfarmers,$40.09 B,Australia,$35.34,0.79%,9.48%,"🧪 Chemicals, 🛍️ Retail, 🌱 Fertilizer companies"
+Adyen,$39.73 B,Netherlands,"$1,281",2.72%,-13.24%,"💳 Financial services, 👩‍💻 Tech"
+W. W. Grainger,$39.90 B,USA,$804.05,-0.41%,35.53%,N/A
+Cencora,$40.52 B,USA,$201.75,0.77%,18.36%,⚕️ Healthcare
+MSCI,$40.07 B,USA,$506.68,-0.35%,1.34%,💳 Financial services
+Maruti Suzuki India,$40.05 B,India,$127.39,-0.73%,20.68%,"🚗 Automakers, 🏭 Manufacturing"
+Kenvue,$39.46 B,USA,$20.61,-0.96%,N/A,🛍 Consumer goods
+QNB (Qatar National Bank),$40.02 B,eu Qatar,$4.33,1.09%,-12.35%,"🏦 Banks, 💳 Financial services"
+CIBC,$40.06 B,Canada,$43.02,0.87%,0.40%,"🏦 Banks, 💳 Financial services"
+First Abu Dhabi Bank,$39.89 B,eu United Arab Emirates,$3.61,-1.19%,-20.48%,"🏦 Banks, 💳 Financial services"
+DoorDash,$39.82 B,USA,$100.00,1.04%,85.15%,"🖥️ Internet, 👩‍💻 Tech, 🍴 Food, 🥡 Food Delivery"
+Baidu,$40.02 B,China,$113.45,-2.01%,-5.72%,"🖥️ Internet, 👩‍💻 Tech"
+Archer Daniels Midland (ADM),$39.33 B,USA,$73.75,-0.11%,-20.18%,🍴 Food
+Oneok,$39.75 B,USA,$68.24,1.44%,6.43%,"🛢 Oil&Gas, ⚡ Energy"
+Suncor Energy,$39.80 B,Canada,$30.74,1.65%,2.81%,"🛢 Oil&Gas, ⚡ Energy"
+Dominion Energy,$39.73 B,USA,$47.49,0.53%,-18.53%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Centene,$39.40 B,USA,$73.77,-0.63%,-14.71%,"⚕️ Healthcare, 🏦 Insurance"
+TC Energy,$39.41 B,Canada,$38.01,-0.13%,-10.90%,"🛢 Oil&Gas, 🚚 Transportation, ⚡ Energy, 🛣️ Infrastructure"
+Realty Income,$38.99 B,USA,$53.86,-1.52%,-15.92%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Fortinet,$40.05 B,USA,$52.16,1.64%,-1.42%,"👨‍💻 Software, 👩‍💻 Tech, 📞 Networking hardware, 🔒 IT security"
+IQVIA,$39.28 B,USA,$215.28,0.13%,2.31%,"💼 Professional services, 👩‍💻 Tech, 🖥️ IT services"
+Maybank,$41.00 B,Malaysia,$6.80,4.62%,25.93%,🏦 Banks
+Kinder Morgan,$39.34 B,USA,$17.70,1.14%,-0.39%,"🛢 Oil&Gas, 🚚 Transportation, ⚡ Energy, 🛣️ Infrastructure"
+Luzhou Laojiao,$39.03 B,China,$26.52,0.53%,-9.52%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Exelon Corporation,$39.03 B,USA,$39.21,-0.33%,-6.13%,🔋 Electricity
+Nu Holdings,$39.08 B,Brazil,$8.22,0.98%,101.97%,"🏦 Banks, 💳 Financial services"
+Titan Company,$38.80 B,India,$43.60,1.37%,38.81%,⌚ Luxury goods
+Lennar,$39.38 B,USA,$139.58,1.53%,56.08%,🏗 Construction
+Adani Enterprises,$38.59 B,India,$33.86,-2.25%,-30.80%,🏙 Conglomerate
+Samsung Biologics,$38.82 B,South Korea,$540.08,0.00%,-14.18%,"🧬 Biotech, 🏭 Manufacturing"
+Johnson Controls,$38.15 B,Ireland,$56.08,1.05%,-16.01%,🏙 Conglomerate
+General Mills,$38.05 B,USA,$65.47,-1.39%,-25.22%,🍴 Food
+Maaden,$38.42 B,Saudi Arabia,$10.41,-1.52%,-43.02%,⛏️ Mining
+Spotify,$38.64 B,Sweden,$198.05,1.14%,154.56%,"🖥️ Internet, 👩‍💻 Tech, Entertainment"
+The Hershey Company,$37.98 B,USA,$185.74,-1.76%,-23.03%,🍴 Food
+Palantir,$38.66 B,USA,$17.77,3.19%,149.58%,"👨‍💻 Software, 👩‍💻 Tech, 🦾 AI"
+Haleon,$37.81 B,UK,$8.19,-0.36%,6.78%,🛍 Consumer goods
+Woodside Energy,$37.31 B,Australia,$19.63,2.03%,-15.21%,"🛢 Oil&Gas, ⚡ Energy"
+Agilent Technologies,$37.15 B,USA,$127.20,-1.15%,-18.61%,"🧬 Biotech, 🏭 Manufacturing"
+Sysco,$37.23 B,USA,$73.83,-0.47%,-12.01%,🍴 Food
+Bank of New York Mellon,$37.73 B,USA,$49.06,1.30%,10.02%,"🏦 Banks, 💳 Financial services"
+Adidas,$37.25 B,Germany,$208.68,1.18%,68.88%,"👚 Clothing, 🎾 Sports goods, 👟 Footwear, 🇩🇪 DAX"
+Japan Post Bank,$37.28 B,Japan,$10.31,2.27%,38.58%,"🏦 Banks, 💳 Financial services"
+L3Harris Technologies,$37.11 B,USA,$195.81,-0.44%,-10.10%,🔫 Defense contractors
+Asian Paints,$37.19 B,India,$38.77,-0.61%,-1.00%,🎨 Paint & Coating
+Datadog,$37.39 B,USA,$113.83,-1.02%,53.78%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech"
+BCE,$37.04 B,Canada,$40.61,-0.37%,-12.97%,"📰 Media/Press, 📡 Telecommunication"
+Lloyds Banking Group,$36.70 B,UK,$2.31,1.32%,3.59%,"🏦 Banks, 💳 Financial services"
+Murata Manufacturing (Murata Seisakusho),$36.71 B,Japan,$19.43,-1.61%,-63.27%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Grupo México,$36.07 B,Mexico,$4.61,0.55%,15.54%,"⛏️ Mining, 🏙 Conglomerate"
+Electronic Arts,$36.88 B,USA,$137.14,1.17%,8.75%,"👩‍💻 Tech, 🎮 Video games, Entertainment, 🕹️ Esports"
+Allstate,$36.45 B,USA,$139.32,0.22%,7.14%,🏦 Insurance
+Manulife Financial,$36.24 B,Canada,$19.94,0.45%,12.53%,"🏦 Insurance, 💳 Financial services"
+Ferguson,$36.75 B,UK,$180.65,1.11%,43.28%,N/A
+Ametek,$36.27 B,USA,$157.16,0.80%,11.65%,"🔌 Electronics, 🏭 Manufacturing"
+Prudential Financial,$36.41 B,USA,$100.87,1.21%,-0.72%,🏦 Insurance
+Dow,$35.71 B,USA,$50.92,-0.29%,0.71%,"🧪 Chemicals, 🇺🇸 Dow jones"
+MPLX,$36.12 B,USA,$36.08,0.59%,13.64%,"🛢 Oil&Gas, ⚡ Energy"
+Ameriprise Financial,$36.18 B,USA,$357.58,1.37%,10.68%,💳 Financial services
+Kühne + Nagel,$35.79 B,Switzerland,$299.28,0.77%,31.19%,🚚 Transportation
+Otis Worldwide,$35.81 B,USA,$87.50,0.97%,9.73%,🏭 Manufacturing
+Givaudan,$35.75 B,Switzerland,"$3,875",0.59%,21.56%,"Flavors & Fragrances, 💄 Cosmetics and Beauty"
+Givaudan,$35.75 B,Switzerland,"$3,875",0.59%,21.56%,"Flavors & Fragrances, 💄 Cosmetics and Beauty"
+Waste Connections,$35.63 B,USA,$138.33,-0.04%,-1.57%,♻️ Waste & Recycling
+Fastenal,$35.60 B,USA,$62.29,-0.11%,21.73%,N/A
+Sun Pharmaceutical,$35.57 B,India,$14.83,-0.28%,24.41%,"💊 Pharmaceuticals, 🧬 Biotech"
+Deutsche Börse,$35.79 B,Germany,$194.80,1.23%,7.79%,"💳 Financial services, 🏛 Stock exchanges, 🇩🇪 DAX, 🏛 Stock/Crypto exchanges"
+Constellation Energy,$35.51 B,USA,$111.21,0.62%,21.66%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Alcon,$35.44 B,Switzerland,$71.99,0.13%,4.74%,Medical devices
+Uniper,$38.24 B,Germany,$4.22,0.00%,22.32%,"🔋 Electricity, ⚡ Energy"
+Li Auto,$34.94 B,China,$34.87,-1.77%,44.69%,"🚗 Automakers, 🔋 Electric Vehicles"
+Gartner,$35.61 B,USA,$452.00,1.35%,30.48%,💼 Professional services
+Cognizant Technology Solutions,$35.26 B,USA,$70.33,-0.13%,18.60%,"💼 Professional services, 🖥️ IT services"
+Experian,$35.09 B,Ireland,$36.97,0.00%,7.29%,💳 Financial services
+E.ON,$35.17 B,Germany,$13.47,0.69%,40.31%,"🔋 Electricity, 🚰 Utility companies, 🇩🇪 DAX, ⚡ Energy"
+7-Eleven,$35.07 B,Japan,$39.71,-0.19%,-1.54%,"🛍️ Retail, 🛒 Supermarket Chains"
+Yum! Brands,$34.85 B,USA,$124.34,0.06%,-4.24%,🍔 Restaurant chains
+Fidelity National Information Services,$34.92 B,USA,$58.94,0.03%,-15.55%,"💳 Financial services, 👩‍💻 Tech"
+Partners Group,$34.73 B,Switzerland,"$1,339",0.95%,46.30%,💰 Investment
+Interactive Brokers,$34.65 B,USA,$83.15,2.90%,8.99%,"💳 Financial services, 🖥️ Internet"
+Capgemini,$34.65 B,France,$207.37,0.87%,17.16%,"💼 Professional services, 🇫🇷 CAC 40, 🖥️ IT services"
+Biogen,$34.67 B,USA,$239.29,0.07%,-17.23%,"💊 Pharmaceuticals, 🧬 Biotech"
+UOB,$34.38 B,Singapore,$20.55,1.43%,-9.39%,"🏦 Banks, 💳 Financial services"
+PPG Industries,$33.95 B,USA,$143.98,-0.69%,10.45%,"🧪 Chemicals, 🎨 Paint & Coating"
+Bank Mandiri,$34.32 B,Indonesia,$0.37,-0.87%,15.63%,"🏦 Banks, 💳 Financial services"
+BTG Pactual,$32.86 B,Brazil,$3.39,5.10%,41.25%,💳 Financial services
+Exor,$34.66 B,Netherlands,$99.74,0.59%,28.76%,💰 Investment
+Las Vegas Sands,$34.94 B,USA,$46.39,3.43%,-3.97%,"🏨 Hotels, 🎰 Gambling, Entertainment, 🌴 Travel"
+The Trade Desk,$34.62 B,USA,$70.63,2.69%,45.60%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech"
+Compagnie de Saint-Gobain,$33.58 B,France,$66.76,1.06%,40.46%,🇫🇷 CAC 40
+Coinbase,$35.07 B,USA,$146.62,7.66%,242.49%,"💳 Financial services, 🖥️ Internet, 👩‍💻 Tech, ₿ Bitcoin, 🏛 Stock/Crypto exchanges"
+CoStar Group,$33.64 B,USA,$82.39,-0.23%,0.00%,"🏠 Real estate, 👩‍💻 Tech"
+Wolters Kluwer,$33.79 B,Netherlands,$140.08,0.23%,28.24%,"👨‍💻 Software, 👩‍💻 Tech"
+Xcel Energy,$33.61 B,USA,$60.91,-1.04%,-12.75%,N/A
+Bayer,$33.81 B,Germany,$34.42,0.20%,-37.91%,"💊 Pharmaceuticals, 🧪 Chemicals, 🇩🇪 DAX, 🧬 Biotech"
+Verisk Analytics,$33.77 B,USA,$232.92,-0.36%,27.85%,💼 Professional services
+Anglo American,$38.91 B,UK,$22.69,-18.97%,-43.68%,⛏️ Mining
+Ares Management,$33.98 B,USA,$110.64,2.16%,57.70%,"💳 Financial services, Asset Management"
+United Rentals,$33.55 B,USA,$495.06,2.28%,36.89%,Rental & Leasing Services
+Wanhua Chemical,$33.39 B,China,$10.64,0.28%,-19.76%,🧪 Chemicals
+Naspers,$32.89 B,South Africa,$35.61,-1.36%,12.33%,"📰 Media/Press, 🖥️ Internet, Entertainment"
+Kuwait Finance House,$33.27 B,eu Kuwait,"$2,278",0.57%,"90,289.68%","🏦 Banks, 💳 Financial services"
+NTPC Limited,$33.18 B,India,$3.42,0.44%,65.22%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+DSV,$32.75 B,Denmark,$156.16,-0.99%,2.76%,🚚 Transportation
+ON Semiconductor,$32.79 B,USA,$76.14,0.40%,5.52%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics"
+Hyundai,$33.27 B,South Korea,$40.51,0.00%,33.92%,"🚗 Automakers, 🏭 Manufacturing"
+Verbund AG,$32.71 B,Austria,$93.78,1.22%,7.41%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Cummins,$32.68 B,USA,$230.58,-0.07%,-5.34%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+Mobileye,$32.41 B,Israel,$40.21,-0.02%,27.29%,"👨‍💻 Software, 👩‍💻 Tech, 🤖 Autonomous driving, 🦾 AI"
+RWE,$32.47 B,Germany,$43.65,-0.15%,-0.82%,"🔋 Electricity, 🇩🇪 DAX, ⚡ Energy"
+Bajaj Finserv,$32.65 B,India,$20.52,0.36%,4.27%,💳 Financial services
+Swiss Re,$32.64 B,Switzerland,$112.95,0.22%,22.87%,🏦 Insurance
+Baker Hughes,$32.66 B,USA,$32.24,1.61%,14.81%,"🛢 Oil&Gas, ⚡ Energy"
+UltraTech Cement,$32.54 B,India,$112.93,0.63%,29.39%,"Cement, 🧱 Building materials"
+Beiersdorf,$32.43 B,Germany,$143.00,0.49%,27.36%,"🛍 Consumer goods, 🇩🇪 DAX"
+Kroger,$32.06 B,USA,$44.58,-0.49%,-6.07%,"🛍️ Retail, 🛒 Supermarket Chains"
+Restaurant Brands International,$32.01 B,Canada,$71.91,-1.13%,7.18%,"🍔 Restaurant chains, 🍴 Food"
+Rockwell Automation,$31.93 B,USA,$278.53,0.23%,8.31%,N/A
+CITIC Bank,$32.01 B,China,$0.74,0.57%,1.37%,"🏦 Banks, 💳 Financial services"
+East Money Information,$31.80 B,China,$2.01,-0.62%,-29.97%,"💳 Financial services, 🖥️ Internet"
+Orange,$31.91 B,France,$11.95,-0.42%,22.56%,"📡 Telecommunication, 🇫🇷 CAC 40"
+DMart,$31.77 B,India,$48.84,-1.09%,-0.49%,🛍️ Retail
+Consolidated Edison,$31.60 B,USA,$91.55,-0.96%,-6.19%,"🔋 Electricity, ⚡ Energy"
+Generali,$31.85 B,Italy,$20.66,0.13%,14.27%,🏦 Insurance
+Corteva,$31.81 B,USA,$45.15,1.46%,-29.17%,"🧪 Chemicals, 🚜 Agriculture"
+VICI Properties,$31.56 B,USA,$30.51,0.26%,-9.41%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Banco do Brasil,$31.54 B,Brazil,$11.05,1.08%,64.19%,"🏦 Banks, 💳 Financial services"
+SMC corp,$31.46 B,Japan,$487.88,-2.70%,7.82%,N/A
+Tata Motors,$31.40 B,India,$8.57,-1.03%,69.03%,🚗 Automakers
+Halliburton,$31.26 B,USA,$34.93,1.48%,0.17%,"🛢 Oil&Gas, ⚡ Energy"
+Nasdaq,$31.13 B,USA,$53.97,-0.30%,-15.92%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Global Payments,$31.28 B,USA,$120.16,0.24%,21.46%,"💳 Financial services, 👩‍💻 Tech"
+Amadeus IT Group,$31.30 B,Spain,$70.75,1.96%,35.54%,"👨‍💻 Software, 👩‍💻 Tech, 🌴 Travel"
+CaixaBank,$31.22 B,Spain,$4.22,-0.66%,21.26%,"🏦 Banks, 💳 Financial services"
+WuXi AppTec,$31.46 B,China,$10.39,-0.61%,2.36%,"💊 Pharmaceuticals, Medical devices, 🧬 Biotech"
+Thales,$31.10 B,France,$149.96,2.55%,16.20%,"🔫 Defense contractors, 🇫🇷 CAC 40"
+Moderna,$30.62 B,USA,$80.32,0.46%,-56.51%,"💊 Pharmaceuticals, 🧬 Biotech, 🧬 mRNA therapeutics"
+Prudential,$30.79 B,UK,$22.37,1.27%,-13.73%,🏦 Insurance
+PSEG,$31.17 B,USA,$62.57,0.24%,4.28%,"🔋 Electricity, ⚡ Energy"
+Rolls-Royce Holdings,$30.65 B,UK,$3.64,1.08%,225.00%,"🚀 Aerospace, 🏭 Manufacturing"
+Luxshare Precision,$30.82 B,China,$4.31,3.28%,-5.07%,N/A
+GE HealthCare Technologies,$31.19 B,USA,$68.52,1.68%,14.20%,"Medical equipment, 🏭 Manufacturing"
+Henkel,$30.71 B,Germany,$78.50,-0.27%,10.63%,"🧪 Chemicals, 🛍 Consumer goods, 🇩🇪 DAX"
+Royal Caribbean,$30.86 B,USA,$120.47,0.82%,111.02%,"🌴 Travel, 🛳 Cruise Lines"
+Dupont De Nemours,$30.48 B,USA,$70.89,0.24%,1.49%,🧪 Chemicals
+Muyuan Foods,$30.59 B,China,$5.60,-1.91%,-19.77%,🍴 Food
+LyondellBasell,$30.02 B,USA,$92.58,0.43%,13.48%,🧪 Chemicals
+Cenovus Energy,$30.67 B,Canada,$16.29,1.43%,-9.60%,"🛢 Oil&Gas, ⚡ Energy"
+Imperial Oil,$30.73 B,Canada,$55.37,3.03%,6.62%,"🛢 Oil&Gas, ⚡ Energy"
+Extra Space Storage,$30.30 B,USA,$138.68,1.15%,-11.93%,🏠 Real estate
+SMIC,$30.22 B,China,$2.63,-0.96%,24.06%,"📟 Semiconductors, 👩‍💻 Tech"
+Swisscom,$30.09 B,Switzerland,$580.97,-0.16%,7.24%,📡 Telecommunication
+WEG ON,$29.50 B,Brazil,$7.03,-2.01%,-1.68%,N/A
+Sun Life Financial,$30.06 B,Canada,$51.45,0.76%,11.46%,"🏦 Insurance, 💳 Financial services"
+Great-West Lifeco,$30.09 B,Canada,$32.32,0.34%,46.05%,"🏦 Insurance, 💳 Financial services"
+Kuaishou Technology,$29.96 B,China,$6.90,-0.55%,-21.77%,"🖥️ Internet, 👩‍💻 Tech"
+Barrick Gold,$29.47 B,Canada,$16.79,-2.50%,-0.06%,"⛏️ Mining, ⛏️ Gold mining"
+Zscaler,$29.48 B,USA,$198.80,-0.62%,66.32%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+Japan Post Holdings,$29.70 B,Japan,$9.04,1.12%,18.32%,📦 Courier
+Chunghwa Telecom,$29.77 B,Taiwan,$38.03,-0.45%,5.00%,📡 Telecommunication
+Ingersoll Rand,$29.67 B,Ireland,$73.31,1.05%,37.65%,N/A
+Oil & Natural Gas,$29.57 B,India,$2.35,-1.48%,35.84%,"🛢 Oil&Gas, ⚡ Energy"
+Arch Capital,$29.59 B,Bermuda,$79.30,1.23%,30.94%,🏦 Insurance
+Adani Green Energy,$29.46 B,India,$18.60,-4.55%,-25.48%,"🔋 Electricity, 🌞 Renewable energy, ⚡ Energy"
+Neste,$29.19 B,Finland,$38.01,0.83%,-21.37%,"🛢 Oil&Gas, 👷 Engineering, ⚡ Energy"
+Naturgy,$29.41 B,Spain,$30.35,0.79%,10.08%,N/A
+Telstra,$29.19 B,Australia,$2.53,0.00%,-5.60%,📡 Telecommunication
+Coca-Cola European Partners,$29.40 B,UK,$63.41,-0.95%,19.35%,🥤 Beverages
+Jardine Matheson,$29.16 B,Hong Kong,$40.45,0.62%,-17.87%,"💰 Investment, 🏙 Conglomerate"
+HP,$29.11 B,USA,$29.46,0.17%,3.44%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+DNB,$29.11 B,Norway,$19.15,-1.69%,6.09%,💳 Financial services
+Goodman Group,$28.99 B,Australia,$15.27,-0.47%,24.55%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+GlobalFoundries,$29.04 B,USA,$52.50,-0.49%,-15.89%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Renesas Electronics,$29.08 B,Japan,$16.48,1.04%,76.26%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Copel,$28.64 B,Brazil,$9.60,-0.10%,32.96%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+PTT PCL,$29.08 B,Thailand,$1.02,0.70%,9.68%,"🛢 Oil&Gas, ⚡ Energy"
+Singtel,$28.88 B,Singapore,$1.75,0.86%,-10.71%,📡 Telecommunication
+Dollar General,$27.92 B,USA,$127.22,-3.84%,-48.85%,🛍️ Retail
+Woolworths Group,$28.75 B,Australia,$23.54,-0.22%,1.99%,"🛍️ Retail, 🛒 Supermarket Chains"
+Loblaw Companies,$28.88 B,Canada,$91.30,0.54%,-0.15%,"🛍️ Retail, 🛒 Supermarket Chains"
+Chocoladefabriken Lindt & Sprüngli,$28.89 B,Switzerland,"$12,428",1.78%,23.14%,🍴 Food
+Martin Marietta,$29.01 B,USA,$469.39,0.87%,31.22%,🧱 Building materials
+Quanta Services,$28.94 B,USA,$199.25,2.51%,32.56%,👷 Engineering
+3i Group,$28.72 B,UK,$29.51,1.21%,81.71%,💰 Investment
+Assa Abloy,$28.92 B,Sweden,$26.28,0.03%,17.43%,N/A
+Nestlé India,$28.67 B,India,$297.40,-0.74%,23.52%,🍴 Food
+Sun Hung Kai Properties,$28.65 B,Hong Kong,$9.89,-0.32%,-21.57%,🏠 Real estate
+Cheniere Energy,$41.98 B,USA,$176.21,2.55%,8.04%,N/A
+Vulcan Materials,$28.70 B,USA,$216.03,0.87%,18.17%,🧱 Building materials
+Delta Electronics (Thailand),$28.77 B,Thailand,$2.31,6.58%,18.46%,"👩‍💻 Tech, 🔌 Electronics, 🏭 Manufacturing, 💻 Tech Hardware"
+Flutter Entertainment,$28.07 B,Ireland,$75.01,1.46%,8.93%,"🎰 Gambling, Entertainment"
+Hannover Rück,$28.45 B,Germany,$235.92,-0.36%,20.84%,"🏦 Insurance, 🇩🇪 DAX"
+Mitsubishi Electric,$28.41 B,Japan,$13.55,-1.19%,39.98%,"🔌 Electronics, 🏭 Manufacturing"
+CDW Corporation,$28.55 B,USA,$213.19,0.29%,14.04%,🛍️ Retail
+Bridgestone,$28.36 B,Japan,$41.44,-2.88%,12.92%,Tires
+Equifax,$28.14 B,USA,$228.38,1.84%,15.30%,💳 Financial services
+Devon Energy,$28.24 B,USA,$44.09,1.45%,-30.57%,"🛢 Oil&Gas, ⚡ Energy"
+Foshan Haitian Flavouring and Food,$28.21 B,China,$5.07,-0.11%,-46.97%,🍴 Food
+Daimler Truck,$28.27 B,Germany,$34.61,0.91%,8.33%,"🇩🇪 DAX, 🏭 Manufacturing, 🚑 Specialty Vehicles"
+Ryanair,$28.46 B,Ireland,$124.90,-0.99%,64.30%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+S.F. Express,$28.14 B,China,$5.75,1.90%,-30.05%,📦 Courier
+Fujitsu,$28.16 B,Japan,$149.47,0.14%,11.85%,"💼 Professional services, 🖥️ IT services"
+Ahold Delhaize,$28.08 B,Netherlands,$29.44,0.72%,-1.47%,"🛍️ Retail, 🍴 Food, 🛒 Supermarket Chains"
+Nornickel,$27.93 B,Russia,$180.54,-1.24%,N/A,⛏️ Mining
+EQT,$28.55 B,Sweden,$23.08,-2.44%,1.18%,💰 Investment
+Veeva Systems,$27.74 B,USA,$172.71,-0.14%,-0.18%,"👨‍💻 Software, 👩‍💻 Tech"
+Lonza,$27.93 B,Switzerland,$376.04,0.21%,-22.63%,"💊 Pharmaceuticals, 🧬 Biotech"
+Ashtead,$27.72 B,UK,$63.35,3.01%,5.57%,Rental & Leasing Services
+China State Construction Engineering,$27.85 B,China,$0.66,0.00%,-22.35%,"🏗 Construction, 👷 Engineering"
+FICO,$28.03 B,USA,"$1,134",1.46%,81.51%,"👨‍💻 Software, 👩‍💻 Tech"
+Symbotic,$28.01 B,USA,$50.33,4.75%,327.25%,"👩‍💻 Tech, 🤖 Robotics"
+Coupang,$28.06 B,South Korea,$15.70,2.21%,-13.50%,"🛒 E-Commerce, 🛍️ Retail, 🖥️ Internet, 👩‍💻 Tech"
+Hexagon,$27.91 B,Sweden,$10.46,0.00%,-8.57%,N/A
+Bank of China (Hong Kong),$27.69 B,Hong Kong,$2.62,-0.49%,-18.89%,"🏦 Banks, 💳 Financial services"
+Dollar Tree,$27.10 B,USA,$124.41,-1.84%,-13.90%,🛍️ Retail
+Monolithic Power Systems,$27.58 B,USA,$575.73,1.27%,49.40%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Barclays,$27.77 B,UK,$7.34,2.51%,-5.29%,"🏦 Banks, 💳 Financial services"
+LG Chem,$27.49 B,South Korea,$364.50,2.13%,-28.51%,🧪 Chemicals
+Intact Financial,$27.59 B,Canada,$154.74,0.34%,3.65%,🏦 Insurance
+China Pacific Insurance,$27.48 B,China,$3.22,-0.94%,-10.31%,🏦 Insurance
+Shanghai Pudong Development Bank,$27.32 B,China,$0.93,0.91%,-12.26%,"🏦 Banks, 💳 Financial services"
+Vestas Wind Systems,$27.54 B,Denmark,$27.29,0.76%,1.07%,"🔋 Electricity, 🌞 Renewable energy, ⚡ Energy"
+POSCO,$27.26 B,South Korea,$89.85,4.10%,64.38%,"🔩 Steel producers, 🔩 Steel industry"
+H&M,$26.88 B,Sweden,$16.62,1.95%,48.00%,"👚 Clothing, 🛍️ Retail"
+Cellnex Telecom,$27.23 B,Spain,$38.60,-0.50%,12.54%,📡 Telecommunication
+Warner Bros. Discovery,$27.60 B,USA,$11.47,6.01%,6.60%,"📰 Media/Press, Entertainment"
+Argenx,$27.00 B,Netherlands,$453.48,-0.94%,16.42%,"💊 Pharmaceuticals, 🧬 Biotech"
+The People's Insurance Company (PICC),$27.09 B,China,$0.69,-0.61%,-11.54%,🏦 Insurance
+Nutrien,$26.91 B,Canada,$54.42,0.26%,-28.75%,"⛏️ Mining, 🌱 Fertilizer companies"
+MongoDB,$27.47 B,USA,$381.79,-0.64%,96.36%,"👨‍💻 Software, 👩‍💻 Tech"
+Telus,$26.85 B,Canada,$18.46,-1.14%,-10.86%,📡 Telecommunication
+Banorte,$27.40 B,Mexico,$9.50,1.39%,27.01%,💳 Financial services
+SBA Communications,$26.34 B,USA,$244.18,-2.76%,-15.59%,"🏠 Real estate, 💰 Investment, 📡 Telecommunication, 🏘️ REITs, 🛣️ Infrastructure"
+Transurban,$26.74 B,Australia,$8.66,0.15%,-7.68%,"🛣 Toll Road Operators, 🛣️ Infrastructure"
+Diamondback Energy,$26.62 B,USA,$148.73,0.77%,11.93%,"🛢 Oil&Gas, ⚡ Energy"
+CITIC limited,$26.67 B,China,$0.92,0.42%,-7.07%,N/A
+Horizon Therapeutics,$26.63 B,Ireland,$116.30,0.00%,20.01%,💊 Pharmaceuticals
+Anta Sports,$26.62 B,China,$9.40,-0.88%,-24.74%,🎾 Sports goods
+Legrand,$26.62 B,France,$101.32,2.04%,23.68%,"🔌 Electronics, 🇫🇷 CAC 40, 🏭 Manufacturing"
+QNB Finansbank,$26.65 B,Turkey,$7.96,4.31%,204.98%,"🏦 Banks, 💳 Financial services"
+Aena,$26.46 B,Spain,$176.45,0.68%,34.11%,"🛫 Airports, 🛣️ Infrastructure"
+Skandinaviska Enskilda Banken,$26.71 B,Sweden,$12.76,0.34%,12.82%,"🏦 Banks, 💳 Financial services"
+WEC Energy Group,$26.51 B,USA,$84.07,-1.09%,-12.12%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Adani Ports & SEZ,$26.50 B,India,$12.27,-1.61%,12.98%,⚓ Ports
+Brown Forman,$26.48 B,USA,$56.78,0.78%,-16.35%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Take 2 Interactive,$26.41 B,USA,$155.32,0.72%,54.10%,"👩‍💻 Tech, 🎮 Video games, Entertainment, 🕹️ Esports"
+Wipro,$26.40 B,India,$5.01,0.60%,1.62%,"💼 Professional services, 🖥️ IT services"
+Chandra Asri Petrochemical,$26.23 B,Indonesia,$0.30,8.05%,100.00%,"🛢 Oil&Gas, ⚡ Energy"
+Fubon Financial,$26.17 B,Taiwan,$2.01,0.00%,8.06%,"🏦 Banks, 💳 Financial services"
+Cardinal Health,$26.33 B,USA,$106.83,0.42%,32.25%,⚕️ Healthcare
+Klabin,$26.10 B,Brazil,$4.21,0.48%,7.95%,📄 Pulp and paper
+Haier Smart Home,$26.09 B,China,$2.90,-0.24%,-17.85%,🏠 Home & Kitchen Appliances
+Delta Air Lines,$25.96 B,USA,$40.35,0.02%,20.34%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Cloudflare,$26.02 B,USA,$77.52,0.94%,57.56%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech, 🔒 IT security"
+Kia,$26.00 B,South Korea,$65.82,1.53%,33.67%,"🚗 Automakers, 🏭 Manufacturing"
+Coal India,$25.95 B,India,$4.21,-0.27%,50.36%,"⛏️ Mining, ⚡ Energy, ⛏️ Coal Mining"
+Fanuc,$25.97 B,Japan,$27.44,-2.75%,-81.90%,"⚙️ Machinery manufacturing, 🤖 Robotics, 🏭 Manufacturing"
+Marubeni,$25.97 B,Japan,$15.43,-3.11%,35.23%,🏙 Conglomerate
+Ecopetrol,$26.15 B,eu Colombia,$12.72,2.83%,37.07%,"🛢 Oil&Gas, ⚡ Energy"
+Agnico Eagle Mines,$25.41 B,Canada,$51.24,-2.42%,-1.02%,"⛏️ Mining, ⛏️ Gold mining"
+Gree Electric Appliances,$25.84 B,China,$4.59,0.18%,-2.96%,"🔌 Electronics, 🏠 Home & Kitchen Appliances, 🏭 Manufacturing"
+Delta Electronics,$25.82 B,Taiwan,$9.94,0.48%,3.43%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+SSE,$25.90 B,UK,$23.70,0.67%,14.27%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Edison International,$25.87 B,USA,$67.45,0.21%,3.13%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Sumitomo,$25.82 B,Japan,$21.14,-1.87%,29.30%,💰 Investment
+Discover Financial Services,$25.83 B,USA,$103.30,0.95%,0.36%,💳 Financial services
+Deutsche Bank,$25.65 B,Germany,$12.77,1.92%,20.81%,"🏦 Banks, 💳 Financial services, 🇩🇪 DAX"
+American Water Works,$25.57 B,USA,$131.35,-0.91%,-15.48%,🚰 Utility companies
+Xylem,$25.64 B,USA,$106.38,0.32%,-4.45%,N/A
+Tesco,$26.04 B,UK,$3.68,1.66%,34.31%,"🛍️ Retail, 🛒 Supermarket Chains"
+Powergrid Corporation of India,$25.50 B,India,$2.74,-0.61%,3.40%,"🔋 Electricity, 🛣️ Infrastructure"
+Ferrovial,$25.57 B,Spain,$35.05,0.71%,30.88%,"🏗 Construction, 🛣️ Infrastructure"
+Great Wall Motors,$25.42 B,China,$3.63,-0.69%,-19.69%,"🚗 Automakers, 🏭 Manufacturing"
+Splunk,$25.44 B,USA,$150.95,-0.04%,73.45%,"👨‍💻 Software, 👩‍💻 Tech"
+Canon,$25.48 B,Japan,$25.80,-2.08%,13.81%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Roblox,$25.46 B,USA,$40.83,2.43%,27.87%,"🎮 Video games, Entertainment"
+ASM International,$24.10 B,Netherlands,$495.04,1.72%,76.06%,"📟 Semiconductors, 👩‍💻 Tech, 👷 Engineering"
+Sandvik,$25.50 B,Sweden,$20.33,-1.22%,13.01%,"👷 Engineering, ⚙️ Machinery manufacturing, 🏭 Manufacturing"
+Ping An Bank,$25.19 B,China,$1.30,-1.48%,-32.29%,"🏦 Banks, 💳 Financial services"
+CBRE Group,$25.20 B,USA,$82.69,0.04%,8.63%,"🏠 Real estate, 💰 Investment"
+Willis Towers Watson,$25.05 B,UK,$242.66,-0.02%,-1.26%,🏦 Insurance
+West Pharmaceutical,$25.32 B,USA,$342.24,0.31%,45.00%,"💊 Pharmaceuticals, 📦 Packaging"
+DSM-Firmenich,$24.95 B,Switzerland,$93.92,0.43%,N/A,🍴 Food
+Snap,$24.84 B,USA,$15.09,2.24%,60.53%,"🖥️ Internet, 👩‍💻 Tech"
+Telkom Indonesia,$25.15 B,Indonesia,$25.16,0.12%,6.38%,📡 Telecommunication
+Keysight,$25.20 B,USA,$144.33,1.72%,-20.28%,"👨‍💻 Software, 👩‍💻 Tech"
+HubSpot,$25.26 B,USA,$502.04,2.03%,71.54%,"👨‍💻 Software, 👩‍💻 Tech"
+Corning,$24.83 B,USA,$29.11,0.34%,-12.64%,N/A
+Naver,$24.94 B,South Korea,$165.68,2.35%,17.37%,"🖥️ Internet, 👩‍💻 Tech"
+Formosa Petrochemical,$24.91 B,Taiwan,$2.62,-0.12%,-1.13%,"🛢 Oil&Gas, ⚡ Energy"
+Quanta Computer,$24.89 B,Taiwan,$6.46,1.00%,174.89%,N/A
+Mahindra & Mahindra,$24.89 B,India,$20.02,-1.42%,29.24%,🚗 Automakers
+Coloplast,$24.90 B,Denmark,$110.84,0.95%,-7.82%,Medical devices
+AvalonBay Communities,$24.95 B,USA,$175.75,0.21%,3.63%,"🏠 Real estate, 💰 Investment"
+Ansys,$24.94 B,USA,$287.20,0.38%,17.28%,"👨‍💻 Software, 👩‍💻 Tech"
+KBC,$25.09 B,Belgium,$61.20,1.32%,2.51%,🏦 Insurance
+NatWest Group,$24.68 B,UK,$5.61,0.18%,-12.07%,"🏦 Banks, 💳 Financial services"
+Adani Power,$24.70 B,India,$6.40,-5.09%,62.44%,"🔋 Electricity, ⚡ Energy"
+Telefónica,$24.83 B,Spain,$4.31,-0.23%,21.07%,📡 Telecommunication
+Zimmer Biomet,$24.51 B,USA,$117.30,0.01%,-6.79%,Medical devices
+JSW Steel,$24.50 B,India,$10.07,2.47%,11.27%,"🔩 Steel producers, 🔩 Steel industry"
+Michelin,$24.57 B,France,$34.45,0.28%,25.00%,"Tires, 🇫🇷 CAC 40"
+Vodafone,$23.73 B,UK,$8.73,-1.24%,-16.70%,📡 Telecommunication
+Maersk,$24.35 B,Denmark,"$1,517",1.01%,-25.45%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Central Japan Railway,$24.41 B,Japan,$24.81,0.00%,-79.04%,"🚂 Railways, 🚚 Transportation"
+Toyota Industries,$24.39 B,Japan,$78.56,-5.38%,44.60%,N/A
+BioNTech,$24.79 B,Germany,$103.43,1.48%,-39.80%,"💊 Pharmaceuticals, 🧬 Biotech, 🧬 mRNA therapeutics"
+EnBW Energie,$24.08 B,Germany,$88.93,-1.20%,-0.48%,"🔋 Electricity, ⚡ Energy"
+Fortive,$24.21 B,USA,$68.89,-0.25%,3.50%,🏙 Conglomerate
+Terumo,$24.37 B,Japan,$32.73,-0.40%,14.20%,Medical devices
+Airports of Thailand,$24.41 B,Thailand,$1.71,0.00%,-19.34%,"🛫 Airports, 🛣️ Infrastructure"
+CGI,$24.17 B,Canada,$104.13,0.11%,21.04%,💼 Professional services
+Schindler Group,$24.15 B,Switzerland,$220.69,1.31%,23.96%,N/A
+ResMed,$23.95 B,USA,$162.87,-0.38%,-26.80%,Medical devices
+Rogers Communication,$24.00 B,Canada,$45.47,-0.18%,1.20%,"📰 Media/Press, 📡 Telecommunication"
+Mettler-Toledo,$23.64 B,USA,"$1,091",-0.86%,-26.45%,N/A
+Fujifilm,$23.90 B,Japan,$59.59,-0.19%,15.71%,🏙 Conglomerate
+Garmin,$23.83 B,Switzerland,$124.59,0.16%,30.31%,"👩‍💻 Tech, 🔌 Electronics"
+ULTA Beauty,$23.41 B,USA,$482.16,-1.57%,0.11%,"🛍️ Retail, 💄 Cosmetics and Beauty"
+Pinterest,$23.54 B,USA,$34.91,2.62%,54.33%,🖥️ Internet
+National Bank of Canada,$23.53 B,Canada,$69.59,0.50%,1.38%,"🏦 Banks, 💳 Financial services"
+Z Holdings,$23.65 B,Japan,$3.14,4.43%,19.85%,🖥️ Internet
+Evolution Gaming,$23.63 B,Sweden,$110.62,2.87%,6.58%,"🎰 Gambling, Entertainment"
+China Tourism Group Duty Free,$23.55 B,China,$11.49,-0.70%,-62.65%,🛍️ Retail
+ČEZ Group,$23.57 B,cz Czech Republic,$43.92,-0.75%,36.87%,"🛢 Oil&Gas, 🔋 Electricity, ⚡ Energy"
+The Hartford,$23.54 B,USA,$78.28,-0.01%,4.58%,"🏦 Insurance, 💳 Financial services"
+YANGHE,$23.48 B,China,$15.59,-1.05%,-28.75%,"🍷 Alcoholic beverages, 🥤 Beverages"
+China Resources Land,$23.47 B,Hong Kong,$3.29,-4.64%,N/A,🏠 Real estate
+Galaxy Entertainment,$23.46 B,Hong Kong,$5.37,2.07%,-20.44%,"🏨 Hotels, 🌴 Travel"
+Carnival Corporation,$23.65 B,USA,$18.11,1.00%,100.55%,"🌴 Travel, 🛳 Cruise Lines"
+Yili Group,$23.42 B,China,$3.68,0.04%,-17.86%,🥛 Dairy companies
+Associated British Foods,$23.33 B,UK,$30.49,-0.29%,50.87%,🍴 Food
+Vonovia,$23.34 B,Germany,$28.62,-1.30%,16.11%,"🏠 Real estate, 🇩🇪 DAX, 🏘️ REITs"
+Komatsu,$23.25 B,Japan,$24.58,-3.72%,8.62%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+China Securities,$23.07 B,China,$3.55,1.27%,-3.53%,💳 Financial services
+Panasonic,$23.10 B,Japan,$9.90,-0.38%,10.12%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+SAIC Motor,$23.02 B,China,$1.97,0.57%,-10.05%,"🚗 Automakers, 🏭 Manufacturing"
+Church & Dwight,$22.89 B,USA,$92.94,-1.29%,14.53%,🛍 Consumer goods
+Tractor Supply,$22.92 B,USA,$212.07,1.44%,-3.39%,🛍️ Retail
+Aptiv,$22.58 B,Ireland,$79.83,-1.26%,-14.58%,"🚘 Automotive Suppliers, 🤖 Autonomous driving"
+KONE,$22.79 B,Finland,$44.07,-0.20%,-12.33%,"💼 Professional services, 👷 Engineering"
+Samsung SDI,$22.70 B,South Korea,$188.91,1.22%,-21.81%,"🔋 Electricity, 🔋 Batteries"
+State Street Corporation,$22.82 B,USA,$73.97,1.08%,-5.31%,"🏦 Banks, 💳 Financial services"
+Veolia,$22.48 B,France,$31.89,1.16%,23.80%,"♻️ Waste & Recycling, 🇫🇷 CAC 40"
+Mitsui Fudosan,$22.63 B,Japan,$24.24,-2.21%,26.58%,🏠 Real estate
+Endesa,$22.54 B,Spain,$21.30,0.36%,14.45%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+National Bank of Kuwait,$22.62 B,eu Kuwait,"$2,853",-0.23%,"83,810.88%","🏦 Banks, 💳 Financial services"
+Broadridge Financial Solutions,$22.51 B,USA,$191.36,-0.34%,32.14%,"💼 Professional services, 💳 Financial services"
+Sea (Garena),$22.75 B,Singapore,$40.00,2.46%,-34.51%,"🛒 E-Commerce, 💳 Financial services, 🖥️ Internet, 👩‍💻 Tech, 🎮 Video games, Entertainment"
+Grupo Bimbo,$21.94 B,Mexico,$4.99,-2.09%,14.45%,🍴 Food
+Weyerhaeuser,$22.53 B,USA,$30.87,-0.06%,-2.53%,N/A
+China Everbright Bank,$22.34 B,China,$0.40,1.05%,-11.11%,"🏦 Banks, 💳 Financial services"
+T. Rowe Price,$21.99 B,USA,$98.44,-1.50%,-19.48%,💰 Investment
+Disco Corp.,$22.31 B,Japan,$205.96,-0.29%,-29.69%,"📟 Semiconductors, 👩‍💻 Tech"
+Equity Residential,$22.33 B,USA,$58.82,0.20%,-6.20%,🏠 Real estate
+Fairfax Financial,$22.45 B,Canada,$910.62,0.99%,57.53%,N/A
+Standard Chartered,$22.14 B,UK,$8.31,1.54%,15.10%,"🏦 Banks, 💳 Financial services"
+DTE Energy,$22.40 B,USA,$108.61,1.30%,-7.69%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+MTR Corporation,$22.21 B,Hong Kong,$3.57,0.00%,-26.09%,N/A
+M&T Bank,$22.01 B,USA,$132.65,-0.10%,-11.64%,"🏦 Banks, 💳 Financial services"
+Raymond James,$22.33 B,USA,$107.05,1.59%,-5.82%,💳 Financial services
+Sampo,$22.22 B,Finland,$44.29,0.51%,-14.02%,🏦 Insurance
+Zoom,$22.24 B,USA,$73.06,1.57%,0.97%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech"
+ICON plc,$22.43 B,Ireland,$272.46,1.59%,37.27%,"💊 Pharmaceuticals, 🧬 Biotech"
+Chongqing Changan,$22.07 B,China,$2.56,-3.12%,28.64%,"🚗 Automakers, 🏭 Manufacturing"
+Shenzhen Inovance,$22.01 B,China,$8.25,0.82%,-19.20%,N/A
+Hindustan Aeronautics,$21.93 B,India,$32.80,1.63%,-2.00%,"✈️ Aircraft manufacturers, 🚀 Aerospace, 🔫 Defense contractors"
+LONGi Green Energy Technology,$21.92 B,China,$2.89,-0.24%,-56.67%,"🔋 Electricity, 🌞 Renewable energy, ⚡ Energy"
+Budweiser APAC,$21.94 B,Hong Kong,$1.66,-0.31%,-46.28%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Danske Bank,$22.26 B,Denmark,$25.90,0.54%,43.25%,"🏦 Banks, 💳 Financial services"
+Straumann,$21.81 B,Switzerland,$136.90,1.61%,20.47%,Medical devices
+Howmet Aerospace,$21.92 B,USA,$53.26,0.99%,41.50%,🚀 Aerospace
+Alnylam Pharmaceuticals,$21.33 B,USA,$170.04,-4.07%,-28.56%,"💊 Pharmaceuticals, 🧬 Biotech"
+VeriSign,$21.74 B,USA,$212.97,-0.75%,7.89%,🖥️ Internet
+HEICO,$21.79 B,USA,$178.91,0.66%,12.60%,🔌 Electronics
+Astellas Pharma,$21.73 B,Japan,$12.09,-2.35%,-22.40%,"💊 Pharmaceuticals, 🧬 Biotech"
+China Minsheng Bank,$21.64 B,China,$0.53,0.26%,3.92%,"🏦 Banks, 💳 Financial services"
+Hapag-Lloyd,$21.11 B,Germany,$119.25,0.36%,-38.15%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Epiroc,$21.76 B,Sweden,$19.16,-0.33%,3.12%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+eBay,$21.42 B,USA,$41.29,-0.46%,-5.90%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+ORIX,$21.72 B,Japan,$94.03,-0.25%,18.44%,"🏦 Banks, 💳 Financial services"
+Wheaton Precious Metals,$21.43 B,Canada,$47.31,-1.07%,19.71%,"⛏️ Mining, ⛏️ Silver Mining, ⛏️ Gold mining"
+Publicis Groupe,$21.42 B,France,$85.54,0.74%,34.26%,"💼 Professional services, ➡️ Advertising, 🇫🇷 CAC 40"
+Riyad Bank,$21.53 B,Saudi Arabia,$7.19,0.37%,-12.00%,"🏦 Banks, 💳 Financial services"
+Advantest,$21.52 B,Japan,$29.21,-0.24%,-57.35%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Entergy,$21.57 B,USA,$102.01,0.12%,-12.81%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Nidec,$21.47 B,Japan,$37.35,-0.76%,-36.79%,"🔌 Electronics, 🏭 Manufacturing"
+Lasertec,$21.47 B,Japan,$238.15,-0.95%,25.99%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Tradeweb,$21.20 B,USA,$90.35,-1.22%,40.71%,💳 Financial services
+Swedbank,$21.50 B,Sweden,$19.12,0.46%,17.44%,"🏦 Banks, 💳 Financial services"
+Wabtec,$21.21 B,USA,$118.40,-0.39%,15.68%,N/A
+Trip.com,$21.57 B,China,$32.90,-0.36%,-2.37%,"🖥️ Internet, 👩‍💻 Tech, 🌴 Travel, 🌴 Online Travel"
+Molina Healthcare,$21.43 B,USA,$367.72,1.18%,8.23%,"⚕️ Healthcare, 🏦 Insurance"
+Fifth Third Bank,$21.28 B,USA,$31.25,1.43%,-4.78%,"🏦 Banks, 💳 Financial services"
+FirstEnergy,$21.27 B,USA,$37.08,-0.59%,-11.08%,"🔋 Electricity, ⚡ Energy"
+AIER Eye Hospital,$21.25 B,China,$2.28,1.94%,-45.32%,"⚕️ Healthcare, 🏥 Medical Care Facilities"
+Genmab,$21.08 B,Denmark,$32.28,-0.25%,-29.58%,"💊 Pharmaceuticals, 🧬 Biotech"
+Dai-ichi Life Holdings,$21.23 B,Japan,$21.60,-4.51%,14.53%,🏦 Insurance
+East Japan Railway,$21.13 B,Japan,$56.11,-1.17%,-1.53%,"🚂 Railways, 🚚 Transportation"
+Brown & Brown,$21.10 B,USA,$74.15,0.50%,28.35%,🏦 Insurance
+ArcelorMittal,$20.85 B,Luxembourg,$25.35,-0.67%,-6.42%,"🇫🇷 CAC 40, 🔩 Steel producers, 🔩 Steel industry"
+Nippon Steel,$21.06 B,Japan,$22.88,-2.97%,37.50%,"🔩 Steel producers, 🔩 Steel industry"
+Ørsted,$21.37 B,Denmark,$49.47,-3.15%,-46.44%,"🔋 Electricity, ⚡ Energy"
+Hang Seng Bank,$21.02 B,Hong Kong,$10.99,-1.44%,-30.66%,"🏦 Banks, 💳 Financial services"
+Eversource Energy,$20.83 B,USA,$59.65,-1.19%,-29.48%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Hewlett Packard Enterprise,$20.80 B,USA,$16.22,0.62%,-0.43%,"👩‍💻 Tech, 📞 Networking hardware"
+Otsuka Holdings,$20.99 B,Japan,$38.70,-2.55%,16.60%,"💊 Pharmaceuticals, 🧬 Biotech"
+Cathay Financial Holding,$20.93 B,Taiwan,$1.43,-0.33%,7.52%,"🏦 Banks, 🏦 Insurance, 💳 Financial services"
+Alexandria Real Estate Equities,$20.75 B,USA,$119.44,-2.07%,-19.66%,🏠 Real estate
+Dollarama,$20.73 B,Canada,$73.34,-0.78%,17.10%,N/A
+Rocket Companies,$20.88 B,USA,$10.51,1.55%,23.65%,"🏠 Real estate, 💳 Financial services"
+Itaúsa,$20.68 B,Brazil,$2.01,0.71%,16.86%,🏙 Conglomerate
+Franco-Nevada,$20.84 B,Canada,$108.49,1.01%,-24.46%,"⛏️ Mining, 💰 Investment, ⛏️ Gold mining"
+MS&AD Insurance,$20.66 B,Japan,$38.85,-2.96%,36.60%,🏦 Insurance
+Bajaj Auto,$20.64 B,India,$72.89,-0.29%,64.87%,N/A
+COSCO Shipping,$20.63 B,China,$1.39,-0.30%,-26.84%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+NVR,$20.77 B,USA,"$6,536",1.41%,39.23%,"💳 Financial services, 🏗 Construction"
+First Citizens BancShares,$20.81 B,USA,"$1,446",1.20%,83.25%,"🏦 Banks, 💳 Financial services"
+Ameren,$20.51 B,USA,$78.02,-0.90%,-11.52%,"🔋 Electricity, ⚡ Energy"
+Société Générale,$20.61 B,France,$25.94,1.46%,10.57%,"🏦 Banks, 💳 Financial services, 🇫🇷 CAC 40"
+PulteGroup,$20.76 B,USA,$96.31,1.96%,116.87%,🏗 Construction
+BOE Technology,$20.46 B,China,$0.54,1.04%,3.85%,"🔌 Electronics, 🏭 Manufacturing"
+Imperial Brands,$20.72 B,UK,$22.91,-1.97%,-9.38%,🚬 Tobacco
+Saudi Electricity,$20.32 B,Saudi Arabia,$4.88,0.33%,-22.04%,"🔋 Electricity, ⚡ Energy"
+EDP Group,$20.25 B,Portugal,$4.85,0.22%,0.83%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+LTIMindtree,$20.26 B,India,$68.49,2.54%,23.58%,"💼 Professional services, 🖥️ IT services"
+Dover,$20.09 B,USA,$143.62,-0.05%,4.63%,🏭 Manufacturing
+POSCO Chemical,$20.22 B,South Korea,$261.28,2.54%,68.31%,🧪 Chemicals
+Borouge,$20.21 B,eu United Arab Emirates,$0.67,0.00%,-6.94%,🧪 Chemicals
+FirstRand,$19.66 B,South Africa,$3.51,0.15%,7.67%,"🏦 Banks, 💳 Financial services"
+Invitation Homes,$20.32 B,USA,$33.08,1.01%,3.02%,🏠 Real estate
+Indian Oil,$20.12 B,India,$1.43,-2.10%,53.76%,"🛢 Oil&Gas, ⚡ Energy"
+Unicharm,$20.14 B,Japan,$34.14,0.98%,-8.81%,"🛍 Consumer goods, 🏭 Manufacturing"
+Industries Qatar,$20.10 B,eu Qatar,$3.32,0.25%,-16.16%,"🧪 Chemicals, 🏙 Conglomerate"
+Rollins,$20.05 B,USA,$41.43,0.17%,5.58%,N/A
+Teck Resources,$20.12 B,Canada,$38.73,3.92%,3.95%,⛏️ Mining
+Expedia Group,$20.20 B,USA,$145.50,1.29%,55.48%,"🖥️ Internet, 👩‍💻 Tech, 🌴 Travel, 🌴 Online Travel"
+Walgreens Boots Alliance,$20.00 B,USA,$23.16,1.09%,-43.37%,"💊 Pharmaceuticals, 🛍️ Retail, 🇺🇸 Dow jones, 💊 Drugstore"
+Tenaris,$19.89 B,Luxembourg,$33.96,1.19%,3.66%,"🔩 Steel industry, 🏭 Manufacturing"
+Sartorius,$20.12 B,Germany,$258.47,2.35%,-22.07%,"🇩🇪 DAX, 🔬 Scientific & Technical Instruments"
+Steris,$19.80 B,Ireland,$200.50,-0.74%,5.37%,N/A
+Fortis,$19.88 B,Canada,$40.71,-0.37%,1.29%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+CLP Group,$19.80 B,Hong Kong,$7.84,0.74%,10.89%,"🔋 Electricity, ⚡ Energy"
+Toyota Tsusho,$19.78 B,Japan,$56.24,-4.88%,46.08%,N/A
+CK Hutchison Holdings,$19.71 B,Hong Kong,$5.15,0.75%,-9.65%,"⚓ Ports, 📡 Telecommunication, 🏙 Conglomerate, 🛣️ Infrastructure"
+International Flavors & Fragrances,$19.61 B,USA,$76.82,-0.23%,-28.67%,"Flavors & Fragrances, 💄 Cosmetics and Beauty"
+Kyocera,$19.64 B,Japan,$55.80,-1.11%,11.02%,N/A
+Live Nation,$19.62 B,USA,$85.19,1.08%,19.20%,Entertainment
+BeiGene,$19.53 B,China,$175.00,-2.43%,-12.84%,"💊 Pharmaceuticals, 🧬 Biotech"
+PTC,$19.86 B,USA,$166.61,2.06%,36.83%,"💼 Professional services, 👨‍💻 Software, 👩‍💻 Tech"
+Antofagasta,$18.79 B,UK,$19.06,4.23%,8.54%,"⛏️ Mining, 🏙 Conglomerate"
+EDP Renováveis,$19.33 B,Spain,$18.81,-0.43%,-16.36%,"🔋 Electricity, 🚰 Utility companies, 🌞 Renewable energy, ⚡ Energy"
+Cameco,$19.56 B,Canada,$45.09,1.97%,106.46%,"⛏️ Mining, ⚡ Energy, ☢️ Uranium"
+J. B. Hunt,$19.24 B,USA,$186.62,-1.20%,4.90%,🚚 Transportation
+China Unicom,$19.47 B,Hong Kong,$0.64,1.84%,10.34%,📡 Telecommunication
+Geberit,$19.42 B,Switzerland,$579.37,0.40%,22.17%,N/A
+United Microelectronics,$19.50 B,Taiwan,$7.80,0.00%,8.48%,"📟 Semiconductors, 👩‍💻 Tech"
+KE Holdings,$18.64 B,China,$15.10,0.27%,-5.33%,🏠 Real estate
+CRRC,$19.46 B,China,$0.42,-0.61%,2.44%,N/A
+Teledyne,$19.41 B,USA,$411.49,1.11%,0.06%,🏙 Conglomerate
+DLF,$19.30 B,India,$7.80,0.20%,58.54%,🏠 Real estate
+Daiwa House,$19.32 B,Japan,$29.41,-3.57%,29.39%,🏗 Construction
+Targa Resources,$19.30 B,USA,$86.56,2.17%,26.79%,"🛢 Oil&Gas, ⚡ Energy"
+Darden Restaurants,$19.12 B,USA,$158.95,-1.33%,10.56%,"🍔 Restaurant chains, 🍴 Food"
+UPM-Kymmene,$19.30 B,Finland,$36.20,2.76%,-4.08%,📄 Pulp and paper
+Centrais Electricas Brasileiras,$19.32 B,Brazil,$8.34,-0.83%,1.83%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Tata Steel,$19.21 B,India,$1.55,-0.62%,13.97%,"🔩 Steel producers, 🔩 Steel industry"
+Bank of Ningbo,$19.19 B,China,$2.91,-1.00%,-36.60%,"🏦 Banks, 💳 Financial services"
+Suzuki Motor,$19.20 B,Japan,$39.81,-2.50%,15.06%,"🚗 Automakers, 🏭 Manufacturing"
+Iron Mountain,$19.11 B,USA,$65.45,-0.21%,19.85%,💼 Professional services
+Asahi Group,$19.19 B,Japan,$37.88,-1.81%,19.57%,"🍷 Alcoholic beverages, 🥤 Beverages"
+PPL,$19.20 B,USA,$26.06,-0.11%,-10.32%,"🔋 Electricity, ⚡ Energy"
+Svenska Handelsbanken,$19.16 B,Sweden,$9.86,0.05%,0.51%,"🏦 Banks, 💳 Financial services"
+Ajinomoto,$19.00 B,Japan,$36.55,-4.79%,13.37%,🍴 Food
+Nexon,$19.00 B,Japan,$22.42,0.00%,2.99%,"👩‍💻 Tech, 🎮 Video games, Entertainment"
+Genuine Parts Company,$18.64 B,USA,$132.98,-0.97%,-28.36%,auto parts
+Ericsson,$18.84 B,Sweden,$5.66,1.25%,-11.56%,"👩‍💻 Tech, 📡 Telecommunications equipment"
+ASE Group,$18.88 B,Taiwan,$8.77,1.15%,30.12%,"📟 Semiconductors, 👩‍💻 Tech"
+Alinma Bank,$18.79 B,Saudi Arabia,$9.46,-0.42%,13.16%,"🏦 Banks, 💳 Financial services"
+Blue Owl Capital,$18.68 B,USA,$13.26,-1.41%,18.18%,"💳 Financial services, Asset Management"
+Cboe,$18.86 B,USA,$178.72,0.82%,40.92%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Talanx,$18.81 B,Germany,$72.85,1.35%,58.58%,"🏦 Insurance, 💳 Financial services"
+Ventas,$18.79 B,USA,$46.72,1.08%,3.50%,🏠 Real estate
+Coterra Energy,$18.57 B,USA,$24.70,0.49%,-1.00%,"🛢 Oil&Gas, ⚡ Energy"
+Steel Dynamics,$18.31 B,USA,$113.16,-1.09%,2.84%,"🔩 Steel producers, 🔩 Steel industry"
+Samsara,$18.18 B,USA,$33.67,-0.18%,170.66%,"👨‍💻 Software, 👩‍💻 Tech, IoT, 💻 Tech Hardware"
+Fleetcor,$18.49 B,USA,$256.09,0.01%,38.90%,💳 Financial services
+Philips,$18.47 B,Netherlands,$20.17,2.13%,44.28%,🔌 Electronics
+Kaō,$18.58 B,Japan,$39.98,1.34%,-0.79%,"🛍 Consumer goods, 💄 Cosmetics and Beauty"
+NetApp,$18.41 B,USA,$89.39,0.35%,39.85%,"👨‍💻 Software, 👩‍💻 Tech"
+Kaspi.kz Joint Stock Company,$18.85 B,eu Kazakhstan,$92.27,-2.29%,30.03%,"👨‍💻 Software, 💳 Financial services, 👩‍💻 Tech"
+Coca-Cola FEMSA,$18.61 B,Mexico,$88.59,0.62%,33.44%,🥤 Beverages
+Advanced Info Service (AIS),$18.63 B,Thailand,$6.27,0.00%,17.42%,📡 Telecommunication
+Repsol,$18.53 B,Spain,$15.04,0.98%,0.87%,"🛢 Oil&Gas, ⚡ Energy"
+Baxter,$18.33 B,USA,$36.15,-1.04%,-31.30%,"💊 Pharmaceuticals, ⚕️ Healthcare, 🧬 Biotech"
+Illumina,$17.93 B,USA,$112.94,-3.58%,-46.33%,"🧬 Biotech, 🏭 Manufacturing, 🧬 Genomics"
+Kellogg's,$18.39 B,USA,$53.70,-0.85%,-26.90%,🍴 Food
+The Saudi British Bank,$18.45 B,Saudi Arabia,$8.98,-0.15%,-8.46%,"🏦 Banks, 💳 Financial services"
+Swiss Life,$18.45 B,Switzerland,$653.16,1.38%,25.28%,🏦 Insurance
+LabCorp,$18.38 B,USA,$216.60,-0.47%,-8.10%,"💊 Pharmaceuticals, 🧬 Biotech"
+Power Corporation of Canada,$18.45 B,Canada,$28.09,0.45%,16.17%,N/A
+Pembina Pipeline,$18.37 B,Canada,$33.45,0.66%,-2.71%,"🛢 Oil&Gas, 🚚 Transportation, ⚡ Energy, 🛣️ Infrastructure"
+W. R. Berkley,$18.39 B,USA,$71.33,0.61%,-4.18%,🏦 Insurance
+Tyson Foods,$18.25 B,USA,$51.38,-0.31%,-19.54%,🍴 Food
+Rivian,$18.23 B,USA,$19.04,-0.78%,-33.38%,"🚗 Automakers, 🔋 Electric Vehicles, 🏭 Manufacturing"
+China Tower,$18.25 B,China,$0.10,0.00%,-9.09%,"📡 Telecommunication, 🛣️ Infrastructure"
+Builders FirstSource,$18.21 B,USA,$147.70,0.77%,122.41%,🧱 Building materials
+Techtronic Industries,$18.21 B,Hong Kong,$9.93,-0.77%,-17.04%,"🔌 Electronics, 🛠️ Tool manufacturers, 🏭 Manufacturing"
+McCormick & Company,$17.99 B,USA,$67.09,-0.94%,-21.67%,🍴 Food
+China Overseas Land & Investment,$18.16 B,Hong Kong,$1.66,-3.86%,-34.39%,"🏠 Real estate, 💰 Investment"
+UWM Holdings,$18.18 B,USA,$5.87,1.91%,27.33%,💳 Financial services
+Legal & General,$18.13 B,UK,$3.03,0.50%,-1.62%,"💰 Investment, Asset Management"
+CenterPoint Energy,$18.16 B,USA,$28.77,0.03%,-5.21%,"🔋 Electricity, ⚡ Energy"
+Aeon,$18.13 B,Japan,$21.21,-0.07%,3.36%,"🛍️ Retail, 🛒 Supermarket Chains"
+Ball Corporation,$18.13 B,USA,$57.51,0.52%,6.72%,📦 Packaging
+Nippon Paint,$18.06 B,Japan,$7.69,0.54%,-11.51%,🎨 Paint & Coating
+Markel,$18.16 B,USA,"$1,374",0.57%,6.56%,"🏦 Insurance, 💰 Investment"
+DiDi,$18.12 B,China,$3.77,-1.57%,-9.16%,"🖥️ Internet, 👩‍💻 Tech, 🚚 Transportation, 🚘 Ridesharing"
+Mitsubishi Heavy Industries,$17.95 B,Japan,$53.49,-3.49%,36.84%,N/A
+PKN Orlen,$17.96 B,Poland,$15.47,2.23%,9.56%,"🛢 Oil&Gas, ⚡ Energy"
+Principal,$17.91 B,USA,$75.15,0.67%,-15.67%,"🏦 Insurance, 💳 Financial services, 💰 Investment"
+Deckers Brands,$17.89 B,USA,$695.38,0.14%,82.61%,"🛍️ Retail, 👟 Footwear"
+BioMarin Pharmaceutical,$17.65 B,USA,$92.94,-2.11%,-10.97%,"💊 Pharmaceuticals, 🧬 Biotech"
+Telefonica Brasil,$17.97 B,Brazil,$10.77,-0.28%,51.26%,📡 Telecommunication
+Sirius XM,$17.81 B,USA,$4.64,-1.49%,-24.68%,📡 Telecommunication
+Axon Enterprise,$17.71 B,USA,$236.38,0.45%,37.66%,N/A
+Celltrion,$17.73 B,South Korea,$127.75,6.41%,-1.08%,"💊 Pharmaceuticals, 🧬 Biotech"
+China Railway Group,$17.69 B,China,$0.43,-0.89%,-24.56%,🏗 Construction
+Nokia,$17.83 B,Finland,$3.18,2.58%,-35.10%,👩‍💻 Tech
+Essity,$17.72 B,Sweden,$25.36,0.23%,-1.51%,N/A
+PBBank (Public Bank Bhd),$17.61 B,Malaysia,$0.91,-0.47%,-9.00%,"🏦 Banks, 💳 Financial services"
+Clorox,$17.56 B,USA,$141.55,-1.46%,-5.77%,🛍 Consumer goods
+MFHC,$17.60 B,Taiwan,$1.25,0.64%,22.55%,"🏦 Banks, 💳 Financial services"
+Vertiv Holdings,$17.98 B,USA,$47.14,4.49%,231.04%,N/A
+SBI Life Insurance,$17.60 B,India,$17.58,0.65%,14.16%,🏦 Insurance
+ZTO Express,$17.32 B,China,$21.31,0.24%,-18.07%,📦 Courier
+Ems-Chemie,$17.48 B,Switzerland,$747.62,1.39%,9.58%,🧪 Chemicals
+Warner Music Group,$17.50 B,USA,$33.93,-0.41%,2.14%,Entertainment
+Arca Continental,$17.85 B,Mexico,$10.38,0.00%,23.72%,🥤 Beverages
+Carlsberg,$17.42 B,Denmark,$120.34,0.46%,-5.53%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Yankuang Energy (Yanzhou Coal Mining),$17.51 B,China,$2.72,-1.86%,-50.55%,"⛏️ Mining, ⚡ Energy, ⛏️ Coal Mining"
+Expeditors,$17.50 B,USA,$120.37,0.22%,11.61%,🚚 Transportation
+Sonova,$17.50 B,Switzerland,$293.57,0.98%,14.07%,Medical devices
+Olympus,$17.46 B,Japan,$14.50,-1.09%,-25.06%,N/A
+"YPF
+(Yacimientos Petrolíferos Fiscales)",$17.83 B,ar Argentina,$17.14,3.88%,131.62%,"🛢 Oil&Gas, ⚡ Energy"
+Fresenius,$17.34 B,Germany,$30.79,0.04%,8.99%,⚕️ Healthcare
+Aker BP,$17.37 B,Norway,$27.52,2.01%,-9.86%,"🛢 Oil&Gas, ⚡ Energy"
+WSP Global,$17.37 B,Canada,$139.43,0.26%,18.04%,"💼 Professional services, 👷 Engineering"
+Huntington Bancshares,$17.36 B,USA,$11.99,1.10%,-17.99%,"🏦 Banks, 💳 Financial services"
+Hormel Foods,$17.15 B,USA,$31.38,-1.48%,-34.14%,🍴 Food
+Standard Bank Group,$17.34 B,South Africa,$10.21,-0.20%,12.69%,"🏦 Banks, 💳 Financial services"
+Waters Corporation,$17.27 B,USA,$292.14,-0.42%,-14.84%,"🏭 Manufacturing, 🔬 Scientific & Technical Instruments"
+HDFC Life,$17.31 B,India,$8.05,-1.04%,14.67%,🏦 Insurance
+Akamai,$17.25 B,USA,$114.41,-0.45%,27.22%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech, 🔒 IT security"
+Southwest Airlines,$17.32 B,USA,$29.07,-0.31%,-22.46%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Guotai Junan Securities,$17.25 B,China,$2.06,-0.61%,0.98%,"🏦 Banks, 💳 Financial services, 💰 Investment"
+Kakao,$17.24 B,South Korea,$39.38,2.38%,-6.75%,"🖥️ Internet, 👩‍💻 Tech"
+Abiomed,$17.18 B,USA,$381.02,0.00%,0.07%,Medical devices
+Royalty Pharma,$17.13 B,UK,$28.57,-0.70%,-32.51%,"💊 Pharmaceuticals, 🧬 Biotech"
+CTBC Financial Holding,$17.13 B,Taiwan,$0.88,2.42%,18.92%,"🏦 Banks, 💳 Financial services"
+TDK,$17.14 B,Japan,$45.20,-1.66%,32.13%,🔌 Electronics
+Hydro One,$17.19 B,Canada,$28.70,0.28%,4.97%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Snam,$16.99 B,Italy,$5.07,0.49%,0.40%,"⚡ Energy, 🛣️ Infrastructure"
+Nan Ya Plastics,$17.05 B,Taiwan,$2.15,-0.73%,-10.04%,🧪 Chemicals
+CK Asset Holdings,$17.02 B,Hong Kong,$4.80,0.27%,-18.23%,🏠 Real estate
+Atmos Energy,$16.84 B,USA,$113.46,-0.93%,-3.44%,🚰 Utility companies
+Saudi Arabian Fertilizer Company,$16.94 B,Saudi Arabia,$35.60,-1.04%,-2.84%,🌱 Fertilizer companies
+Tyler Technologies,$16.97 B,USA,$403.07,0.23%,26.58%,"👨‍💻 Software, 👩‍💻 Tech"
+Wilmar International,$16.88 B,Singapore,$2.71,2.25%,-8.75%,🍴 Food
+Mitsubishi Estate,$16.90 B,Japan,$13.33,-3.00%,-1.19%,🏠 Real estate
+Check Point Software,$17.04 B,Israel,$145.72,0.81%,11.01%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+Brookfield Renewable Partners,$16.69 B,Bermuda,$25.24,-0.86%,-7.65%,"🔋 Electricity, 🌞 Renewable energy, ⚡ Energy"
+FactSet,$16.86 B,USA,$443.89,0.40%,-1.64%,"👨‍💻 Software, 💳 Financial services, 👩‍💻 Tech"
+Inpex,$16.85 B,Japan,$13.22,-2.83%,24.72%,"🛢 Oil&Gas, ⚡ Energy"
+CMS Energy,$16.96 B,USA,$58.15,0.36%,-6.21%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Aristocrat,$16.74 B,Australia,$25.82,-0.81%,13.10%,"🎰 Gambling, 🎮 Video games, Entertainment"
+Cooper Companies,$16.59 B,USA,$335.00,-2.88%,4.87%,👓 Glasses and contact lenses
+Westlake Chemical,$16.56 B,USA,$129.25,-0.22%,20.86%,🧪 Chemicals
+Bank of Jiangsu,$16.75 B,China,$0.91,0.15%,-15.74%,"🏦 Banks, 💳 Financial services"
+DraftKings,$16.73 B,USA,$35.90,1.38%,145.72%,"🖥️ Internet, 🎰 Gambling, Entertainment"
+Everest Group,$16.69 B,Bermuda,$384.78,0.37%,15.29%,🏦 Insurance
+LPL Financial,$16.94 B,USA,$224.11,3.59%,0.93%,💳 Financial services
+Elm Company,$16.68 B,Saudi Arabia,$208.58,0.31%,138.11%,💰 Investment
+Huatai Securities,$16.67 B,China,$1.97,-0.98%,3.68%,💳 Financial services
+BT Group,$16.54 B,UK,$1.66,-1.67%,21.17%,📡 Telecommunication
+Skyworks Solutions,$16.60 B,USA,$103.78,1.47%,9.05%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Varun Beverages,$16.63 B,India,$12.80,-0.93%,-22.98%,🥤 Beverages
+Seagate Technology,$16.85 B,Ireland,$80.59,2.30%,48.06%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Seres Group,$16.62 B,China,$11.03,-1.79%,60.79%,"🚗 Automakers, 🏭 Manufacturing"
+Sun Communities,$16.56 B,USA,$127.64,-1.35%,-10.77%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Hubbell,$16.52 B,USA,$308.17,0.63%,22.82%,🔌 Electronics
+NTT Data,$16.60 B,Japan,$11.84,-2.90%,-19.84%,"💼 Professional services, 🖥️ IT services"
+Align Technology,$16.94 B,USA,$221.23,2.13%,16.16%,"👩‍💻 Tech, Medical devices"
+Terna,$16.60 B,Italy,$8.28,0.60%,7.95%,"🔋 Electricity, ⚡ Energy, 🛣️ Infrastructure"
+Vanke,$16.66 B,China,$0.91,-2.07%,-56.87%,N/A
+Northern Trust,$16.64 B,USA,$80.39,0.66%,-7.72%,💳 Financial services
+Yum China,$16.28 B,China,$39.91,-0.10%,-31.24%,"🍔 Restaurant chains, 🍴 Food"
+Abu Dhabi Commercial Bank (ADCB),$16.50 B,eu United Arab Emirates,$2.25,-0.84%,-9.27%,"🏦 Banks, 💳 Financial services"
+Hologic,$16.40 B,USA,$68.37,-1.23%,-8.60%,Medical devices
+Weichai Power,$16.44 B,China,$1.72,-1.47%,29.32%,🏭 Manufacturing
+Sungrow Power Supply,$16.38 B,China,$11.03,-0.60%,-28.28%,"🌞 Renewable energy, ⚡ Energy, 🏭 Manufacturing"
+Siemens India,$16.35 B,India,$45.91,-0.13%,28.20%,N/A
+Hindustan Zinc,$16.37 B,India,$3.87,-0.46%,0.26%,N/A
+Regions Financial,$16.22 B,USA,$17.44,1.10%,-20.94%,💳 Financial services
+Grasim Industries,$16.35 B,India,$24.83,-0.56%,12.71%,N/A
+Kubota,$16.36 B,Japan,$13.88,-3.07%,-3.14%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+ZTE,$16.28 B,China,$3.64,3.69%,-4.71%,📡 Telecommunication
+Booz Allen Hamilton,$16.33 B,USA,$125.29,-0.04%,17.91%,"💼 Professional services, 🖥️ IT services"
+George Weston,$16.10 B,Canada,$118.88,-0.49%,-8.19%,🍴 Food
+Formosa Plastics,$16.20 B,Taiwan,$2.55,0.13%,-10.53%,🧪 Chemicals
+Bolloré,$16.15 B,France,$5.69,0.57%,2.71%,🏙 Conglomerate
+Omnicom,$16.21 B,USA,$81.94,-0.19%,8.37%,"💼 Professional services, ➡️ Advertising"
+Jacobs Engineering,$16.04 B,USA,$127.29,-0.84%,4.29%,"💼 Professional services, 👷 Engineering"
+Sompo Holdings,$16.20 B,Japan,$49.22,-2.08%,18.92%,🏦 Insurance
+China Longyuan Power Group,$16.04 B,China,$0.72,1.82%,-38.98%,"🔋 Electricity, 🌞 Renewable energy, ⚡ Energy"
+Cincinnati Financial,$16.13 B,USA,$102.80,0.19%,-3.21%,🏦 Insurance
+WuXi Biologics,$15.94 B,China,$7.43,-2.24%,-47.42%,"💊 Pharmaceuticals, 🧬 Biotech"
+Nomura Research Institute,$16.09 B,Japan,$27.88,-3.01%,15.93%,💼 Professional services
+Best Buy,$15.93 B,USA,$73.99,-0.76%,-11.28%,"🛍️ Retail, 🔌 Electronics"
+Erie Indemnity,$15.98 B,USA,$305.75,-0.09%,11.56%,🏦 Insurance
+Watsco,$16.02 B,USA,$411.85,2.19%,56.12%,N/A
+Entegris,$16.06 B,USA,$106.99,0.74%,49.18%,"📟 Semiconductors, 👩‍💻 Tech"
+Jerónimo Martins,$15.99 B,Portugal,$25.43,0.43%,17.41%,🛍️ Retail
+ADNOC Drilling Company,$16.03 B,eu United Arab Emirates,$1.00,0.27%,19.05%,"🛢 Oil&Gas, ⚡ Energy"
+Symrise,$15.89 B,Germany,$113.70,0.43%,3.44%,"Flavors & Fragrances, 🇩🇪 DAX"
+VinFast Auto,$15.97 B,eu Vietnam,$6.85,0.44%,N/A,"🚗 Automakers, 🔋 Electric Vehicles, 🏭 Manufacturing"
+PTT Exploration and Production,$16.05 B,Thailand,$4.04,1.07%,-18.22%,"🛢 Oil&Gas, ⚡ Energy"
+First Solar,$15.53 B,USA,$145.38,0.83%,-4.80%,"🌞 Renewable energy, ⚡ Energy, 🏭 Manufacturing"
+Air China,$15.86 B,China,$1.11,1.15%,-29.30%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Dynatrace,$15.93 B,USA,$54.13,0.35%,44.46%,"👨‍💻 Software, 👩‍💻 Tech, 🦾 AI"
+Continental,$15.88 B,Germany,$79.43,0.55%,35.41%,"Tires, 🚘 Automotive Suppliers, 🇩🇪 DAX"
+Sodexo,$16.00 B,France,$107.98,-1.23%,9.06%,🍴 Food
+Polyus,$15.65 B,Russia,$115.41,-0.26%,N/A,N/A
+Dassault Aviation,$15.60 B,France,$196.85,1.90%,19.80%,"✈️ Aircraft manufacturers, 🔫 Defense contractors, 🏭 Manufacturing"
+Erste Group Bank,$16.04 B,Austria,$39.08,-1.34%,29.06%,"🏦 Banks, 💳 Financial services"
+Moncler,$15.64 B,Italy,$57.91,2.44%,13.62%,"👚 Clothing, ⌚ Luxury goods"
+Magna International,$15.72 B,Canada,$54.92,0.31%,-6.09%,🚘 Automotive Suppliers
+HeidelbergCement,$15.71 B,Germany,$84.39,1.09%,57.44%,"Cement, 🧱 Building materials, 🇩🇪 DAX"
+Tourmaline Oil,$15.60 B,Canada,$45.79,0.26%,-16.59%,"🛢 Oil&Gas, ⚡ Energy"
+Telenor,$15.64 B,Norway,$11.30,0.45%,21.90%,📡 Telecommunication
+Avery Dennison,$15.43 B,USA,$191.71,-1.18%,6.97%,🏭 Manufacturing
+Hyundai Mobis,$15.64 B,South Korea,$172.54,0.89%,10.07%,N/A
+Alfa Laval,$15.58 B,Sweden,$37.10,0.84%,28.69%,N/A
+Pidilite,$15.63 B,India,$30.73,-1.05%,-8.49%,N/A
+China Merchants Securities,$15.59 B,China,$1.96,1.52%,-0.51%,N/A
+IDEX,$15.49 B,USA,$204.84,-0.37%,-12.51%,N/A
+Celanese,$15.38 B,USA,$141.35,-0.25%,39.70%,🧪 Chemicals
+Porsche SE,$15.55 B,Germany,$50.78,0.55%,-14.54%,"💳 Financial services, 💰 Investment, 🇩🇪 DAX"
+Santos,$15.49 B,Australia,$4.77,6.15%,0.00%,"🛢 Oil&Gas, ⚡ Energy"
+UCB,$15.52 B,Belgium,$81.83,0.53%,7.23%,"💊 Pharmaceuticals, 🧬 Biotech"
+B3,$15.45 B,Brazil,$2.75,1.88%,21.68%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Western Digital,$15.51 B,USA,$47.86,1.16%,35.85%,🔌 Electronics
+SGS,$15.39 B,Switzerland,$83.57,-0.30%,-8.80%,"💼 Professional services, ⚕️ Diagnostics and Testing"
+PKO Bank Polski,$15.45 B,Poland,$12.36,0.55%,95.88%,"🏦 Banks, 💳 Financial services"
+Sany Heavy Industry,$15.38 B,China,$1.81,-1.07%,-21.30%,N/A
+Reliance Steel & Aluminum,$15.20 B,USA,$264.64,-1.12%,26.59%,"🔩 Steel producers, 🔩 Steel industry, Aluminum"
+Loews Corporation,$15.36 B,USA,$68.84,0.03%,22.10%,🏙 Conglomerate
+Mid-America Apartment Communities,$15.23 B,USA,$127.13,-0.04%,-22.14%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+EPAM Systems,$15.49 B,USA,$268.50,1.57%,-22.41%,"💼 Professional services, 👨‍💻 Software, 👩‍💻 Tech, 🖥️ IT services"
+Adani Total Gas,$15.26 B,India,$13.88,-0.16%,-69.10%,"🛢 Oil&Gas, 🚰 Utility companies, ⚡ Energy"
+Quest Diagnostics,$15.28 B,USA,$135.91,0.51%,-9.69%,⚕️ Diagnostics and Testing
+Bunge,$15.18 B,USA,$104.50,0.38%,8.45%,🍴 Food
+Anhui Conch Cement,$15.06 B,China,$2.27,1.11%,-36.06%,"Cement, 🧱 Building materials"
+Power Finance Corp,$15.24 B,India,$4.61,1.99%,161.93%,💳 Financial services
+EQT Corporation,$15.27 B,USA,$37.13,0.38%,4.03%,"🛢 Oil&Gas, ⚡ Energy"
+Albemarle,$15.02 B,USA,$127.99,2.11%,-50.01%,🧪 Chemicals
+Nissan,$15.22 B,Japan,$3.89,-1.84%,15.09%,"🚗 Automakers, 🏭 Manufacturing"
+Avantor,$14.19 B,USA,$20.98,0.43%,-3.85%,🧪 Chemicals
+Almarai,$15.14 B,Saudi Arabia,$15.24,-2.06%,8.39%,🍴 Food
+JD Health,$15.13 B,China,$4.75,-1.72%,-58.55%,"🛒 E-Commerce, ⚕️ Healthcare, 🖥️ Internet, 👩‍💻 Tech, 💊 Drugstore"
+Gulf Energy Development Public Company,$15.20 B,Thailand,$1.30,0.00%,-15.03%,⚡ Energy
+Tatneft,$15.10 B,Russia,$6.86,0.86%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+Jabil,$15.22 B,USA,$119.00,2.22%,65.85%,"🔌 Electronics, 🏭 Manufacturing"
+Sociedad Química y Minera,$14.69 B,Chile,$51.43,-1.10%,-43.82%,🧪 Chemicals
+Bentley Systems,$14.97 B,USA,$50.59,-0.10%,28.47%,"👨‍💻 Software, 👩‍💻 Tech"
+Sage Group,$15.07 B,UK,$14.79,1.69%,54.87%,"👨‍💻 Software, 👩‍💻 Tech"
+NEC Corp,$15.06 B,Japan,$56.47,-0.71%,64.40%,"👩‍💻 Tech, 🔌 Electronics"
+Lennox,$14.94 B,USA,$420.62,0.47%,61.64%,N/A
+Leidos,$14.91 B,USA,$108.49,-0.17%,-0.54%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+KB Financial Group,$14.96 B,South Korea,$39.30,0.69%,2.08%,"🏦 Banks, 💳 Financial services"
+Textron,$14.88 B,USA,$75.93,-0.42%,4.01%,"✈️ Aircraft manufacturers, 🏙 Conglomerate, 🏭 Manufacturing"
+Secom,$14.97 B,Japan,$71.08,-0.73%,17.35%,N/A
+Grupo Elektra,$14.95 B,Mexico,$67.45,0.00%,28.82%,🛍️ Retail
+Essex Property Trust,$15.02 B,USA,$226.11,0.56%,5.71%,"🏠 Real estate, 💰 Investment"
+CF Industries,$14.62 B,USA,$76.56,-1.25%,-23.55%,🌱 Fertilizer companies
+Lenovo,$14.84 B,Hong Kong,$1.22,0.21%,56.41%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Snap-on,$14.68 B,USA,$278.22,-0.64%,18.82%,"🛠️ Tool manufacturers, 🏭 Manufacturing"
+Astra International,$14.82 B,Indonesia,$0.37,0.00%,2.78%,🏙 Conglomerate
+WiseTech Global,$14.75 B,Australia,$44.26,-2.41%,24.50%,"👨‍💻 Software, 👩‍💻 Tech"
+Aviva,$14.79 B,UK,$5.40,0.28%,0.19%,🏦 Insurance
+XPeng,$14.57 B,China,$15.15,-5.31%,28.17%,"🚗 Automakers, 🔋 Electric Vehicles, 🏭 Manufacturing, 🤖 Autonomous driving"
+Packaging Corporation of America,$14.68 B,USA,$163.88,-0.27%,20.54%,N/A
+Grupo Financiero Inbursa,$14.88 B,Mexico,$2.44,0.09%,33.33%,💳 Financial services
+Eisai,$14.75 B,Japan,$51.44,-0.55%,-27.14%,"💊 Pharmaceuticals, 🧬 Biotech"
+GoDaddy,$14.72 B,USA,$104.31,0.42%,38.18%,"🖥️ Internet, 👩‍💻 Tech"
+Commerzbank,$14.74 B,Germany,$11.89,0.14%,45.89%,"🏦 Banks, 💳 Financial services, 🇩🇪 DAX"
+Lamb Weston,$14.63 B,USA,$100.96,-0.04%,16.72%,🍴 Food
+Roku,$14.72 B,USA,$103.36,2.66%,103.02%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Bouygues,$14.67 B,France,$38.86,0.64%,26.66%,"🏗 Construction, 🇫🇷 CAC 40, 🏙 Conglomerate"
+Supermicro,$15.22 B,USA,$272.65,6.44%,218.48%,"👩‍💻 Tech, 🔌 Electronics, 📞 Networking hardware, 💻 Tech Hardware"
+OBIC,$14.62 B,Japan,$164.96,-0.27%,8.84%,N/A
+AerCap,$14.59 B,Ireland,$72.15,1.98%,22.70%,✈️ Aircraft leasing
+Carlisle Companies,$14.36 B,USA,$295.10,0.33%,17.19%,🧱 Building materials
+CNH Industrial,$14.53 B,UK,$11.11,1.74%,-31.46%,🚑 Specialty Vehicles
+Shinhan Financial Group,$14.44 B,South Korea,$28.03,0.39%,-1.51%,N/A
+Synchrony,$14.60 B,USA,$35.29,1.12%,1.06%,💳 Financial services
+Prada,$14.46 B,Italy,$5.65,3.52%,1.99%,"👚 Clothing, ⌚ Luxury goods"
+Enphase Energy,$14.06 B,USA,$103.01,-3.88%,-67.80%,"👨‍💻 Software, 👩‍💻 Tech, 🔌 Electronics"
+China Communications Construction,$14.45 B,China,$1.06,-0.92%,-20.30%,"🏗 Construction, 👷 Engineering"
+Formula One Group,$14.60 B,USA,$62.92,1.75%,4.92%,N/A
+Novozymes,$14.44 B,Denmark,$52.07,-0.23%,-13.26%,🧬 Biotech
+Huaneng Power,$14.40 B,China,$1.09,0.39%,5.83%,"🔋 Electricity, ⚡ Energy"
+Tech Mahindra,$14.35 B,India,$14.70,0.17%,12.56%,N/A
+Masco,$14.36 B,USA,$64.00,0.96%,28.90%,🏭 Manufacturing
+Kingspan Group,$14.55 B,Ireland,$79.95,1.17%,44.78%,🧱 Building materials
+QBE Insurance,$14.27 B,Australia,$9.55,-0.82%,8.77%,🏦 Insurance
+AMH (American Homes 4 Rent),$14.50 B,USA,$35.08,1.33%,6.40%,"🏠 Real estate, 💰 Investment"
+Britannia Industries,$14.28 B,India,$59.29,-1.47%,10.97%,N/A
+Stanley Black & Decker,$14.23 B,USA,$92.85,-0.32%,18.63%,"🛠️ Tool manufacturers, 🏭 Manufacturing"
+Celulosa Argentina,$14.27 B,ar Argentina,$1.41,0.98%,193.75%,📄 Pulp and paper
+Edenred,$14.29 B,France,$57.41,1.03%,3.93%,N/A
+James Hardie Industries,$14.38 B,Ireland,$32.86,-0.15%,65.29%,🧱 Building materials
+Shionogi,$14.26 B,Japan,$48.71,-0.51%,-1.58%,"💊 Pharmaceuticals, 🧬 Biotech"
+Nitori Holdings,$14.25 B,Japan,$126.18,1.14%,8.23%,🛍️ Retail
+Teradyne,$14.10 B,USA,$92.29,-0.35%,-2.64%,🔌 Electronics
+Conagra Brands,$14.10 B,USA,$29.52,-0.91%,-23.30%,🍴 Food
+Gen Digital,$14.19 B,USA,$22.15,-0.54%,-2.81%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+Kerry Group,$14.29 B,Ireland,$80.16,-1.22%,-11.80%,🍴 Food
+Singapore Airlines,$14.14 B,Singapore,$4.75,0.63%,15.85%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+InterContinental Hotels Group,$14.37 B,UK,$87.26,3.55%,45.65%,"🏨 Hotels, 🌴 Travel"
+SS&C Technologies,$14.13 B,USA,$57.11,0.39%,13.02%,"👨‍💻 Software, 👩‍💻 Tech"
+Brookfield Asset Management,$14.00 B,Canada,$35.90,-0.39%,12.19%,"💳 Financial services, 💰 Investment"
+REA Group,$14.06 B,Australia,$106.46,-1.00%,30.75%,🖥️ Internet
+IndusInd Bank,$14.07 B,India,$18.10,0.28%,25.00%,"🏦 Banks, 💳 Financial services"
+Marathon Oil,$14.09 B,USA,$24.09,1.82%,-10.25%,"🛢 Oil&Gas, ⚡ Energy"
+Poste Italiane,$14.02 B,Italy,$10.83,0.61%,10.85%,📦 Courier
+Tencent Music,$14.10 B,China,$8.22,1.61%,2.37%,Entertainment
+China Resources Beer,$13.98 B,Hong Kong,$4.31,1.82%,-39.38%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Graco,$13.94 B,USA,$82.63,0.47%,20.86%,N/A
+Domino's Pizza,$13.77 B,USA,$394.90,-1.77%,5.32%,"🍔 Restaurant chains, 🍴 Food, 🍕 Pizza"
+Magellan Midstream Partners,$13.94 B,USA,$69.00,0.67%,38.69%,"🛢 Oil&Gas, ⚡ Energy"
+POOLCORP,$13.69 B,USA,$354.12,-2.64%,7.56%,N/A
+Amcor,$13.94 B,Switzerland,$9.65,0.10%,-22.37%,📦 Packaging
+Bharat Electronics,$13.92 B,India,$1.90,-1.00%,48.44%,"🔌 Electronics, 🚀 Aerospace, 🔫 Defense contractors"
+Sumitomo Realty & Development,$13.93 B,Japan,$29.40,-2.21%,16.25%,🏠 Real estate
+Logitech,$13.99 B,Switzerland,$89.11,2.04%,48.07%,"👩‍💻 Tech, 💻 Tech Hardware"
+Fox Corporation,$14.00 B,USA,$28.01,2.49%,-4.27%,📰 Media/Press
+W. P. Carey,$13.68 B,USA,$62.56,-2.23%,-20.78%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Coles Group,$13.80 B,Australia,$10.31,0.38%,-8.92%,🛍️ Retail
+Citizens Financial Group,$13.80 B,USA,$29.61,1.54%,-25.19%,"🏦 Banks, 💳 Financial services"
+RPM International,$13.78 B,USA,$107.02,0.19%,3.23%,"🧱 Building materials, 🎨 Paint & Coating"
+MGM Resorts,$14.14 B,USA,$41.42,4.04%,11.92%,"🏨 Hotels, 🎰 Gambling, Entertainment, 🌴 Travel"
+Equity LifeStyle Properties,$13.84 B,USA,$70.81,-0.27%,9.21%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Nordson,$13.63 B,USA,$239.16,-0.80%,1.93%,🏭 Manufacturing
+Shimano,$13.79 B,Japan,$152.76,-2.54%,-8.78%,🎾 Sports goods
+Toshiba,$13.78 B,Japan,$31.85,0.00%,-0.41%,🔌 Electronics
+OMV,$13.77 B,Austria,$42.10,0.57%,-14.60%,"🛢 Oil&Gas, ⚡ Energy"
+Manhattan Associates,$13.65 B,USA,$221.74,-0.40%,84.18%,"👨‍💻 Software, 👩‍💻 Tech"
+Sumitomo Mitsui Trust Holdings,$13.76 B,Japan,$37.91,-1.17%,23.32%,💳 Financial services
+NIO,$13.16 B,China,$7.38,-1.47%,-44.97%,"🚗 Automakers, 🔋 Electric Vehicles"
+Insulet,$13.59 B,USA,$194.66,0.06%,-35.83%,Medical devices
+Pan Pacific International Holdings,$13.70 B,Japan,$22.97,-0.45%,29.63%,🛍️ Retail
+UiPath,$13.94 B,USA,$24.63,5.21%,88.02%,"👨‍💻 Software, 👩‍💻 Tech, 🦾 AI"
+VAT Group,$13.55 B,Switzerland,$452.23,1.02%,58.19%,🏭 Manufacturing
+United Airlines Holdings,$13.43 B,USA,$40.97,-0.70%,-4.28%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Tryg,$13.50 B,Denmark,$21.82,0.83%,-5.87%,🏦 Insurance
+AMEC,$13.48 B,China,$21.78,1.29%,48.06%,"📟 Semiconductors, 👩‍💻 Tech"
+Molson Coors,$13.44 B,USA,$62.31,0.29%,18.33%,"🍷 Alcoholic beverages, 🥤 Beverages"
+China Southern Airlines,$13.39 B,China,$0.84,0.33%,-22.22%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Informa plc,$13.37 B,UK,$9.75,1.36%,28.97%,N/A
+InterGlobe Aviation,$13.41 B,India,$34.77,0.68%,41.63%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Uni-President Enterprises,$13.39 B,Taiwan,$2.36,0.00%,11.32%,🍴 Food
+Sekisui House,$13.42 B,Japan,$20.71,-4.21%,13.17%,🏗 Construction
+CP All,$13.49 B,Thailand,$1.50,-0.94%,-19.35%,"🛍️ Retail, 🛒 Supermarket Chains"
+Bank of Beijing,$13.39 B,China,$0.63,0.44%,0.00%,"🏦 Banks, 💳 Financial services"
+Ecopro,$13.38 B,South Korea,$508.09,5.54%,467.89%,N/A
+Rentokil Initial,$13.36 B,UK,$26.49,0.19%,-18.77%,N/A
+Swatch,$13.30 B,Switzerland,$261.01,1.33%,-4.02%,N/A
+New Oriental,$13.31 B,China,$80.39,0.75%,146.14%,🎓 Education
+KPN,$13.39 B,Netherlands,$3.39,-0.25%,8.31%,📡 Telecommunication
+Subaru,$13.35 B,Japan,$17.76,-4.13%,7.70%,🚗 Automakers
+AkzoNobel,$13.30 B,Netherlands,$78.01,0.17%,14.94%,"🧪 Chemicals, 🎨 Paint & Coating"
+Eicher Motors,$13.31 B,India,$48.65,-0.88%,20.45%,N/A
+China Railway Construction,$13.31 B,China,$1.06,-0.66%,-16.54%,"🚂 Railways, 🏗 Construction"
+XP Inc.,$13.03 B,Brazil,$23.83,-1.12%,49.87%,💳 Financial services
+Hindalco Industries,$13.26 B,India,$6.24,0.83%,8.90%,N/A
+Carlyle Group,$13.32 B,USA,$36.93,1.76%,26.82%,💰 Investment
+Rheinmetall,$13.26 B,Germany,$305.75,1.54%,47.36%,"🚘 Automotive Suppliers, 🔫 Defense contractors, 🇩🇪 DAX"
+Localiza,$13.01 B,Brazil,$12.40,-0.67%,20.27%,"🚗 Car rental, Rental & Leasing Services"
+Suzano,$13.38 B,Brazil,$10.30,2.07%,1.68%,📄 Pulp and paper
+Industrivarden,$13.12 B,Sweden,$31.10,0.53%,27.41%,💰 Investment
+Bunzl,$13.10 B,UK,$38.76,0.95%,6.13%,N/A
+CIMB Group,$13.14 B,Malaysia,$1.23,0.00%,-3.91%,"🏦 Banks, 💳 Financial services"
+Chow Tai Fook,$13.18 B,Hong Kong,$1.32,-5.24%,-30.89%,"🛍️ Retail, ⌚ Luxury goods"
+Henderson Land Development,$13.17 B,Hong Kong,$2.72,-0.47%,-18.56%,🏠 Real estate
+Bank of Baroda,$13.16 B,India,$2.54,0.40%,10.92%,"🏦 Banks, 💳 Financial services"
+Shandong Gold Mining,$13.09 B,China,$3.18,-1.13%,8.16%,"⛏️ Mining, ⛏️ Gold mining"
+Alliant Energy,$13.11 B,USA,$51.38,-0.85%,-7.37%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Fortum,$13.11 B,Finland,$14.61,-0.07%,-9.03%,"🔋 Electricity, ⚡ Energy"
+Vistra,$13.21 B,USA,$36.96,-0.56%,56.68%,"🔋 Electricity, ⚡ Energy"
+Brookfield Infrastructure Partners,$13.01 B,Bermuda,$28.16,0.32%,-19.61%,🛣️ Infrastructure
+Santander Polska,$13.01 B,Poland,$127.38,0.39%,119.05%,"🏦 Banks, 💳 Financial services"
+Next plc,$12.91 B,UK,$100.74,-0.10%,41.99%,"👚 Clothing, 🛍️ Retail"
+SEGRO,$12.85 B,UK,$10.47,-1.19%,6.95%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Campbell Soup,$12.79 B,USA,$42.91,-1.22%,-24.81%,🍴 Food
+Resona Holdings,$12.92 B,Japan,$5.51,1.85%,16.99%,"🏦 Banks, 💳 Financial services"
+Nippon Yūsen,$12.92 B,Japan,$26.77,-2.00%,20.31%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Carrefour,$12.87 B,France,$18.55,-0.20%,6.67%,"🛍️ Retail, 🇫🇷 CAC 40, 🛒 Supermarket Chains"
+JDE Peet's,$12.95 B,Netherlands,$26.66,0.00%,-8.57%,🥤 Beverages
+CK Infrastructure,$12.84 B,Hong Kong,$5.10,1.27%,-0.58%,🛣️ Infrastructure
+Corebridge Financial,$12.81 B,USA,$20.35,0.99%,1.70%,"🏦 Insurance, 💳 Financial services, 💰 Investment, Asset Management"
+Amundi,$12.68 B,France,$62.38,1.14%,9.79%,"💰 Investment, Asset Management"
+Rural Electrification Corp,$12.82 B,India,$4.86,2.75%,249.64%,N/A
+J.M. Smucker Company,$12.66 B,USA,$119.33,-1.43%,-23.26%,🍴 Food
+Fidelity National Financial,$12.71 B,USA,$46.72,-0.21%,25.42%,🏦 Insurance
+Hong Kong and China Gas,$12.78 B,Hong Kong,$0.69,0.75%,-21.59%,"🛢 Oil&Gas, ⚡ Energy"
+E.SUN Bank,$12.75 B,Taiwan,$0.81,0.39%,1.25%,"🏦 Banks, 💳 Financial services"
+Albertsons,$12.77 B,USA,$22.19,0.68%,2.87%,"🛍️ Retail, 🛒 Supermarket Chains"
+NICE,$12.86 B,Israel,$203.20,1.07%,2.17%,"👨‍💻 Software, 👩‍💻 Tech"
+Host Hotels & Resorts,$12.87 B,USA,$17.99,1.18%,1.70%,"🏨 Hotels, 🏠 Real estate, 💰 Investment, 🌴 Travel"
+International Paper,$12.74 B,USA,$36.84,0.05%,1.85%,📄 Pulp and paper
+News Corp,$12.68 B,USA,$22.94,0.00%,24.74%,📰 Media/Press
+Franklin Resources,$12.64 B,USA,$25.57,-0.43%,-4.84%,💰 Investment
+China Steel,$12.79 B,Taiwan,$1.39,-0.46%,-7.95%,"🔩 Steel producers, 🔩 Steel industry"
+Gold Fields,$12.69 B,South Africa,$14.09,-2.22%,28.21%,"⛏️ Mining, ⛏️ Gold mining"
+Owens Corning,$12.74 B,USA,$143.36,1.67%,55.54%,🧱 Building materials
+Lundbergföretagen,$12.70 B,Sweden,$51.23,0.15%,20.80%,💰 Investment
+Unity Software,$12.42 B,USA,$32.70,2.51%,-7.42%,"👨‍💻 Software, 👩‍💻 Tech, 🎮 Video games"
+Shinkin Central Bank,$12.65 B,Japan,"$1,887",-0.04%,-3.99%,"🏦 Banks, 💳 Financial services"
+BB Seguridade Participações,$12.56 B,Brazil,$6.32,0.03%,4.46%,🏦 Insurance
+bioMérieux,$12.47 B,France,$105.63,0.99%,4.93%,"⚕️ Diagnostics and Testing, 🧬 Biotech"
+Brenntag,$12.60 B,Germany,$85.45,0.15%,35.29%,"🧪 Chemicals, 🇩🇪 DAX"
+Hua Xia Bank,$12.61 B,China,$0.79,-2.57%,2.60%,"🏦 Banks, 💳 Financial services"
+NIBE Industrier,$12.18 B,Sweden,$6.65,3.26%,-32.35%,N/A
+Bandai Namco,$12.59 B,Japan,$19.08,-2.17%,-70.45%,"👩‍💻 Tech, 🎮 Video games, Entertainment"
+AppLovin,$12.54 B,USA,$37.36,1.41%,258.89%,"👨‍💻 Software, 👩‍💻 Tech"
+Nomura Holdings,$12.63 B,Japan,$4.19,-0.71%,17.37%,"🏦 Banks, 💳 Financial services"
+Aéroports de Paris,$12.45 B,France,$126.27,2.27%,-9.35%,"🛫 Airports, 🛣️ Infrastructure"
+Enel Américas,$12.61 B,Chile,$0.12,1.41%,-7.69%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Abu Dhabi National Oil Company (ADNOC),$12.56 B,eu United Arab Emirates,$1.00,-1.60%,-18.03%,"🛢 Oil&Gas, ⚡ Energy"
+Twilio,$12.78 B,USA,$70.61,2.66%,54.20%,"👨‍💻 Software, 👩‍💻 Tech"
+KEPCO,$12.56 B,Japan,$14.08,-1.60%,66.82%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Adevinta,$12.51 B,Norway,$10.27,-0.27%,54.67%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+AECOM,$12.40 B,USA,$91.23,-0.30%,6.71%,👷 Engineering
+Godrej,$12.53 B,India,$12.26,0.24%,11.86%,🏙 Conglomerate
+Taiwan Cooperative Financial,$12.52 B,Taiwan,$0.85,0.00%,0.00%,"🏦 Banks, 🏦 Insurance, 💳 Financial services"
+Williams-Sonoma,$12.49 B,USA,$194.81,-0.26%,71.99%,"🛍️ Retail, 🏠 Home & Kitchen Appliances, 🪑 Furniture"
+Hyatt Hotels,$12.64 B,USA,$122.64,1.51%,26.22%,"🏨 Hotels, 🌴 Travel"
+Kimco Realty,$12.54 B,USA,$20.24,0.55%,-6.94%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+AspenTech,$12.67 B,USA,$198.99,1.81%,-11.30%,"👨‍💻 Software, 👩‍💻 Tech"
+UDR Apartments,$12.56 B,USA,$35.37,1.06%,-11.91%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Ternium Argentina,$12.46 B,ar Argentina,$2.76,6.64%,"3,350.00%","🔩 Steel producers, 🔩 Steel industry"
+Hotai Motor,$12.42 B,Taiwan,$22.31,1.01%,10.45%,🚗 Automakers
+KeyCorp (KeyBank),$12.41 B,USA,$13.26,1.14%,-22.82%,"🏦 Banks, 💳 Financial services"
+Link REIT,$12.43 B,Hong Kong,$4.85,0.40%,-30.52%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Tata Power,$12.40 B,India,$3.88,-0.69%,41.61%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Solvay,$12.57 B,Belgium,$119.68,0.00%,22.30%,🧪 Chemicals
+TransUnion,$12.13 B,USA,$62.63,-0.02%,5.23%,💳 Financial services
+Gaming and Leisure Properties,$12.30 B,USA,$46.08,-0.60%,-11.28%,"🏠 Real estate, 💰 Investment, 🎰 Gambling, 🏘️ REITs"
+Avangrid,$12.40 B,USA,$32.07,-0.68%,-24.58%,"🔋 Electricity, ⚡ Energy"
+Davide Campari-Milano,$12.28 B,Italy,$10.86,0.92%,4.12%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Koç Holding,$12.43 B,Turkey,$4.90,-0.56%,35.73%,🏙 Conglomerate
+LG Electronics,$12.31 B,South Korea,$72.06,-0.73%,5.44%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Zomato,$12.31 B,India,$1.44,-1.44%,84.62%,"🖥️ Internet, 👩‍💻 Tech, 🍴 Food, 🥡 Food Delivery"
+Incyte,$12.25 B,USA,$54.70,-0.87%,-34.97%,"💊 Pharmaceuticals, 🧬 Biotech"
+Tenaga Nasional,$12.26 B,Malaysia,$8.45,0.00%,1.68%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Cochlear,$12.21 B,Australia,$186.43,0.53%,32.88%,Medical devices
+ABN AMRO,$12.26 B,Netherlands,$14.17,1.47%,13.09%,"🏦 Banks, 💳 Financial services"
+Grab Holdings,$12.32 B,Singapore,$3.15,1.29%,2.94%,"🖥️ Internet, 👩‍💻 Tech, 🍴 Food, 🚘 Ridesharing, 🥡 Food Delivery"
+Bharat Petroleum,$12.20 B,India,$5.64,-0.90%,38.24%,N/A
+LKQ Corporation,$12.14 B,USA,$45.40,0.44%,-15.08%,auto parts
+Bank Negara Indonesia,$12.19 B,Indonesia,$0.33,-3.79%,-45.90%,"🏦 Banks, 💳 Financial services"
+Zebra Technologies,$12.12 B,USA,$236.13,1.24%,-6.60%,"👨‍💻 Software, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Affirm,$12.69 B,USA,$42.07,6.75%,262.05%,💳 Financial services
+AES,$12.20 B,USA,$18.22,0.28%,-35.71%,"🔋 Electricity, ⚡ Energy"
+China Merchants Shekou Industrial Zone,$12.11 B,China,$1.34,-1.54%,-36.19%,N/A
+Trent Limited,$12.11 B,India,$34.09,-0.14%,92.27%,🛍️ Retail
+Okta,$11.90 B,USA,$72.01,0.01%,12.83%,"👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech, 🔒 IT security"
+BDO Unibank,$12.11 B,Philippines,$22.60,0.04%,-1.44%,"🏦 Banks, 💳 Financial services"
+PChem (Petronas Chemicals Group),$12.08 B,Malaysia,$1.51,1.58%,-20.94%,🧪 Chemicals
+Jack Henry & Associates,$11.99 B,USA,$164.69,-0.28%,-10.94%,"💳 Financial services, 👩‍💻 Tech"
+ABB India,$12.06 B,India,$56.95,0.04%,56.76%,👷 Engineering
+Turkish Airlines,$12.12 B,Turkey,$8.79,-2.21%,20.91%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Rede D'Or Sao Luiz,$12.12 B,Brazil,$5.38,0.76%,0.94%,"⚕️ Healthcare, 🏥 Medical Care Facilities"
+ENEOS Holdings,$12.04 B,Japan,$3.99,-0.43%,21.65%,"🛢 Oil&Gas, ⚡ Energy"
+Indian Railway Finance,$12.00 B,India,$0.92,0.72%,135.90%,"🚂 Railways, 💰 Investment, 🛣️ Infrastructure"
+Shanghai Airport (AVINEX),$11.98 B,China,$4.82,1.50%,-41.93%,"🛫 Airports, 🛣️ Infrastructure"
+Shree Cement,$11.97 B,India,$331.96,-1.25%,11.52%,N/A
+Fresenius Medical Care,$12.10 B,Germany,$20.63,2.53%,29.50%,"⚕️ Healthcare, 🇩🇪 DAX"
+First Financial Holding,$11.96 B,Taiwan,$0.88,0.55%,2.33%,"🏦 Banks, 💳 Financial services"
+Adani Transmission,$11.94 B,India,$10.70,-7.26%,-67.30%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Brambles,$11.88 B,Australia,$8.54,-0.76%,7.42%,🚚 Transportation
+Renault,$11.82 B,France,$40.99,0.96%,14.18%,"🚗 Automakers, 🇫🇷 CAC 40, 🏭 Manufacturing"
+Power Financial,$11.84 B,Canada,$12.89,-0.51%,-6.19%,"💳 Financial services, Asset Management"
+Capitec Bank,$11.89 B,South Africa,$101.94,-0.79%,2.33%,"🏦 Banks, 💳 Financial services"
+Kikkoman,$11.90 B,Japan,$62.55,-1.22%,13.29%,🍴 Food
+EVE Energy,$11.87 B,China,$5.81,-1.28%,-55.78%,"⚡ Energy, 🔋 Batteries"
+INWIT,$11.80 B,Italy,$12.46,1.01%,24.48%,📡 Telecommunication
+CapitaLand Investment Limited,$11.83 B,Singapore,$2.31,0.00%,-13.48%,"🏠 Real estate, 💰 Investment"
+Celsius Holdings,$11.79 B,USA,$50.90,-0.12%,-56.95%,🥤 Beverages
+Qatar Islamic Bank,$11.85 B,eu Qatar,$5.02,-0.54%,-20.94%,"🏦 Banks, 💳 Financial services"
+Interpublic Group,$11.95 B,USA,$31.22,1.26%,-2.89%,➡️ Advertising
+Viatris,$11.79 B,USA,$9.83,0.72%,-10.31%,"💊 Pharmaceuticals, 🧬 Biotech"
+AIB Group (Allied Irish Banks),$12.14 B,Ireland,$4.24,-3.72%,26.19%,"🏦 Banks, 💳 Financial services"
+Texas Pacific Land Trust,$11.86 B,USA,"$1,546",1.95%,-35.92%,N/A
+Evergy,$11.84 B,USA,$51.56,-0.27%,-16.84%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Cipla,$11.81 B,India,$14.63,-0.30%,8.69%,"💊 Pharmaceuticals, 🧬 Biotech"
+Kirin Holdings,$11.81 B,Japan,$14.56,-0.80%,-6.00%,"🍷 Alcoholic beverages, 🥤 Beverages, 🍴 Food"
+Regency Centers,$11.87 B,USA,$63.96,0.77%,-3.03%,"🏠 Real estate, 💰 Investment"
+Banque Saudi Fransi,$11.79 B,Saudi Arabia,$9.85,0.27%,-0.20%,"🏦 Banks, 💳 Financial services"
+Galp Energia,$11.73 B,Portugal,$14.36,0.00%,15.81%,"🛢 Oil&Gas, ⚡ Energy"
+Formosa Chemicals & Fibre,$11.78 B,Taiwan,$2.01,0.00%,-13.36%,🧪 Chemicals
+The Mosaic Company,$11.66 B,USA,$35.68,-0.64%,-24.09%,🌱 Fertilizer companies
+A. O. Smith,$11.59 B,USA,$77.99,-0.03%,33.50%,N/A
+Ambuja Cements,$11.77 B,India,$5.93,-2.13%,-17.06%,"Cement, 🧱 Building materials"
+Lincoln Electric,$11.82 B,USA,$206.80,1.00%,39.90%,N/A
+Morningstar,$11.73 B,USA,$274.76,-0.09%,16.10%,💳 Financial services
+Exact Sciences,$11.70 B,USA,$64.72,-0.37%,40.82%,"⚕️ Diagnostics and Testing, 🧬 Biotech"
+Cholamandalam Investment and Finance,$11.75 B,India,$14.00,2.59%,55.04%,"💳 Financial services, 💰 Investment"
+Trimble,$11.66 B,USA,$46.90,0.32%,-18.73%,"👨‍💻 Software, 👩‍💻 Tech"
+Neurocrine Biosciences,$11.52 B,USA,$117.28,-2.27%,-2.58%,"💊 Pharmaceuticals, 🧬 Biotech"
+Elastic NV,$11.53 B,USA,$115.81,2.31%,113.83%,"👨‍💻 Software, 👩‍💻 Tech"
+Divis Laboratories,$11.72 B,India,$44.17,-1.41%,10.51%,"💊 Pharmaceuticals, 🧬 Biotech"
+Suncorp,$11.61 B,Australia,$9.15,0.07%,15.82%,"🏦 Banks, 🏦 Insurance, 💳 Financial services"
+Dabur,$11.64 B,India,$6.57,0.31%,-10.61%,🛍 Consumer goods
+Metro,$11.53 B,Canada,$50.40,-0.42%,-11.52%,"🛍️ Retail, 🛒 Supermarket Chains"
+Bank of Shanghai,$11.58 B,China,$0.82,-0.17%,-5.75%,"🏦 Banks, 💳 Financial services"
+Norsk Hydro,$11.50 B,Norway,$5.71,0.32%,-23.46%,Aluminum
+Bangkok Dusit Medical Services (BDMS),$11.65 B,Thailand,$0.73,0.00%,-9.88%,"⚕️ Healthcare, 🏥 Medical Care Facilities"
+Ritchie Bros. Auctioneers,$11.45 B,Canada,$62.83,-0.43%,10.00%,N/A
+TPG Capital,$11.59 B,USA,$37.49,1.02%,17.45%,💰 Investment
+DexCom,$11.36 B,USA,$116.97,-1.61%,-4.65%,"Medical devices, 🧬 Biotech"
+Severstal,$11.42 B,Russia,$13.57,-0.82%,N/A,"⛏️ Mining, 🔩 Steel producers, 🔩 Steel industry"
+Sysmex,$11.56 B,Japan,$55.24,-0.55%,-13.36%,⚕️ Healthcare
+Globe Life,$11.51 B,USA,$122.36,0.09%,4.04%,🏦 Insurance
+OTP Bank,$11.69 B,Hungary,$41.84,1.65%,64.27%,"🏦 Banks, 💳 Financial services"
+Bank Leumi,$11.52 B,Israel,$7.56,-0.28%,-17.01%,"🏦 Banks, 💳 Financial services"
+ZoomInfo,$11.33 B,USA,$15.64,2.62%,-45.12%,"👨‍💻 Software, 👩‍💻 Tech"
+Banco de Chile,$11.48 B,Chile,$22.74,0.44%,18.31%,"🏦 Banks, 💳 Financial services"
+Eurofins Scientific,$11.48 B,Luxembourg,$59.36,-0.29%,-13.38%,"🇫🇷 CAC 40, ⚕️ Diagnostics and Testing"
+Ryan Specialty Group,$11.49 B,USA,$44.15,-0.16%,7.39%,💳 Financial services
+Swire Properties,$11.50 B,Hong Kong,$1.97,-0.26%,-17.23%,🏠 Real estate
+Dr. Reddy's,$11.51 B,India,$68.86,-1.28%,28.21%,"💊 Pharmaceuticals, 🧬 Biotech"
+Al Dar Properties,$11.47 B,eu United Arab Emirates,$1.46,-1.29%,20.66%,"🏠 Real estate, 💰 Investment"
+Smith & Nephew,$11.47 B,UK,$26.28,0.92%,-3.35%,Medical equipment
+Aluminum Corporation of China,$11.44 B,China,$0.73,-0.76%,5.80%,Aluminum
+Tianqi Lithium,$11.46 B,China,$7.76,-1.12%,-39.18%,⛏️ Mining
+United Therapeutics,$11.35 B,USA,$241.65,-0.17%,-13.66%,"💊 Pharmaceuticals, 🧬 Biotech"
+Punjab National Bank,$11.43 B,India,$1.04,-0.29%,48.57%,"🏦 Banks, 💳 Financial services"
+Ares Capital,$11.43 B,USA,$20.08,0.70%,5.91%,N/A
+China Eastern Airlines,$11.35 B,China,$0.57,0.49%,-28.75%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Rexford Industrial,$11.35 B,USA,$52.42,0.46%,-4.34%,N/A
+Burlington Stores,$11.37 B,USA,$176.28,1.26%,-11.38%,"👚 Clothing, 🛍️ Retail"
+Power Assets,$11.35 B,Hong Kong,$5.33,0.73%,1.14%,"🔋 Electricity, 🚰 Utility companies"
+Revvity,$11.23 B,USA,$91.02,-0.72%,N/A,"⚕️ Diagnostics and Testing, 🧬 Biotech"
+Tsingtao,$11.37 B,China,$10.00,0.07%,-36.14%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Prysmian Group,$11.33 B,Italy,$41.57,3.08%,13.86%,N/A
+Ovintiv,$11.31 B,USA,$41.63,0.99%,-13.86%,"🛢 Oil&Gas, ⚡ Energy"
+Traton,$11.20 B,Germany,$22.40,1.27%,45.93%,🚑 Specialty Vehicles
+CNA Financial,$11.25 B,USA,$41.55,-0.24%,0.02%,"🏦 Insurance, 💳 Financial services"
+Dick's Sporting Goods,$11.28 B,USA,$138.09,0.47%,13.28%,🎾 Sports goods
+Amerco,$11.10 B,USA,$58.82,-0.79%,-11.15%,"🏦 Insurance, Rental & Leasing Services"
+Legend Biotech,$10.80 B,USA,$59.28,-3.48%,6.89%,"💊 Pharmaceuticals, 🧬 Biotech"
+Dino Polska,$11.11 B,Poland,$113.35,-0.37%,41.49%,"🛍️ Retail, 🛒 Supermarket Chains"
+Kazatomprom,$10.99 B,eu Kazakhstan,$39.82,3.07%,38.50%,"⛏️ Mining, ⚡ Energy, ☢️ Uranium"
+Ivanhoe Mines,$11.35 B,Canada,$9.30,2.93%,6.16%,⛏️ Mining
+Teva Pharmaceutical Industries,$11.00 B,Israel,$9.82,-1.50%,18.03%,"💊 Pharmaceuticals, 🧬 Biotech"
+Bank Hapoalim,$11.14 B,Israel,$8.33,-0.77%,-10.33%,"🏦 Banks, 💳 Financial services"
+Pandora,$11.16 B,Denmark,$135.42,1.17%,78.65%,⌚ Luxury goods
+Pentair,$11.14 B,UK,$67.41,1.00%,50.33%,N/A
+Flex,$11.12 B,Singapore,$25.67,1.06%,16.47%,"🔌 Electronics, 🏭 Manufacturing"
+Liberty Broadband,$11.04 B,USA,$75.64,-0.66%,-11.66%,N/A
+Freddie Mac,$10.99 B,USA,$3.41,-1.09%,-4.14%,💳 Financial services
+GAIL,$11.07 B,India,$1.68,-1.20%,48.67%,"🛢 Oil&Gas, 🚰 Utility companies, ⚡ Energy"
+BE Semiconductor,$11.05 B,Netherlands,$143.75,1.60%,119.53%,"📟 Semiconductors, 👩‍💻 Tech"
+IHH Healthcare,$11.02 B,Malaysia,$1.25,0.00%,-6.02%,⚕️ Healthcare
+Paramount Global,$11.13 B,USA,$16.85,12.11%,-6.91%,"📰 Media/Press, Entertainment"
+US Foods,$10.97 B,USA,$44.64,-0.11%,27.22%,🍴 Food
+Nutanix,$11.16 B,USA,$46.02,2.33%,47.64%,"👨‍💻 Software, 👩‍💻 Tech"
+Surgutneftegas,$10.89 B,Russia,$0.30,-0.56%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+Teleflex,$10.85 B,USA,$231.08,-0.64%,-5.73%,Medical devices
+GAC (Guangzhou Automobile Group),$10.97 B,China,$1.30,-0.85%,-25.71%,"🚗 Automakers, 🏭 Manufacturing"
+JD Sports Fashion,$10.89 B,UK,$2.10,0.69%,40.00%,"👚 Clothing, 🛍️ Retail, 🎾 Sports goods"
+Bio-Techne,$10.80 B,USA,$68.31,0.38%,-16.64%,"💊 Pharmaceuticals, 🧬 Biotech"
+Novolipetsk Steel,$10.87 B,Russia,$1.82,0.10%,N/A,"🔩 Steel producers, 🔩 Steel industry"
+Hansoh Pharma,$10.93 B,China,$1.84,-0.83%,-6.60%,💊 Pharmaceuticals
+Huazhu Hotels,$11.02 B,China,$34.57,-1.06%,-20.27%,"🏨 Hotels, 🌴 Travel"
+Vedanta,$10.90 B,India,$2.94,-1.63%,-23.04%,⛏️ Mining
+Equitable Holdings,$10.87 B,USA,$32.12,0.78%,5.59%,"🏦 Insurance, 💳 Financial services"
+OpenText,$10.84 B,Canada,$39.93,0.40%,42.81%,"👨‍💻 Software, 👩‍💻 Tech"
+NiSource,$10.87 B,USA,$26.30,-0.49%,-5.29%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+MTU Aero Engines,$11.01 B,Germany,$205.05,0.08%,-4.72%,"🚀 Aerospace, 🇩🇪 DAX"
+Randstad,$10.90 B,Netherlands,$60.46,2.00%,4.22%,💼 Professional services
+Lufthansa,$10.77 B,Germany,$9.01,-0.54%,11.10%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Ganfeng Lithium,$10.87 B,China,$5.88,-0.28%,-49.00%,⛏️ Mining
+Five Below,$10.75 B,USA,$194.83,-0.56%,6.99%,🛍️ Retail
+TVS Motor,$10.84 B,India,$22.83,-0.91%,83.08%,🏍 Motorcycle Manufacturers
+Zillow,$10.73 B,USA,$46.41,-0.68%,32.83%,"🏠 Real estate, 🖥️ Internet, 👩‍💻 Tech"
+Nippon Sanso,$10.83 B,Japan,$25.03,-3.58%,56.63%,🧪 Chemicals
+Paycom,$10.76 B,USA,$186.57,0.71%,-41.47%,"👨‍💻 Software, 👩‍💻 Tech"
+Admiral Group,$10.80 B,UK,$35.26,0.94%,45.88%,"🏦 Insurance, 💳 Financial services"
+AEGON,$10.77 B,Netherlands,$5.61,0.54%,17.36%,🏦 Insurance
+Bureau Veritas,$10.61 B,France,$23.36,-0.18%,-10.05%,💼 Professional services
+Reinsurance Group of America,$10.78 B,USA,$163.64,0.55%,14.08%,🏦 Insurance
+Yuanta Financial Holding,$10.71 B,Taiwan,$0.84,0.19%,15.07%,"🏦 Banks, 💳 Financial services"
+Floor & Decor,$10.75 B,USA,$100.93,0.13%,33.05%,N/A
+CarMax,$10.66 B,USA,$67.22,0.51%,2.66%,"🚘 Used car retailer, 🚗 Car retail"
+JBS,$10.75 B,Brazil,$4.85,1.19%,19.16%,🍴 Food
+Siam Makro,$10.72 B,Thailand,$1.01,0.00%,-7.34%,"🛍️ Retail, 🛒 Supermarket Chains"
+NRG Energy,$10.79 B,USA,$47.81,0.72%,48.57%,N/A
+New China Life Insurance,$10.71 B,China,$4.21,-1.02%,-3.00%,🏦 Insurance
+Crown Holdings,$10.68 B,USA,$88.53,-0.28%,8.69%,"📦 Packaging, 🏭 Manufacturing"
+Western Midstream,$10.56 B,USA,$27.84,-1.42%,8.71%,"🛢 Oil&Gas, ⚡ Energy"
+Julius Bär,$10.69 B,Switzerland,$52.27,1.89%,-9.19%,"🏦 Banks, 💳 Financial services"
+Svenska Cellulosa Aktiebolaget (SCA),$10.67 B,Sweden,$15.10,0.48%,10.46%,📄 Pulp and paper
+Bajaj Holdings & Investment,$10.66 B,India,$95.79,-1.19%,27.58%,💰 Investment
+Lamar Advertising,$10.71 B,USA,$105.02,1.29%,11.59%,➡️ Advertising
+GFL Environmental,$10.52 B,Canada,$28.46,-0.63%,0.46%,♻️ Waste & Recycling
+Lodha Group,$10.61 B,India,$11.01,2.39%,66.57%,🏠 Real estate
+Xero,$10.58 B,New Zealand,$69.09,1.34%,47.88%,"👨‍💻 Software, 👩‍💻 Tech"
+Nexi,$10.50 B,Italy,$8.01,0.71%,-2.55%,💳 Financial services
+Westrock,$10.55 B,USA,$41.16,0.46%,14.33%,📦 Packaging
+Coca-Cola HBC,$10.51 B,Switzerland,$28.62,0.66%,18.85%,🥤 Beverages
+Halma,$10.53 B,UK,$27.76,1.89%,9.42%,🏙 Conglomerate
+Nissin Foods,$10.57 B,Japan,$104.35,-0.73%,36.05%,🍴 Food
+Barito Pacific,$10.56 B,Indonesia,$0.11,9.38%,120.00%,"🛢 Oil&Gas, 🧪 Chemicals, ⚡ Energy"
+Tata Consumer Products,$10.55 B,India,$11.36,-1.08%,16.16%,🛍 Consumer goods
+RenaissanceRe,$10.53 B,Bermuda,$200.67,0.52%,7.45%,🏦 Insurance
+Saia,$10.39 B,USA,$391.50,0.29%,72.10%,🚚 Transportation
+Grupo ACS,$10.54 B,Spain,$40.42,1.05%,42.68%,"🏗 Construction, 👷 Engineering"
+Mengniu Dairy,$10.53 B,China,$2.68,-2.34%,-38.39%,"🍴 Food, 🥛 Dairy companies"
+Apache Corporation,$10.57 B,USA,$34.47,1.89%,-19.41%,"🛢 Oil&Gas, ⚡ Energy"
+Chr. Hansen,$10.46 B,Denmark,$79.50,-0.18%,26.55%,🍴 Food
+Plains All American Pipeline,$10.42 B,USA,$14.87,-0.54%,27.09%,"🛢 Oil&Gas, 🚚 Transportation, ⚡ Energy, 🛣️ Infrastructure"
+NN Group,$10.50 B,Netherlands,$38.37,0.45%,-10.31%,"🏦 Insurance, 💳 Financial services"
+Shiseido,$10.49 B,Japan,$26.28,-2.22%,-43.07%,"🛍 Consumer goods, 💄 Cosmetics and Beauty"
+Ceridian,$10.48 B,USA,$67.17,1.14%,2.05%,"👨‍💻 Software, 👩‍💻 Tech"
+Coty,$10.36 B,USA,$11.62,-0.34%,44.89%,"🛍 Consumer goods, ⌚ Luxury goods, Flavors & Fragrances, 💄 Cosmetics and Beauty"
+Recordati,$10.37 B,Italy,$50.40,2.28%,18.37%,"💊 Pharmaceuticals, 🧬 Biotech"
+Wise PLC,$10.43 B,UK,$10.18,0.30%,27.09%,💳 Financial services
+Charles River Laboratories,$10.48 B,USA,$204.46,0.83%,-2.67%,🧬 Biotech
+Union Bank of India,$10.41 B,India,$1.41,0.47%,30.56%,"🏦 Banks, 💳 Financial services"
+Japan Exchange Group,$10.41 B,Japan,$20.03,-0.41%,42.06%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Centrica,$10.22 B,UK,$1.88,0.03%,66.37%,"🛢 Oil&Gas, 🚰 Utility companies, ⚡ Energy"
+Covestro,$10.30 B,Germany,$54.61,-1.06%,43.63%,"🧪 Chemicals, 🇩🇪 DAX"
+Lucid Motors,$10.82 B,USA,$4.73,5.58%,-45.51%,"🚗 Automakers, 🔋 Electric Vehicles"
+Longfor Group,$10.38 B,China,$1.58,-1.60%,-50.63%,🏠 Real estate
+Bank of Nanjing,$10.36 B,China,$1.00,0.84%,-32.43%,"🏦 Banks, 💳 Financial services"
+Powszechny Zakład Ubezpieczeń,$10.37 B,Poland,$12.02,0.46%,64.21%,🏦 Insurance
+Hai Di Lao Hot Pot,$10.35 B,China,$1.86,1.68%,-34.74%,"🍔 Restaurant chains, 🍴 Food"
+Performance Food Group,$10.18 B,USA,$65.45,-1.16%,8.72%,🍴 Food
+Vodacom,$10.10 B,South Africa,$5.22,1.05%,-23.57%,📡 Telecommunication
+Arabian Internet and Communications Services,$10.31 B,Saudi Arabia,$86.73,2.46%,39.19%,🖥️ IT services
+Pure Storage,$10.34 B,USA,$33.17,2.03%,13.83%,👩‍💻 Tech
+GBL,$10.26 B,Belgium,$78.85,0.22%,-1.83%,N/A
+Severn Trent,$10.21 B,UK,$34.17,-0.26%,2.77%,"🚰 Utility companies, 🛣️ Infrastructure"
+TopBuild,$10.17 B,USA,$320.27,1.20%,102.11%,N/A
+MTN Group,$10.02 B,South Africa,$5.54,0.55%,-20.29%,📡 Telecommunication
+Chubu Electric Power,$10.25 B,Japan,$13.56,1.24%,45.96%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Cemex,$10.27 B,Mexico,$7.09,1.29%,68.41%,"Cement, 🧱 Building materials"
+Healthpeak Properties,$10.25 B,USA,$18.75,-0.11%,-26.53%,"🏠 Real estate, 💰 Investment"
+Celcomdigi,$10.19 B,Malaysia,$0.87,-1.69%,-1.14%,📡 Telecommunication
+Eastman Chemical,$10.05 B,USA,$84.85,-0.26%,-0.48%,🧪 Chemicals
+F5 Networks,$10.19 B,USA,$170.82,1.02%,12.40%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+Penske Automotive,$10.09 B,USA,$150.26,-0.07%,19.52%,"🛍️ Retail, 🚗 Car retail"
+Amdocs,$10.20 B,USA,$85.73,0.75%,-3.54%,"👨‍💻 Software, 👩‍💻 Tech"
+Stora Enso,$10.22 B,Finland,$13.00,0.42%,-18.14%,📄 Pulp and paper
+Qorvo,$10.12 B,USA,$103.97,3.64%,5.25%,"📟 Semiconductors, 👩‍💻 Tech"
+Oracle Corp Japan,$10.13 B,Japan,$79.15,-1.08%,36.30%,"👨‍💻 Software, 👩‍💻 Tech"
+ANA Holdings,$10.11 B,Japan,$21.49,0.45%,0.42%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Havells India,$10.09 B,India,$16.11,-0.48%,9.29%,🏠 Home & Kitchen Appliances
+Mediobanca,$10.09 B,Italy,$12.01,0.72%,25.23%,"🏦 Banks, 💳 Financial services"
+Casey's General Stores,$9.98 B,USA,$268.01,-2.42%,7.79%,N/A
+Bank Albilad,$10.10 B,Saudi Arabia,$10.10,1.20%,-19.78%,"🏦 Banks, 💳 Financial services"
+Türkiye Petrol Rafinerileri,$10.17 B,Turkey,$5.28,-1.55%,58.08%,"🛢 Oil&Gas, ⚡ Energy"
+Boston Properties,$10.05 B,USA,$64.08,-0.82%,-3.30%,🏠 Real estate
+Geely,$10.09 B,China,$1.00,-1.63%,-38.27%,"🚗 Automakers, 🏭 Manufacturing"
+Lifco,$10.03 B,Sweden,$23.12,0.50%,32.49%,N/A
+Knorr-Bremse,$9.99 B,Germany,$61.82,0.49%,15.75%,🚘 Automotive Suppliers
+Robinhood,$10.14 B,USA,$11.73,2.18%,23.21%,"💳 Financial services, 🖥️ Internet, 👩‍💻 Tech"
+Eiffage,$10.02 B,France,$103.91,0.54%,2.93%,🏗 Construction
+TFI International,$9.90 B,Canada,$115.30,-0.51%,11.00%,"📦 Courier, 🚚 Transportation"
+Emcor,$10.10 B,USA,$214.73,1.08%,42.37%,🏗 Construction
+Camden Property Trust,$9.99 B,USA,$93.65,0.27%,-19.41%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+C. H. Robinson,$9.85 B,USA,$84.50,-1.77%,-12.05%,🚚 Transportation
+Smurfit Kappa Group,$10.01 B,Ireland,$38.06,0.23%,4.22%,📦 Packaging
+International Consolidated Airlines,$9.75 B,Spain,$1.84,-8.23%,15.72%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+ASR Nederland,$10.04 B,Netherlands,$47.61,0.78%,6.11%,"🏦 Insurance, 💳 Financial services"
+Isuzu,$10.00 B,Japan,$12.90,-3.70%,3.45%,🚗 Automakers
+Accor,$9.95 B,France,$37.57,2.20%,38.63%,"🏨 Hotels, 🌴 Travel"
+Acciona Energías Renovables,$9.94 B,Spain,$30.46,0.36%,-20.45%,"🔋 Electricity, 🌞 Renewable energy, ⚡ Energy"
+Getlink,$10.03 B,France,$18.55,0.73%,12.56%,"🚂 Railways, 🚚 Transportation"
+Vivendi,$9.83 B,France,$9.59,2.42%,2.24%,🇫🇷 CAC 40
+Banque Cantonale Vaudoise,$10.05 B,Switzerland,$117.08,0.79%,23.83%,"🏦 Banks, 💳 Financial services"
+Mitsui O.S.K. Lines,$9.95 B,Japan,$27.52,-1.81%,14.95%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Toll Brothers,$9.98 B,USA,$92.86,1.86%,87.75%,🏗 Construction
+Emera,$9.91 B,Canada,$36.14,-0.77%,-6.57%,N/A
+Essential Utilities,$9.83 B,USA,$36.00,-0.91%,-25.40%,🚰 Utility companies
+Siam Cement,$9.98 B,Thailand,$8.32,-1.02%,-12.24%,"Cement, 🧱 Building materials"
+Multiply Group,$9.91 B,eu United Arab Emirates,$0.89,-4.41%,-34.56%,💰 Investment
+Abu Dhabi Islamic Bank (ADIB),$9.91 B,eu United Arab Emirates,$2.73,-2.34%,9.64%,"🏦 Banks, 💳 Financial services"
+Chesapeake Energy,$9.83 B,USA,$75.05,0.01%,-20.25%,"🛢 Oil&Gas, ⚡ Energy"
+West Japan Railway,$9.90 B,Japan,$40.66,-0.78%,-3.12%,"🚂 Railways, 🚚 Transportation"
+Nitto Denko,$9.90 B,Japan,$69.48,-2.48%,13.75%,🏭 Manufacturing
+MarketAxess,$9.91 B,USA,$261.68,0.31%,-7.59%,💳 Financial services
+RaiaDrogasil,$9.81 B,Brazil,$5.72,-0.18%,31.80%,"🛍️ Retail, 💊 Drugstore"
+"M3, Inc",$9.88 B,Japan,$14.56,-4.87%,-50.84%,"⚕️ Healthcare, 👨‍💻 Software, 🖥️ Internet, 👩‍💻 Tech"
+Telia Company,$9.88 B,Sweden,$2.51,0.04%,-8.06%,📡 Telecommunication
+Credicorp,$9.91 B,Bermuda,$124.67,-0.21%,-14.15%,"🏦 Banks, 💳 Financial services"
+Novatek Microelectronics,$9.83 B,Taiwan,$16.16,-0.20%,66.43%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Advanced Drainage Systems,$9.83 B,USA,$126.23,0.74%,42.41%,N/A
+SK Innovation,$9.92 B,South Korea,$69.17,0.22%,-8.47%,"🛢 Oil&Gas, ⚡ Energy"
+Allegion,$9.68 B,Ireland,$110.34,5.00%,-0.47%,N/A
+Ford Otosan,$9.82 B,Turkey,$28.00,-0.06%,25.28%,"🚗 Automakers, 🏭 Manufacturing"
+WPP,$9.75 B,UK,$45.39,0.09%,-11.07%,➡️ Advertising
+Polycab India,$9.81 B,India,$65.34,0.49%,96.69%,N/A
+Wharf REIC,$9.81 B,Hong Kong,$3.23,0.60%,-38.12%,"🏠 Real estate, 💰 Investment"
+Huntington Ingalls Industries,$9.80 B,USA,$246.89,0.69%,4.95%,🔫 Defense contractors
+Suntory,$9.77 B,Japan,$31.65,-1.15%,-4.93%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Sonic Healthcare,$9.73 B,Australia,$20.46,2.74%,0.00%,⚕️ Diagnostics and Testing
+Empresas Copec,$9.80 B,Chile,$7.54,0.58%,5.90%,🏙 Conglomerate
+Volvo Car,$9.79 B,Sweden,$3.29,-1.24%,-30.15%,"🚗 Automakers, 🏭 Manufacturing"
+Tōkyō Gas,$9.76 B,Japan,$23.86,-0.23%,29.82%,"🛢 Oil&Gas, ⚡ Energy"
+Wiwynn,$9.73 B,Taiwan,$55.68,1.16%,89.13%,"👩‍💻 Tech, 💻 Tech Hardware"
+Asahi Kasei,$9.74 B,Japan,$7.03,0.69%,-3.70%,🧪 Chemicals
+Largan Precision,$9.72 B,Taiwan,$72.87,-0.87%,-0.56%,🔌 Electronics
+Nemetschek,$9.80 B,Germany,$84.63,1.29%,75.91%,"👨‍💻 Software, 👩‍💻 Tech"
+Swire Pacific,$9.74 B,Hong Kong,$7.40,-0.52%,-5.49%,💰 Investment
+DaVita,$9.82 B,USA,$107.58,1.74%,43.61%,⚕️ Healthcare
+Bank of Ireland Group,$9.91 B,Ireland,$8.75,-1.22%,3.43%,"🏦 Banks, 💳 Financial services"
+HELLA,$9.84 B,Germany,$87.20,0.25%,3.87%,"🚘 Automotive Suppliers, 🏭 Manufacturing, auto parts"
+East West Bancorp,$9.67 B,USA,$68.62,1.95%,4.40%,"🏦 Banks, 💳 Financial services"
+Indian Overseas Bank,$9.68 B,India,$0.51,-3.29%,64.52%,"🏦 Banks, 💳 Financial services"
+LG Corp,$9.66 B,South Korea,$62.77,0.86%,3.63%,🔌 Electronics
+Service Corporation International,$9.64 B,USA,$65.26,0.05%,-5.91%,N/A
+American Financial Group,$9.70 B,USA,$115.82,0.39%,-16.25%,🏦 Insurance
+Unibail-Rodamco-Westfield,$9.48 B,France,$68.23,1.18%,N/A,"🏠 Real estate, 🇫🇷 CAC 40"
+DocuSign,$10.10 B,USA,$49.73,4.83%,13.67%,"👨‍💻 Software, 👩‍💻 Tech"
+Bank Pekao (Bank Polska Kasa Opieki),$9.66 B,Poland,$36.83,0.20%,99.19%,"🏦 Banks, 💳 Financial services"
+Etsy,$9.58 B,USA,$80.08,1.41%,-40.46%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+Advantech,$9.59 B,Taiwan,$11.20,0.14%,4.19%,👩‍💻 Tech
+Hua Nan Financial Holdings,$9.59 B,Taiwan,$0.70,0.45%,-5.41%,"🏦 Banks, 💳 Financial services"
+Bruker,$9.40 B,USA,$67.97,-1.21%,1.71%,"⚕️ Diagnostics and Testing, 🏭 Manufacturing, 🔬 Scientific & Technical Instruments"
+Apollo Hospitals,$9.58 B,India,$66.65,1.72%,16.52%,"⚕️ Healthcare, 🏥 Medical Care Facilities"
+Siemens Energy,$9.66 B,Germany,$12.17,-2.88%,-29.94%,"🔋 Electricity, 🇩🇪 DAX, ⚡ Energy"
+Globant,$9.64 B,Luxembourg,$227.27,1.93%,27.87%,"👨‍💻 Software, 👩‍💻 Tech"
+Sunny Optical,$9.57 B,China,$8.73,2.10%,-32.33%,N/A
+CubeSmart,$9.54 B,USA,$42.18,0.88%,-1.29%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Sabesp,$9.46 B,Brazil,$13.67,-0.58%,27.28%,N/A
+Scentre Group,$9.52 B,Australia,$1.84,0.00%,-6.12%,🛍️ Retail
+Northern Star,$9.52 B,Australia,$8.29,-0.63%,12.79%,"⛏️ Mining, ⛏️ Gold mining"
+United Utilities,$9.52 B,UK,$13.97,0.36%,10.70%,🚰 Utility companies
+Canara Bank,$9.54 B,India,$5.26,0.68%,33.50%,"🏦 Banks, 💳 Financial services"
+Aisin Seiki,$9.55 B,Japan,$35.43,-3.93%,31.66%,🚘 Automotive Suppliers
+Etihad Etisalat (Mobily),$9.53 B,Saudi Arabia,$12.38,-0.22%,37.10%,📡 Telecommunication
+XPO Logistics,$9.51 B,USA,$82.05,2.00%,129.25%,🚚 Transportation
+HF Sinclair,$9.46 B,USA,$52.67,0.61%,5.89%,"🛢 Oil&Gas, ⚡ Energy"
+Insurance Australia Group,$9.47 B,Australia,$3.91,-0.17%,19.94%,🏦 Insurance
+Qiagen,$9.53 B,Netherlands,$41.77,-0.59%,-15.08%,"🇩🇪 DAX, 🧬 Biotech"
+PhosAgro,$9.40 B,Russia,$72.38,-0.71%,N/A,"🧪 Chemicals, 🚜 Agriculture"
+Daiwa Securities Group,$9.49 B,Japan,$6.65,-1.24%,54.65%,"🏦 Banks, 💳 Financial services, 💰 Investment"
+Samsung Life Insurance,$9.46 B,South Korea,$52.71,0.58%,-4.86%,🏦 Insurance
+Korea Electric Power,$9.42 B,South Korea,$7.34,-2.13%,-0.94%,"🔋 Electricity, ⚡ Energy"
+Accton Technology,$9.44 B,Taiwan,$16.93,0.76%,108.75%,"🔌 Electronics, 📞 Networking hardware, 📡 Telecommunications equipment, 🏭 Manufacturing"
+SCB (Siam Commercial Bank),$9.51 B,Thailand,$2.83,-0.25%,-4.07%,"🏦 Banks, 💳 Financial services"
+Sumitomo Denki Kōgyō,$9.46 B,Japan,$12.13,-3.18%,6.03%,🏭 Manufacturing
+CapitaLand Mall Trust,$9.42 B,Singapore,$1.42,1.06%,-4.05%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+KakaoBank,$9.43 B,South Korea,$19.81,0.58%,-5.17%,"🏦 Banks, 💳 Financial services"
+Wynn Resorts,$9.50 B,USA,$84.19,2.01%,-2.59%,"🏨 Hotels, 🎰 Gambling, Entertainment, 🌴 Travel"
+ASUS,$9.41 B,Taiwan,$12.68,1.27%,44.91%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Demant,$9.48 B,Denmark,$42.35,2.37%,55.64%,Medical devices
+Computershare,$9.37 B,Australia,$15.54,0.17%,-12.45%,💳 Financial services
+Yaskawa,$9.42 B,Japan,$36.03,-1.81%,8.00%,🔌 Electronics
+Melrose Industries,$9.40 B,UK,$7.04,1.89%,118.63%,"💰 Investment, 🏭 Manufacturing"
+Arab National Bank,$9.40 B,Saudi Arabia,$6.27,-0.59%,-21.63%,"🏦 Banks, 💳 Financial services"
+Caesars Entertainment,$9.53 B,USA,$44.19,2.89%,-12.08%,"🎰 Gambling, Entertainment"
+Permian Resources,$9.41 B,USA,$12.95,1.89%,48.17%,"🛢 Oil&Gas, ⚡ Energy"
+ICICI Prulife,$9.39 B,India,$6.52,-0.68%,16.01%,🏦 Insurance
+Mankind Pharma,$9.38 B,India,$23.43,-1.98%,N/A,"💊 Pharmaceuticals, 🧬 Biotech"
+Dropbox,$9.31 B,USA,$27.59,-0.40%,22.57%,"👨‍💻 Software, 👩‍💻 Tech"
+Henry Schein,$9.34 B,USA,$71.91,0.52%,-11.57%,⚕️ Healthcare
+South32,$9.32 B,Australia,$2.06,0.00%,-25.36%,⛏️ Mining
+Ascendas Reit,$9.32 B,Singapore,$2.12,0.71%,3.92%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Banco Santander-Chile,$9.31 B,Chile,$19.42,-0.15%,25.70%,"🏦 Banks, 💳 Financial services"
+Mizrahi-Tefahot,$9.31 B,Israel,$36.13,-0.37%,-0.61%,"🏦 Banks, 💳 Financial services"
+Deutsche Wohnen,$9.33 B,Germany,$23.53,-3.02%,8.08%,🏠 Real estate
+Chailease Holding,$9.29 B,Taiwan,$5.76,1.12%,-15.91%,💳 Financial services
+ITT,$9.33 B,USA,$113.73,1.47%,39.00%,🏭 Manufacturing
+Incannex Healthcare,$8.77 B,Australia,$5.53,-4.82%,67.58%,"💊 Pharmaceuticals, 🧬 Biotech"
+Skechers,$9.30 B,USA,$60.43,1.16%,39.37%,👟 Footwear
+Far EasTone,$9.26 B,Taiwan,$2.60,-0.61%,18.18%,📡 Telecommunication
+Thai Beverage,$9.37 B,Thailand,$0.35,0.00%,-22.22%,"🍷 Alcoholic beverages, 🥤 Beverages"
+Mitsubishi Chemical Holdings,$9.27 B,Japan,$6.52,-3.22%,24.19%,🧪 Chemicals
+Elbit Systems,$9.26 B,Israel,$208.35,-0.41%,21.62%,"🚀 Aerospace, 🔫 Defense contractors"
+Clean Harbors,$9.26 B,USA,$171.31,1.03%,44.58%,♻️ Waste & Recycling
+Ipsen,$9.27 B,France,$111.27,-0.77%,-1.18%,"💊 Pharmaceuticals, 🧬 Biotech"
+Fortune Brands Innovations,$9.25 B,USA,$73.43,1.49%,41.37%,🛡️ Security & Protection Services
+China Resources Power Holdings,$9.22 B,Hong Kong,$1.92,-0.27%,7.26%,"🔋 Electricity, ⚡ Energy"
+MicroStrategy,$9.37 B,USA,$599.39,4.96%,195.89%,"👨‍💻 Software, 👩‍💻 Tech, ₿ Bitcoin"
+Universal Health Services,$9.38 B,USA,$137.45,2.31%,6.05%,⚕️ Healthcare
+Annaly Capital Management,$9.15 B,USA,$18.31,1.44%,-14.96%,N/A
+Juniper Networks,$9.24 B,USA,$28.99,0.45%,-10.66%,"👩‍💻 Tech, 📞 Networking hardware, 📡 Telecommunications equipment, 💻 Tech Hardware"
+Shriram Transport Finance,$9.15 B,India,$24.37,-0.16%,49.78%,💳 Financial services
+Duolingo,$9.02 B,USA,$214.75,1.58%,211.91%,"🖥️ Internet, 🎓 Education"
+nVent Electric,$9.19 B,UK,$55.44,1.91%,41.03%,"🔋 Electricity, ⚡ Energy"
+D'Ieteren Group,$9.22 B,Belgium,$174.29,2.34%,-7.95%,"🛍️ Retail, 🚗 Car retail"
+Sasa Polyester,$9.14 B,Turkey,$1.72,-1.78%,-28.63%,🧪 Chemicals
+BKW AG,$9.17 B,Switzerland,$173.74,-0.07%,29.55%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+GitLab,$9.21 B,USA,$59.20,0.22%,24.82%,"👨‍💻 Software, 👩‍💻 Tech"
+ARC Resources,$9.10 B,Canada,$15.05,1.04%,15.95%,"🛢 Oil&Gas, ⚡ Energy"
+Knight-Swift,$8.98 B,USA,$55.69,-1.07%,1.02%,🚚 Transportation
+Repligen,$8.89 B,USA,$159.27,-1.61%,-8.40%,N/A
+Mowi,$9.11 B,Norway,$17.63,0.00%,13.16%,🍴 Food
+Hana Financial Group,$9.09 B,South Korea,$31.57,0.73%,-7.39%,💳 Financial services
+On Holding,$9.10 B,Switzerland,$28.63,1.27%,60.21%,"🎾 Sports goods, 👟 Footwear"
+Wharf Holdings,$9.09 B,Hong Kong,$2.98,2.88%,3.83%,🏠 Real estate
+American Airlines,$8.99 B,USA,$13.76,-1.08%,1.18%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+IMCD,$9.07 B,Netherlands,$159.62,1.51%,4.31%,🧪 Chemicals
+China Zheshang Bank,$9.29 B,China,$0.26,-0.99%,-29.73%,"🏦 Banks, 💳 Financial services"
+PUMA,$9.05 B,Germany,$60.44,0.29%,12.76%,"👚 Clothing, 🎾 Sports goods, 👟 Footwear"
+SG Holdings,$9.06 B,Japan,$14.50,0.07%,-3.01%,N/A
+Bio-Rad Laboratories,$8.87 B,USA,$304.13,-1.95%,-27.61%,⚕️ Healthcare
+Everbright Securities Company,$9.01 B,Hong Kong,$0.67,-2.07%,-5.63%,💳 Financial services
+Red Eléctrica,$9.06 B,Spain,$16.80,1.01%,-5.94%,"🔋 Electricity, ⚡ Energy, 🛣️ Infrastructure"
+Cleveland-Cliffs,$8.77 B,USA,$17.38,0.29%,7.55%,"🔩 Steel producers, 🔩 Steel industry"
+Ally,$9.07 B,USA,$30.08,2.42%,21.14%,"🏦 Banks, 💳 Financial services"
+President Chain Store (PSCS),$8.96 B,Taiwan,$8.62,0.56%,-3.47%,"🛍️ Retail, 🛒 Supermarket Chains"
+Mondi,$8.94 B,UK,$18.42,-1.51%,3.19%,"📄 Pulp and paper, 🏭 Manufacturing"
+Birkenstock,$8.99 B,Germany,$47.91,1.08%,N/A,👟 Footwear
+TD Synnex,$9.05 B,USA,$100.57,1.75%,2.27%,N/A
+Euronext,$8.92 B,Netherlands,$83.85,0.84%,13.94%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Grifols,$9.13 B,Spain,$10.37,1.17%,33.46%,"💊 Pharmaceuticals, 🧬 Biotech"
+Indutrade,$8.88 B,Sweden,$24.38,0.84%,17.49%,🏭 Manufacturing
+Origin Energy,$8.88 B,Australia,$5.16,-1.38%,-2.46%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Hero MotoCorp,$8.91 B,India,$44.58,-1.51%,32.96%,"🏍 Motorcycle Manufacturers, 🏭 Manufacturing"
+Keppel,$8.89 B,Singapore,$5.05,1.04%,-8.35%,💰 Investment
+Taiwan Mobile,$8.89 B,Taiwan,$3.15,-0.30%,1.29%,📡 Telecommunication
+Sainsbury's,$8.79 B,UK,$3.71,1.62%,35.40%,"🛍️ Retail, 🛒 Supermarket Chains"
+United Spirits,$8.89 B,India,$12.54,-1.93%,9.52%,"🍷 Alcoholic beverages, 🥤 Beverages"
+JSW Energy,$8.89 B,India,$5.42,-1.42%,48.09%,"🔋 Electricity, ⚡ Energy"
+Delivery Hero,$8.89 B,Germany,$33.83,0.42%,-21.07%,"🖥️ Internet, 👩‍💻 Tech, 🍴 Food, 🥡 Food Delivery"
+kyowa Kirin,$8.88 B,Japan,$16.52,-1.12%,-26.61%,"💊 Pharmaceuticals, 🧬 Biotech"
+Ooredoo,$8.86 B,eu United Arab Emirates,$2.77,0.00%,27.06%,📡 Telecommunication
+Stantec,$8.81 B,Canada,$77.32,-0.59%,59.23%,"💼 Professional services, 👷 Engineering"
+Robert Half,$8.79 B,USA,$83.09,0.00%,13.81%,"💼 Professional services, 💼 Staffing & Employment Services"
+Barry Callebaut,$8.93 B,Switzerland,"$1,632",1.49%,-15.95%,🍴 Food
+Genting Singapore,$8.81 B,Singapore,$0.73,2.62%,12.31%,"🏨 Hotels, Entertainment, 🌴 Travel"
+The Toro Company,$8.74 B,USA,$84.23,0.29%,-24.03%,N/A
+Spirax-Sarco Engineering,$8.80 B,UK,$119.32,0.92%,-9.78%,"👷 Engineering, 🏭 Manufacturing"
+Assurant,$8.81 B,USA,$167.68,0.00%,28.95%,🏦 Insurance
+Match Group,$8.72 B,USA,$32.10,-0.43%,-27.10%,"🖥️ Internet, 👩‍💻 Tech, ❤️ Online Dating"
+Tetra Tech,$8.82 B,USA,$165.74,0.41%,7.89%,"💼 Professional services, 👷 Engineering"
+TIM S.A.,$8.79 B,Brazil,$18.16,1.00%,52.48%,📡 Telecommunication
+Churchill Downs,$8.94 B,USA,$119.89,2.73%,9.25%,N/A
+Ooredoo Q.P.S.C.,$8.79 B,eu Qatar,$2.75,-0.54%,8.27%,📡 Telecommunication
+Evonik Industries,$8.79 B,Germany,$18.87,0.34%,0.86%,🧪 Chemicals
+ST Engineering,$8.75 B,Singapore,$2.81,1.89%,14.23%,👷 Engineering
+Medpace,$8.68 B,USA,$283.19,0.62%,34.94%,"💊 Pharmaceuticals, 🧬 Biotech"
+Pershing Square Holdings,$8.78 B,USA,$40.72,0.07%,16.36%,💰 Investment
+Jardine Cycle & Carriage,$8.71 B,Singapore,$22.06,0.95%,6.16%,💰 Investment
+Leonardo,$8.59 B,Italy,$14.95,1.99%,83.44%,"🚀 Aerospace, 🔫 Defense contractors"
+BJ's Wholesale Club,$8.79 B,USA,$65.92,0.96%,-5.60%,🛍️ Retail
+Paylocity,$8.55 B,USA,$152.35,-0.76%,-25.60%,"👨‍💻 Software, 👩‍💻 Tech"
+CPFL Energia,$8.66 B,Brazil,$7.52,0.14%,21.29%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+AGCO,$8.69 B,USA,$116.06,1.32%,-14.11%,"🚜 Agriculture, 🏭 Manufacturing"
+SKF (Svenska Kullagerfabriken),$8.75 B,Sweden,$19.55,-0.64%,20.53%,N/A
+JFE Holdings,$8.70 B,Japan,$14.37,-1.99%,25.50%,"🔩 Steel producers, 🔩 Steel industry"
+Japan Airlines,$8.69 B,Japan,$19.90,0.58%,-1.24%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+SIG Combibloc,$8.69 B,Switzerland,$22.75,0.40%,2.85%,📦 Packaging
+SBI Card,$8.66 B,India,$9.12,-0.98%,-7.88%,💳 Financial services
+Chemed,$8.60 B,USA,$573.18,0.37%,9.79%,⚕️ Healthcare
+Unilever Indonesia,$8.63 B,Indonesia,$0.23,-1.68%,-23.33%,"🍴 Food, 🛍 Consumer goods"
+SRF Limited,$8.61 B,India,$29.07,-0.78%,0.28%,N/A
+Pinnacle West Capital,$8.53 B,USA,$75.30,-0.99%,-3.19%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Penumbra,$8.64 B,USA,$224.04,0.38%,-1.85%,Medical devices
+Autoliv,$8.53 B,Sweden,$101.41,-0.18%,24.69%,🚘 Automotive Suppliers
+Fisher & Paykel Healthcare,$8.55 B,New Zealand,$14.70,0.63%,0.00%,"⚕️ Healthcare, Medical devices"
+Rakuten,$8.59 B,Japan,$4.02,-0.62%,-15.72%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+Gecina,$8.57 B,France,$115.58,-0.46%,15.18%,"🏠 Real estate, 💰 Investment"
+(HLBank) Hong Leong Bank,$8.55 B,Malaysia,$4.10,0.21%,-11.83%,"🏦 Banks, 💳 Financial services"
+Vail Resorts,$8.57 B,USA,$225.87,4.12%,-10.09%,"🏨 Hotels, 🌴 Travel"
+Yonyou,$8.56 B,China,$2.50,4.06%,-22.12%,"👨‍💻 Software, 👩‍💻 Tech"
+ICICI Lombard,$8.54 B,India,$17.39,0.00%,14.48%,🏦 Insurance
+Schroders,$8.55 B,UK,$5.31,1.64%,-2.93%,"💰 Investment, Asset Management"
+Yamaha Motor,$8.55 B,Japan,$25.88,-2.05%,5.50%,"🏍 Motorcycle Manufacturers, 🏭 Manufacturing"
+Ralph Lauren,$8.51 B,USA,$131.76,0.45%,17.51%,👚 Clothing
+Reece Group,$8.50 B,Australia,$13.17,0.81%,35.35%,"🛍️ Retail, 🏠 Home & Kitchen Appliances"
+T&D Holdings,$8.54 B,Japan,$15.93,-1.54%,39.01%,🏦 Insurance
+Lattice Semiconductor,$8.51 B,USA,$61.71,0.72%,-13.98%,"📟 Semiconductors, 👩‍💻 Tech, 🏭 Manufacturing, 💻 Tech Hardware"
+Brookfield Property Partners,$8.47 B,Bermuda,$12.83,0.23%,-24.40%,🏠 Real estate
+IDBI Bank,$8.51 B,India,$0.79,-1.64%,11.27%,"🏦 Banks, 💳 Financial services"
+Kasikornbank,$8.57 B,Thailand,$3.62,-0.39%,-11.06%,"🏦 Banks, 💳 Financial services"
+Hong Kong Telecom,$8.51 B,Hong Kong,$1.12,1.39%,-8.20%,📡 Telecommunication
+CyberArk,$8.39 B,Israel,$201.06,-0.47%,43.44%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+FinecoBank,$8.51 B,Italy,$13.95,0.94%,-14.73%,💳 Financial services
+Samsung Electro-Mechanics,$8.50 B,South Korea,$53.70,1.88%,5.01%,🔌 Electronics
+Dolby,$8.51 B,USA,$89.38,1.46%,21.19%,N/A
+monday.com,$8.45 B,Israel,$175.03,0.55%,61.18%,"👨‍💻 Software, 👩‍💻 Tech"
+PMetal (Press Metal Aluminium),$8.46 B,Malaysia,$1.03,0.42%,-6.36%,Aluminum
+Procore,$8.42 B,USA,$58.72,0.31%,17.14%,"👨‍💻 Software, 🏗 Construction, 👩‍💻 Tech"
+Toppan,$8.48 B,Japan,$26.34,-5.26%,76.90%,N/A
+Unimicron,$8.46 B,Taiwan,$5.55,3.56%,13.73%,"👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Rumo,$8.34 B,Brazil,$4.50,-0.98%,33.53%,🚂 Railways
+Yara International,$8.45 B,Norway,$33.19,0.75%,-22.20%,🧪 Chemicals
+Bath & Body Works,$8.48 B,USA,$37.57,1.51%,-10.87%,🛍️ Retail
+Abu Dhabi Ports,$8.45 B,eu United Arab Emirates,$1.66,-1.45%,6.41%,"⚓ Ports, 🛣️ Infrastructure"
+Ono Pharmaceutical,$8.45 B,Japan,$17.68,-1.75%,-29.51%,"💊 Pharmaceuticals, 🧬 Biotech"
+Liberty Media,$8.26 B,USA,$26.17,-2.22%,-43.12%,"📰 Media/Press, Entertainment"
+Gjensidige Forsikring,$8.46 B,Norway,$16.94,0.82%,-11.12%,🏦 Insurance
+Wistron Corporation,$8.43 B,Taiwan,$2.95,-0.86%,224.18%,"🔌 Electronics, 🏭 Manufacturing"
+Elia Group,$8.50 B,Belgium,$115.69,6.88%,-19.74%,"🔋 Electricity, ⚡ Energy"
+Pearson,$8.46 B,UK,$12.08,1.68%,6.62%,🎓 Education
+Hainan Airlines,$8.57 B,China,$0.17,-1.14%,-37.86%,"✈️ Airlines, 🌴 Travel, 🚚 Transportation"
+Aluar Aluminio Argentino,$8.44 B,ar Argentina,$3.01,7.08%,189.42%,Aluminum
+Yandex,$8.39 B,Netherlands,$25.49,0.26%,N/A,"🖥️ Internet, 👩‍💻 Tech"
+Bupa Arabia for Cooperative Insurance Company,$8.43 B,Saudi Arabia,$56.20,1.54%,58.94%,🏦 Insurance
+Croda International,$8.38 B,UK,$60.01,1.99%,-27.14%,🧪 Chemicals
+Banco BPM,$8.12 B,Italy,$5.38,1.20%,62.54%,"🏦 Banks, 💳 Financial services"
+Meridian Energy,$8.37 B,New Zealand,$3.17,0.84%,1.28%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Jindal Steel & Power,$8.39 B,India,$8.23,0.33%,20.85%,"🔩 Steel producers, 🔩 Steel industry"
+Universal Display Corporation,$8.29 B,USA,$175.25,0.01%,52.19%,🔌 Electronics
+Sagax,$8.39 B,Sweden,$24.32,-1.83%,6.02%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Sino Land,$8.37 B,Hong Kong,$1.02,0.25%,-19.05%,🏠 Real estate
+Unum,$8.35 B,USA,$42.83,0.47%,5.78%,🏦 Insurance
+Vipshop,$8.27 B,China,$15.27,-1.10%,17.46%,"🛒 E-Commerce, 🛍️ Retail, 🖥️ Internet, 👩‍💻 Tech"
+Sarepta Therapeutics,$8.14 B,USA,$87.03,-1.56%,-27.07%,"💊 Pharmaceuticals, 🧬 Biotech"
+GarantiBank,$8.38 B,Turkey,$2.00,-2.86%,43.88%,"🏦 Banks, 💳 Financial services"
+Torrent Pharmaceuticals,$8.33 B,India,$24.64,-2.24%,24.76%,💊 Pharmaceuticals
+CG Power and Industrial Solutions,$8.33 B,India,$5.46,-0.32%,62.50%,"⚙️ Machinery manufacturing, 🏙 Conglomerate, 🏭 Manufacturing"
+AptarGroup,$8.37 B,USA,$127.32,0.66%,17.97%,N/A
+Central Pattana,$8.37 B,Thailand,$1.87,-0.38%,-7.88%,N/A
+Wärtsilä,$8.29 B,Finland,$14.08,0.85%,65.84%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+Osaka Gas,$8.30 B,Japan,$19.99,0.28%,30.74%,🚰 Utility companies
+Tube Investments of India,$8.29 B,India,$42.88,4.74%,21.71%,🏭 Manufacturing
+HMM,$8.26 B,South Korea,$12.00,0.64%,-24.39%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Carl Zeiss Meditec,$8.12 B,Germany,$90.65,1.82%,-29.90%,N/A
+Curtiss-Wright,$8.24 B,USA,$215.59,0.39%,25.50%,N/A
+Indofood CBP,$8.25 B,Indonesia,$0.71,3.05%,9.23%,🍴 Food
+Toast,$8.29 B,USA,$15.35,1.93%,-19.04%,"👨‍💻 Software, 👩‍💻 Tech"
+Intertek,$8.23 B,UK,$51.01,0.27%,3.11%,💼 Professional services
+SK Telecom,$8.19 B,South Korea,$21.11,-0.94%,-0.14%,📡 Telecommunication
+Saputo,$8.22 B,Canada,$19.43,-1.38%,-22.87%,"🍴 Food, 🥛 Dairy companies"
+Regal Rexnord,$8.21 B,USA,$123.76,0.37%,2.77%,🔌 Electronics
+Marico,$8.22 B,India,$6.36,-0.57%,2.42%,🛍 Consumer goods
+“K” Line,$8.23 B,Japan,$34.74,-3.65%,88.80%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Türkiye Is Bankasi,$8.28 B,Turkey,$0.77,-0.80%,42.59%,"🏦 Banks, 💳 Financial services"
+TechnipFMC,$8.23 B,UK,$18.92,0.96%,62.40%,"🛢 Oil&Gas, ⚡ Energy"
+Webster Financial,$8.24 B,USA,$47.90,1.94%,1.01%,"🏦 Banks, 💳 Financial services"
+Federal Realty Investment Trust,$8.15 B,USA,$99.12,0.11%,-7.98%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Hochtief,$8.13 B,Germany,$108.03,-0.40%,89.23%,🏗 Construction
+WESCO International,$8.22 B,USA,$160.96,2.07%,30.55%,N/A
+Guidewire Software,$8.02 B,USA,$97.89,-0.97%,56.15%,N/A
+Omron,$8.13 B,Japan,$41.23,-1.62%,-18.50%,🔌 Electronics
+Chewy,$8.33 B,USA,$19.34,0.57%,-53.92%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+Sino Biopharmaceutical,$8.11 B,China,$0.43,-0.30%,-25.86%,💊 Pharmaceuticals
+U.S. Steel,$8.00 B,USA,$35.90,-0.08%,37.50%,"🔩 Steel producers, 🔩 Steel industry"
+Old Republic International,$8.12 B,USA,$28.99,0.07%,20.54%,🏦 Insurance
+Berger Paints,$8.09 B,India,$6.95,-1.63%,-7.70%,🎨 Paint & Coating
+Swedish Orphan Biovitrum,$8.19 B,Sweden,$23.06,-1.07%,13.26%,"💊 Pharmaceuticals, 🧬 Biotech"
+Global Unichip Corp.,$8.08 B,Taiwan,$60.30,9.86%,142.17%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Americold,$8.06 B,USA,$28.38,0.11%,-2.57%,"🏠 Real estate, 💰 Investment"
+Metso,$8.04 B,Finland,$9.73,-0.64%,3.40%,"⛏️ Mining, ⚙️ Machinery manufacturing, 🏭 Manufacturing"
+MBME GROUP,$8.07 B,eu United Arab Emirates,$3.23,0.00%,N/A,💳 Financial services
+Bangkok Bank,$8.12 B,Thailand,$4.26,0.34%,4.41%,"🏦 Banks, 💳 Financial services"
+Woodward,$8.01 B,USA,$133.55,0.01%,42.38%,"🚀 Aerospace, 🏭 Manufacturing"
+Informatica,$7.95 B,USA,$27.33,0.89%,68.81%,"👨‍💻 Software, 👩‍💻 Tech"
+Mineral Resources,$8.02 B,Australia,$41.12,2.90%,-30.36%,⛏️ Mining
+Toray Industries,$8.05 B,Japan,$5.03,-1.56%,-5.98%,🧪 Chemicals
+Gerdau,$7.97 B,Brazil,$4.56,0.22%,-19.43%,"🔩 Steel producers, 🔩 Steel industry"
+Gap Inc.,$8.03 B,USA,$21.68,1.45%,48.70%,"👚 Clothing, 🛍️ Retail"
+GlobalWafers,$8.03 B,Taiwan,$18.42,0.70%,21.58%,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Trina Solar,$8.03 B,China,$3.70,0.95%,-56.11%,"🌞 Renewable energy, ⚡ Energy, 🏭 Manufacturing"
+Trex,$7.92 B,USA,$72.96,0.11%,64.58%,N/A
+Core & Main,$8.22 B,USA,$38.03,4.48%,83.37%,N/A
+Yageo,$8.01 B,Taiwan,$19.12,1.01%,22.41%,"🔌 Electronics, 🏭 Manufacturing"
+Norwegian Cruise Line,$7.94 B,USA,$18.68,-0.48%,18.83%,"🌴 Travel, 🛳 Cruise Lines"
+EastGroup Properties,$8.02 B,USA,$173.14,0.02%,12.07%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Acciona,$8.01 B,Spain,$146.61,1.84%,-20.90%,🏗 Construction
+ageas,$8.03 B,Belgium,$43.73,0.25%,1.06%,🏦 Insurance
+Otsuka,$8.00 B,Japan,$42.22,-1.07%,33.27%,"💼 Professional services, 🖥️ IT services"
+Teleperformance,$7.76 B,France,$127.40,0.13%,-45.34%,"💼 Professional services, 🇫🇷 CAC 40"
+Evergreen Marine,$7.98 B,Taiwan,$3.77,2.60%,-23.53%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Adecco Group,$7.98 B,Switzerland,$47.42,1.24%,45.06%,"💼 Professional services, 💼 Staffing & Employment Services"
+Whitbread,$7.92 B,UK,$42.09,1.58%,33.28%,"🏨 Hotels, 🌴 Travel"
+National Instruments,$7.96 B,USA,$59.98,0.00%,51.20%,"👨‍💻 Software, 👩‍💻 Tech"
+Tempur Sealy,$7.96 B,USA,$46.22,1.07%,42.39%,N/A
+Korea Zinc,$7.93 B,South Korea,$379.73,-4.50%,-17.38%,N/A
+Luckin Coffee,$8.00 B,China,$29.00,0.69%,17.65%,🥤 Beverages
+"Seven Group Holdings
+(SGH)",$7.91 B,Australia,$21.77,0.73%,57.53%,💰 Investment
+Lear Corporation,$7.75 B,USA,$133.08,-1.69%,1.71%,"🚘 Automotive Suppliers, 🏭 Manufacturing, auto parts"
+Allegro.eu,$7.97 B,Poland,$7.54,0.63%,38.60%,"🛒 E-Commerce, 🖥️ Internet, 👩‍💻 Tech"
+SEI Investments,$7.92 B,USA,$60.24,0.53%,-0.76%,"💳 Financial services, 💰 Investment, Asset Management"
+Jones Lang LaSalle,$7.92 B,USA,$166.59,1.08%,2.99%,🏠 Real estate
+WH Group,$7.92 B,Hong Kong,$0.62,-0.41%,6.90%,🍴 Food
+Max Healthcare Institute,$7.90 B,India,$8.14,1.40%,54.75%,"⚕️ Healthcare, 🏥 Medical Care Facilities"
+Boliden,$7.79 B,Sweden,$28.50,2.10%,-25.65%,⛏️ Mining
+Orient Overseas Container Line,$7.88 B,Hong Kong,$11.94,1.41%,-32.00%,"🚚 Transportation, 🚢 Container shipping, 🚢 Maritime transportation"
+Alchip Technologies,$7.86 B,Taiwan,$106.12,-1.04%,N/A,"📟 Semiconductors, 👩‍💻 Tech, 💻 Tech Hardware"
+Taiwan Cement,$7.85 B,Taiwan,$1.10,0.29%,1.85%,"Cement, 🧱 Building materials"
+Royal Gold,$7.76 B,USA,$118.19,-1.27%,5.54%,"⛏️ Mining, ⛏️ Silver Mining, ⛏️ Gold mining"
+China Oilfield Services,$7.83 B,China,$1.03,0.12%,-14.88%,"🛢 Oil&Gas, ⚡ Energy"
+New Fortress Energy,$7.76 B,USA,$37.88,1.28%,-16.60%,"🛢 Oil&Gas, ⚡ Energy, 🛣️ Infrastructure"
+FTI Consulting,$7.88 B,USA,$222.12,0.05%,35.42%,💼 Professional services
+Houlihan Lokey,$7.85 B,USA,$113.93,1.24%,21.11%,"💳 Financial services, 💰 Investment"
+ImmunoGen,$7.81 B,USA,$29.21,-0.54%,462.81%,"💊 Pharmaceuticals, 🧬 Biotech"
+CSN Mineração,$7.95 B,Brazil,$1.45,2.88%,104.23%,⛏️ Mining
+Hulic,$7.84 B,Japan,$10.30,-2.30%,22.62%,🏠 Real estate
+Washington H. Soul Pattinson and Company (WHSP),$7.80 B,Australia,$21.64,-0.48%,15.91%,"⛏️ Mining, 💰 Investment, ⛏️ Coal Mining"
+Kajima,$7.83 B,Japan,$16.25,-2.80%,43.93%,🏗 Construction
+Shimadzu,$7.83 B,Japan,$26.59,-0.85%,-9.80%,"Medical equipment, 🔬 Scientific & Technical Instruments"
+BorgWarner,$7.73 B,USA,$32.90,-0.42%,-19.24%,🚘 Automotive Suppliers
+KT&G (Korea Tobacco),$7.80 B,South Korea,$69.17,-0.55%,-8.09%,🚬 Tobacco
+SSAB,$7.86 B,Sweden,$7.38,-0.85%,27.68%,"🔩 Steel producers, 🔩 Steel industry"
+Equatorial Energia,$7.76 B,Brazil,$6.95,0.09%,37.08%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+New York Times,$7.67 B,USA,$46.68,-1.35%,36.13%,📰 Media/Press
+WillScot,$7.72 B,USA,$40.30,0.20%,-13.70%,N/A
+Wacker Chemie,$7.79 B,Germany,$118.77,0.69%,-5.51%,🧪 Chemicals
+Kesko,$7.73 B,Finland,$19.58,0.33%,-7.82%,"🛍️ Retail, 🛒 Supermarket Chains"
+CCL Industries,$7.78 B,Canada,$43.87,0.69%,-2.05%,📦 Packaging
+Trelleborg AB,$7.77 B,Sweden,$31.55,-2.44%,28.67%,N/A
+SoFi,$7.79 B,USA,$8.13,2.14%,84.77%,"💳 Financial services, 🖥️ Internet, 👩‍💻 Tech"
+Sumitomo Metal Mining,$7.77 B,Japan,$28.29,-1.28%,-19.24%,⛏️ Mining
+Yunnan Energy New Material,$7.76 B,China,$7.94,-1.63%,-60.26%,"📦 Packaging, 🏭 Manufacturing"
+Zydus Lifesciences,$7.75 B,India,$7.66,-2.95%,52.89%,"💊 Pharmaceuticals, 🧬 Biotech"
+Jefferies Financial Group,$7.76 B,USA,$36.89,1.26%,7.74%,"🏦 Banks, 💳 Financial services"
+Ternium,$7.67 B,Luxembourg,$39.12,0.62%,25.22%,"🔩 Steel industry, 🏭 Manufacturing"
+AGC,$7.75 B,Japan,$36.61,-0.49%,9.61%,🏭 Manufacturing
+Daito Trust Construction,$7.75 B,Japan,$113.88,-1.41%,7.33%,"🏠 Real estate, 🏗 Construction"
+Roivant Sciences,$7.90 B,UK,$9.83,0.82%,40.83%,"💊 Pharmaceuticals, 🧬 Biotech"
+Simpson Manufacturing Company,$7.77 B,USA,$182.18,1.67%,94.70%,N/A
+Swiss Prime Site,$7.75 B,Switzerland,$101.09,0.45%,20.70%,🏠 Real estate
+B&M European Value Retail,$7.68 B,Luxembourg,$7.67,0.20%,54.64%,🛍️ Retail
+Samvardhana Motherson,$7.72 B,India,$1.14,1.77%,26.67%,🚘 Automotive Suppliers
+SalMar ASA,$7.70 B,Norway,$53.24,-0.51%,51.38%,🍴 Food
+Rexel,$7.67 B,France,$25.75,1.71%,36.17%,N/A
+WEX,$7.71 B,USA,$180.43,1.61%,13.09%,💳 Financial services
+Doosan Enerbility,$7.66 B,South Korea,$11.97,-1.07%,-1.40%,⚡ Energy
+Karuna Therapeutics,$7.75 B,USA,$205.48,-0.37%,1.67%,"💊 Pharmaceuticals, 🧬 Biotech"
+Singapore Exchange,$7.65 B,Singapore,$7.15,0.95%,5.93%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Coca-Cola Consolidated,$7.55 B,USA,$806.26,-0.36%,57.51%,🥤 Beverages
+Light & Wonder,$7.56 B,USA,$84.03,-0.52%,32.35%,"🎰 Gambling, Entertainment"
+Idemitsu Kosan,$7.66 B,Japan,$27.27,-1.75%,20.34%,"🛢 Oil&Gas, ⚡ Energy"
+BOSCH India,$7.65 B,India,$259.45,-0.18%,22.26%,N/A
+Darling Ingredients,$7.59 B,USA,$47.59,2.41%,-22.73%,🍴 Food
+Texas Roadhouse,$7.58 B,USA,$113.52,-0.93%,14.89%,"🍔 Restaurant chains, 🍴 Food"
+Omega Healthcare,$7.69 B,USA,$30.52,-0.03%,2.04%,"⚕️ Healthcare, 🏠 Real estate, 💰 Investment, 🏘️ REITs, 🏥 Medical Care Facilities"
+Full Truck Alliance,$7.55 B,China,$7.06,-1.67%,-19.50%,🚚 Transportation
+Tapestry,$7.68 B,USA,$33.53,1.18%,-9.21%,👚 Clothing
+Alfamart,$7.63 B,Indonesia,$0.18,-1.72%,5.88%,🛍️ Retail
+RBC Bearings,$7.63 B,USA,$262.41,1.32%,18.79%,N/A
+First Horizon National,$7.61 B,USA,$13.63,1.49%,-44.48%,"🏦 Banks, 💳 Financial services"
+NHPC Limited,$7.61 B,India,$0.76,-1.63%,49.02%,"🔋 Electricity, 🌞 Renewable energy"
+Kinsale Capital Group,$7.66 B,USA,$330.73,0.54%,13.30%,🏦 Insurance
+Kunlun Energy Company,$7.61 B,Hong Kong,$0.88,-0.43%,22.22%,"🛢 Oil&Gas, ⚡ Energy"
+Rational AG,$7.60 B,Germany,$669.11,3.85%,9.45%,🏠 Home & Kitchen Appliances
+Murphy USA,$7.53 B,USA,$354.06,-1.60%,21.77%,N/A
+Rohm,$7.60 B,Japan,$19.71,6.26%,-74.15%,"📟 Semiconductors, 👩‍💻 Tech"
+Sinopac Financial Holdings,$7.58 B,Taiwan,$0.61,1.05%,3.39%,"🏦 Banks, 💳 Financial services"
+Voya Financial,$7.59 B,USA,$72.72,1.13%,16.97%,💳 Financial services
+Lithia Motors,$7.44 B,USA,$270.47,-0.03%,22.12%,"🛍️ Retail, 🚗 Car retail"
+Jazz Pharmaceuticals,$7.58 B,Ireland,$120.42,0.73%,-19.76%,"💊 Pharmaceuticals, 🧬 Biotech"
+Trend Micro,$7.57 B,Japan,$55.96,-1.42%,17.59%,"👨‍💻 Software, 👩‍💻 Tech, 🔒 IT security"
+ASX,$7.54 B,Australia,$38.96,-0.35%,-15.01%,"💳 Financial services, 🏛 Stock exchanges, 🏛 Stock/Crypto exchanges"
+Shoprite,$7.45 B,South Africa,$13.74,0.46%,5.94%,"🛍️ Retail, 🛒 Supermarket Chains"
+MinebeaMitsumi,$7.56 B,Japan,$18.71,-2.91%,19.10%,N/A
+Bill.com,$7.57 B,USA,$70.98,2.32%,-38.50%,"💳 Financial services, 🖥️ Internet"
+Berry Global,$7.55 B,USA,$65.42,0.02%,7.86%,🏭 Manufacturing
+Hess Midstream,$7.57 B,USA,$31.00,0.98%,7.71%,"🛢 Oil&Gas, ⚡ Energy"
+NOV,$7.45 B,USA,$18.92,2.55%,-6.84%,"🛢 Oil&Gas, ⚡ Energy"
+Vodafone Idea,$7.53 B,India,$0.15,-2.27%,50.00%,📡 Telecommunication
+HYBE,$7.53 B,South Korea,$180.92,3.94%,63.97%,Entertainment
+Telefónica Deutschland (O2),$7.54 B,Germany,$2.54,0.04%,8.09%,📡 Telecommunication
+Grupo Aeroportuario del Pacífico,$7.62 B,Mexico,$148.01,-1.06%,-6.55%,"🛫 Airports, 🛣️ Infrastructure"
+Auckland Airport,$7.50 B,New Zealand,$5.05,0.39%,-0.98%,"🛫 Airports, 🛣️ Infrastructure"
+Hankyu Hanshin Holdings,$7.53 B,Japan,$31.12,-1.17%,2.13%,"🚂 Railways, 🚚 Transportation"
+GoTo,$7.52 B,Indonesia,$0.01000,13.68%,0.00%,"🛒 E-Commerce, 💳 Financial services, 🖥️ Internet, 👩‍💻 Tech"
+LPP SA,$7.50 B,Poland,"$4,043",0.87%,88.87%,👚 Clothing
+Sofina,$7.47 B,Belgium,$224.48,0.58%,-0.59%,N/A
+National Retail Properties,$7.43 B,USA,$40.75,-1.31%,-11.57%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Colgate-Palmolive India,$7.48 B,India,$27.52,-0.50%,38.29%,🛍 Consumer goods
+Edison,$7.50 B,Italy,$1.60,0.95%,6.67%,"🛢 Oil&Gas, 🚰 Utility companies, ⚡ Energy"
+Commercial International Bank,$7.41 B,Egypt,$1.31,0.83%,4.80%,"🏦 Banks, 💳 Financial services"
+Sinopharm,$7.47 B,China,$2.39,-1.27%,-9.13%,💊 Pharmaceuticals
+Boubyan Bank,$7.48 B,eu Kuwait,"$1,888",0.00%,"74,520.55%","🏦 Banks, 💳 Financial services"
+Klaviyo,$7.72 B,USA,$29.88,3.97%,N/A,"👨‍💻 Software, 👩‍💻 Tech"
+IDFC FIRST Bank,$7.45 B,India,$1.06,0.40%,45.21%,"🏦 Banks, 💳 Financial services"
+Sanlam,$7.32 B,South Africa,$3.57,-0.40%,36.26%,🏦 Insurance
+Cerevel Therapeutics,$7.43 B,USA,$41.22,0.22%,50.55%,"💊 Pharmaceuticals, 🧬 Biotech"
+Donaldson,$7.37 B,USA,$61.43,0.28%,3.23%,N/A
+Endeavor Group,$7.39 B,USA,$24.60,0.99%,17.14%,"📰 Media/Press, Entertainment"
+Indian Hotels Company,$7.42 B,India,$5.22,-1.12%,31.16%,🏨 Hotels
+Bid Corp,$7.22 B,South Africa,$21.62,3.26%,22.63%,🍴 Food
+Banco Macro,$2.92 B,ar Argentina,$27.19,3.03%,104.28%,"🏦 Banks, 💳 Financial services"
+Generac Power Systems,$7.46 B,USA,$121.55,0.83%,31.11%,🏭 Manufacturing
+Petro Rio,$7.55 B,Brazil,$9.04,5.02%,41.92%,"🛢 Oil&Gas, ⚡ Energy"
+Woori Financial Group,$7.37 B,South Korea,$29.41,0.75%,2.98%,"🏦 Banks, 💳 Financial services"
+Arkema,$7.41 B,France,$98.90,-0.59%,11.92%,🧪 Chemicals
+Stevanato,$7.38 B,Italy,$27.82,1.46%,66.99%,N/A
+Ubiquiti,$7.42 B,USA,$122.86,2.21%,-57.33%,"🔌 Electronics, 📞 Networking hardware, 💻 Tech Hardware"
+Americana Restaurants International,$7.36 B,eu United Arab Emirates,$0.87,-0.93%,12.99%,"🍔 Restaurant chains, 🍴 Food"
+Alibaba Health Information Technology,$7.36 B,Hong Kong,$0.54,-0.70%,-57.14%,"🛒 E-Commerce, 🛍️ Retail, 🖥️ Internet, 👩‍💻 Tech, 💊 Drugstore"
+ADNOC Logistics & Services,$7.35 B,eu United Arab Emirates,$0.99,-0.82%,N/A,🚚 Transportation
+Ramsay Health Care,$7.32 B,Australia,$31.93,0.52%,-27.35%,"⚕️ Healthcare, 🏥 Medical Care Facilities"
+Orkla,$7.40 B,Norway,$7.42,0.00%,6.30%,🛍 Consumer goods
+Middleby,$7.24 B,USA,$135.21,0.57%,-2.84%,N/A
+Info Edge,$7.34 B,India,$56.93,-1.25%,16.61%,🖥️ Internet
+Vår Energi,$7.30 B,Norway,$2.92,0.82%,-15.12%,"🛢 Oil&Gas, ⚡ Energy"
+Apellis Pharmaceuticals,$7.43 B,USA,$62.73,-2.05%,24.56%,N/A
+BWX Technologies,$7.25 B,USA,$79.24,-0.56%,30.91%,☢️ Uranium
+37 Interactive Entertainment,$7.32 B,China,$3.30,1.07%,32.00%,"🎮 Video games, Entertainment"
+MatsukiyoCocokara,$7.33 B,Japan,$17.54,-0.88%,-60.72%,"🛍️ Retail, 💊 Drugstore"
+FirstService,$7.30 B,Canada,$163.74,0.15%,32.34%,🏠 Real estate
+AngloGold Ashanti,$7.28 B,South Africa,$17.37,-3.50%,-7.56%,"⛏️ Mining, ⛏️ Gold mining"
+Krafton,$7.28 B,South Korea,$157.68,-2.59%,15.43%,"👩‍💻 Tech, 🎮 Video games"
+Dai Nippon Printing,$7.29 B,Japan,$29.33,-2.26%,46.87%,N/A
+Primerica,$7.40 B,USA,$211.46,1.55%,49.42%,N/A
+Elisa,$7.26 B,Finland,$45.29,0.19%,-14.69%,📡 Telecommunication
+Lotus Bakeries,$7.06 B,Belgium,"$8,698",2.94%,34.75%,🍴 Food
+Wingstop Restaurants,$7.27 B,USA,$247.18,0.58%,59.63%,"🍔 Restaurant chains, 🍴 Food"
+Klépierre,$7.26 B,France,$25.45,0.21%,9.18%,🏠 Real estate
+China Resources Gas Group,$7.27 B,Hong Kong,$3.14,1.45%,-15.14%,"🛢 Oil&Gas, ⚡ Energy"
+Realtek,$7.25 B,Taiwan,$14.14,0.68%,48.06%,"📟 Semiconductors, 👩‍💻 Tech"
+ENGIE Brasil,$7.24 B,Brazil,$8.88,0.88%,17.93%,"🔋 Electricity, 🚰 Utility companies, ⚡ Energy"
+Grupo Aeroportuario del Sureste,$7.13 B,Mexico,$231.90,-1.54%,-7.54%,"🛫 Airports, 🛣️ Infrastructure"
+ENN Energy,$7.24 B,China,$6.40,-2.25%,N/A,"🛢 Oil&Gas, ⚡ Energy"
+Hongkong Land,$7.23 B,Hong Kong,$3.28,0.61%,-26.29%,"🏠 Real estate, 💰 Investment"
+Gentex,$7.20 B,USA,$30.88,0.23%,12.29%,N/A
+Axalta,$7.23 B,USA,$32.88,0.80%,28.24%,🎨 Paint & Coating
+Aselsan,$7.28 B,Turkey,$1.60,-1.37%,-41.61%,🔫 Defense contractors
+APi Group,$7.25 B,USA,$30.80,1.55%,62.28%,👷 Engineering
+CTP N.V.,$7.20 B,Netherlands,$16.08,0.00%,39.58%,🏠 Real estate
+Futu Holdings,$7.26 B,Hong Kong,$52.06,1.76%,-23.37%,"💳 Financial services, 👩‍💻 Tech"
+Tokyu,$7.22 B,Japan,$12.04,0.29%,-4.06%,"🚂 Railways, 🚚 Transportation"
+Industrial Bank of Korea (IBK),$7.20 B,South Korea,$9.03,0.25%,9.32%,"🏦 Banks, 💳 Financial services"
+Zoomlion,$7.10 B,China,$0.51,0.00%,4.08%,"⚙️ Machinery manufacturing, 🏭 Manufacturing"
+Krung Thai Bank,$7.24 B,Thailand,$0.52,-1.09%,4.00%,"🏦 Banks, 💳 Financial services"
+Nippon Building Fund,$7.20 B,Japan,"$4,235",-0.16%,-6.39%,"🏠 Real estate, 💰 Investment"
+Indian Railway Catering & Tourism,$7.19 B,India,$8.99,-1.09%,2.63%,🚂 Railways
+Graphic Packaging,$7.13 B,USA,$23.30,-0.55%,4.86%,N/A
+Kongsberg Gruppen,$7.18 B,Norway,$40.87,2.30%,-0.17%,"🚀 Aerospace, 🔫 Defense contractors"
+SK Group,$7.18 B,South Korea,$130.11,0.65%,-16.19%,"📡 Telecommunication, 🖥️ IT services"
+Banco Sabadell,$7.17 B,Spain,$1.33,-0.44%,47.78%,"🏦 Banks, 💳 Financial services"
+Azrieli Group,$7.17 B,Israel,$59.15,0.55%,-16.34%,🏠 Real estate
+Israel Discount Bank,$7.17 B,Israel,$58.00,0.00%,0.85%,N/A
+Li Ning Company,$7.17 B,China,$2.73,-3.39%,N/A,👟 Footwear
+Jabal Omar Development,$7.17 B,Saudi Arabia,$6.21,0.09%,32.98%,🏠 Real estate
+TAL Education Group,$7.11 B,China,$11.14,-0.89%,84.74%,🎓 Education
+Aurobindo Pharma,$7.15 B,India,$12.21,-0.64%,118.82%,"💊 Pharmaceuticals, 🧬 Biotech"
+CACI,$7.18 B,USA,$322.62,-0.26%,5.83%,💼 Professional services
+Range Resources,$7.16 B,USA,$29.70,0.99%,20.19%,"🛢 Oil&Gas, ⚡ Energy"
+Aramark,$7.10 B,USA,$27.16,-0.04%,-33.66%,🍴 Food
+iA Financial,$7.14 B,Canada,$67.88,0.59%,22.82%,"🏦 Insurance, 💳 Financial services"
+New York Community Bank,$7.03 B,USA,$9.74,-0.81%,14.59%,"🏦 Banks, 💳 Financial services"
+Carsales,$7.10 B,Australia,$18.85,0.39%,29.11%,"🖥️ Internet, 👩‍💻 Tech, 🚘 Used car retailer, 🚗 Car retail"
+Universal Forest Products,$7.05 B,USA,$114.13,0.06%,40.07%,N/A
+Choice Properties REIT,$7.12 B,Canada,$9.85,-0.07%,-8.46%,"🏠 Real estate, 💰 Investment, 🏘️ REITs"
+Nanya Technology,$7.10 B,Taiwan,$2.29,1.98%,30.11%,"📟 Semiconductors, 👩‍💻 Tech, 🔌 Electronics, 💻 Tech Hardware"
+Taishin Financial Holdings,$7.10 B,Taiwan,$0.57,-0.56%,18.75%,"🏦 Banks, 💳 Financial services"
+SAAB AB,$7.04 B,Sweden,$52.39,1.87%,34.96%,"🚀 Aerospace, 🔫 Defense contractors"
+Carvana,$7.15 B,USA,$40.26,6.23%,711.69%,"🛒 E-Commerce, 🖥️ Internet, 🚘 Used car retailer, 🚗 Car retail"
+KBR,$7.05 B,USA,$52.24,-0.59%,1.56%,👷 Engineering
+VF Corporation,$7.05 B,USA,$18.14,0.17%,-36.73%,"👚 Clothing, 👟 Footwear"
