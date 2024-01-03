@@ -1,5 +1,5 @@
 # Intro2DS_FinalProject
-## Nguồn dũ liệu
+## Nguồn dữ liệu
 Dữ liệu được lấy từ trang https://companiesmarketcap.com/
 ## Phase 1: Thu thập và khám phá dữ liệu
 - Thu thập dữ liệu
