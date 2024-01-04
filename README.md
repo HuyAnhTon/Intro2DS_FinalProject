@@ -27,5 +27,19 @@ Dữ liệu được lấy từ trang https://companiesmarketcap.com/
 - Tiền xử lý dữ liệu: học được các thông lệ trong việc tiền xử lý dữ liệu, xử lý mất mát dữ liệu, chuẩn hoá.
 - Các quy trình cơ bản trong việc xây dựng một mô hình học máy đơn giản
 
+### Trần Anh Duy - 21120235
+
+**Khó khăn gặp phải**
+- Kiến thức toán học và thống kê cơ bản còn nhiều hạn chế.
+- Vì kiến thức về tài chính còn khá ít nên việc tìm những câu hỏi hay và trả lời chúng là việc khó khăn.
+- Kỷ năng tư duy và đánh giá các kết quả chưa được tốt.
+- Còn chưa thành thạo một số thư viện mới
+
+**Những điều học được từ Project**
+- Biết thêm được một số thư viện mới
+- Hiểu thêm về quy trình làm việc của lĩnh vực Data Science
+- Biết được thêm các cách thu thập dữ liệu hiệu quả
+- Hiểu hơn về việc xây dựng mô hình dữ liệu
+
 ## 2. Nhóm
 
