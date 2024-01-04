@@ -1,4 +1,13 @@
 # Intro2DS_FinalProject
+
+
+## Danh sách thành viên
+- 21120207 - Nguyễn Thái Bình
+- 21120235 - Trần Anh Duy
+- 21120240 - Nguyễn Vân Hào
+- 21120257 - Tôn Anh Huy
+
+
 ## I. Nguồn dữ liệu
 Dữ liệu được lấy từ trang https://companiesmarketcap.com/
 ## Phase 1: Thu thập và khám phá dữ liệu
@@ -12,6 +21,18 @@ Dữ liệu được lấy từ trang https://companiesmarketcap.com/
 # II. Tự đánh giá
 
 ## 1. Từng thành viên
+
+### Nguyễn Thái Bình - 21120207
+**Khó khăn gặp phải**
+- Tìm nguồn dữ liệu: do nhóm bị trùng đề tài, phải thay đổi lại nên việc tìm kiềm một nguồn dữ liệu mới tốn khá nhiều thời gian.
+- Gộp các thông tin đã thu thập được vào một bảng: do cấu trúc các bảng có phần khác nhau, nên việc gom chúng lại và đảm bảo không có sai sót xảy ra khá khó khăn.
+- Tìm ra câu hỏi: do không có kiến thức về lĩnh vực tài chính,nên em gặp nhiều khó khăn trong việc tìm ra câu hỏi và phân tích.
+
+**Những điều học được từ Project**
+- Sử dụng google colab
+- Một sô thuật ngữ kinh tế
+- Sử dụng Devtool để hỗ trợ cho việc thu thập dữ liệu 
+
 
 ### Tôn Anh Huy - 21120257
 
@@ -42,4 +63,7 @@ Dữ liệu được lấy từ trang https://companiesmarketcap.com/
 - Hiểu hơn về việc xây dựng mô hình dữ liệu
 
 ## 2. Nhóm
+**Nếu có nhiều thời gian hơn**
+- Tìm cách khác để xử lí dữ liệu bị thiếu ở cột Category thay vì xóa đi.
+- Huấn luyện lại mô hình để đạt độ chính xác cao hơn.
 
