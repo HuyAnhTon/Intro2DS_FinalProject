@@ -62,6 +62,18 @@ Dữ liệu được lấy từ trang https://companiesmarketcap.com/
 - Biết được thêm các cách thu thập dữ liệu hiệu quả
 - Hiểu hơn về việc xây dựng mô hình dữ liệu
 
+### Nguyễn Vân Hào - 21120240
+
+**Khó khăn gặp phải**
+- Chưa biết cách đặt câu hỏi phù hợp.
+- Vì không học kinh tế nên gặp nhiều khó khăn trong việc phân tích.
+- Còn thiếu nhiều kiến thức cơ bản.
+
+**Những điều học được từ Project**
+- Áp dụng được quy trình làm việc của Khoa học dữ liệu.
+- Biết thêm một số kiến thức về kinh tế.
+- Sử dụng một số công cụ thành thạo hơn.
+
 ## 2. Nhóm
 **Nếu có nhiều thời gian hơn**
 - Tìm cách khác để xử lí dữ liệu bị thiếu ở cột Category thay vì xóa đi.
